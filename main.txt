@@ -767,6 +767,10 @@ chatgpt.com##button.hover\:bg-\[\#0000FF\].text-\[\#fff\].bg-\[\#3C46FF\].font-m
 ! Collabe subs
 chatgpt.com##.px-2.rounded-lg.m-0.hover\:bg-token-sidebar-surface-secondary.items-center.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus\:ring-0.cursor-pointer.text-sm.p-2\.5.gap-2.flex.group
 
+chatgpt.com##.div.flex.flex-col.pt-2.empty\:hidden.juice\:py-2.dark\:border-white\/20 > a.group.flex.gap-2.p-2.5.text-sm.cursor-pointer.focus\:ring-0.radix-disabled\:pointer-events-none.radix-disabled\:opacity-50.group.items-center.hover\:bg-token-sidebar-surface-secondary.rounded-lg > span.flex.w-full.flex-row.flex-wrap-reverse.justify-between > span.flex.items-center.gap-2 > span.flex.h-7.w-7.items-center.justify-center.rounded-full.border.border-token-border-light > svg.icon-sm.shrink-0
+chatgpt.com##.div[role="menuitem"].flex.items-center.m-1.5.p-2.5.text-sm.cursor-pointer.focus-visible\:outline-0.radix-disabled:pointer-events-none.radix-disabled\:opacity-50.group.relative.hover\:bg-[#f5f5f5].focus-visible\:bg-[#f5f5f5].dark\:hover\:bg-token-main-surface-secondary.dark\:focus-visible\:bg-token-main-surface-secondary.rounded-md.my-0.px-3.mx-2.radix-state-open\:bg-[#f5f5f5].dark\:radix-state-open\:bg-token-main-surface-secondary.gap-2.5.py-3[tabindex="-1"][data-orientation="vertical"][data-radix-collection-item] > div.flex.items-center.justify-center.text-token-text-secondary.h-5.w-5 > svg[xmlns="http://www.w3.org/2000/svg"][width="24"][height="24"][fill="none"][viewBox="0 0 24 24"].h-5.w-5.shrink-0
+chatgpt.com##.flex.items-center.m-1.5.p-2.5.text-sm.cursor-pointer.focus-visible\:outline-0.radix-disabled.pointer-events-none.radix-disabled\:opacity-50.group.relative.hover\:bg-[#f5f5f5].focus-visible\:bg-[#f5f5f5].dark\:hover\:bg-token-main-surface-secondary.dark\:focus-visible\:bg-token-main-surface-secondary.rounded-md.my-0.px-3.mx-2.radix-state-open\:bg-[#f5f5f5].dark\:radix-state-open\:bg-token-main-surface-secondary.gap-2.5.py-3
+
 
 
 
