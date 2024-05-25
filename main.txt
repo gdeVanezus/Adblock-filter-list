@@ -610,6 +610,7 @@ www.renderforest.com##.jBXCZi.styled__InvoiceContainer-sc-jot44d-0
 www.renderforest.com##.dnndTd.styled__SubscriptionContainer-sc-er9bwa-0
 
 
+##a.group.flex.gap-2.p-2\.5.text-sm.cursor-pointer.focus\:ring-0.radix-disabled\:pointer-events-none.radix-disabled\:opacity-50.group.items-center.hover\:bg-token-sidebar-surface-secondary.rounded-lg
 
 
 
