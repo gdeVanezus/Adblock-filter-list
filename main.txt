@@ -494,6 +494,7 @@ mpstats.io##div.col-md-4.col-sm-6:nth-of-type(1) > .self-align-center.card-borde
 
 
 
+##extensions-manager
 
 artgrid.io##.other-plan
 artgrid.io##.social-login
