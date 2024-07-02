@@ -855,7 +855,8 @@ www.pipiads.com##.page-order
 
 
 
-
+! РОФЛ УБРАТЬ ПОТОМ
+chatgpt.com##.px-3.text-base.md\:px-4.m-auto.md\:px-5.lg\:px-1.xl\:px-5
 
 
 ! Кнопки входа соц сетей
