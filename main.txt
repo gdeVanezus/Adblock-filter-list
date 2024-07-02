@@ -855,11 +855,7 @@ www.pipiads.com##.page-order
 
 
 
-! РОФЛ УБРАТЬ ПОТОМ
-! chatgpt.com##.px-3.text-base.md\:px-4.m-auto.md\:px-5.lg\:px-1.xl\:px-5
-
 ! ГПТ КРУЖОК АВА
-chatgpt.com###radix-\:r5\:
 chatgpt.com##.flex.h-10.w-10.items-center.justify-center.rounded-full.hover\:bg-token-main-surface-secondary.focus-visible\:bg-token-main-surface-secondary.focus-visible\:outline-0
 
 
