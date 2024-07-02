@@ -766,6 +766,7 @@ chatgpt.com##button.hover\:bg-\[\#0000FF\].text-\[\#fff\].bg-\[\#3C46FF\].font-m
 
 ! Collabe subs
 chatgpt.com##.px-2.rounded-lg.m-0.hover\:bg-token-sidebar-surface-secondary.items-center.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus\:ring-0.cursor-pointer.text-sm.p-2\.5.gap-2.flex.group
+chatgpt.com##.flex.h-10.w-10.items-center.justify-center.rounded-full.hover\:bg-token-main-surface-secondary.focus-visible\:bg-token-main-surface-secondary.focus-visible\:outline-0
 
 
 
@@ -852,9 +853,6 @@ www.pipiads.com##.page-order
 
 
 
-
-! ГПТ КРУЖОК АВА
-chatgpt.com##.flex.h-10.w-10.items-center.justify-center.rounded-full.hover\:bg-token-main-surface-secondary.focus-visible\:bg-token-main-surface-secondary.focus-visible\:outline-0
 
 
 ! Кнопки входа соц сетей
