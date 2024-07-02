@@ -481,8 +481,6 @@ targethunter.ru##input[type="password"]
 adheart.me##DIV[class="sc-61dba7e5-4 kmlmJD ml-auto"]
 
 
-##div[role="menuitem"].flex.items-center.m-1\.5.p-2\.5.text-sm.cursor-pointer.focus-visible\:outline-0.radix-disabled\:pointer-events-none.radix-disabled\:opacity-50.group.relative.hover\:bg-\[\#f5f5f5\].focus-visible\:bg-\[\#f5f5f5\].dark\:hover\:bg-token-main-surface-secondary.dark\:focus-visible\:bg-token-main-surface-secondary.rounded-md.my-0.px-3.mx-2.radix-state-open\:bg-\[\#f5f5f5\].dark\:radix-state-open\:bg-token-main-surface-secondary.gap-2\.5.py-3
-
 mpstats.io##.be-footer
 mpstats.io##.be-user-nav.float-right.navbar-nav.nav
 mpstats.io##.col-xl-12 > .card > .card-body
