@@ -790,6 +790,7 @@ discord.com##div[aria-label="Настроить канал"]
 discord.com##div[aria-label="Создание приглашения"]
 discord.com##button[aria-label="Создать канал"]
 discord.com###channel-context
+discord.com##.scroller_d90b3d.thin_c49869.scrollerBase_c49869
 
 ! ПКМ по участникам
 discord.com###user-context
