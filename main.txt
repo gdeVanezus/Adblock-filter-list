@@ -965,6 +965,9 @@ discord.com##.scrollerBase_c49869.none_c49869.scroller_fea3ef > div:nth-of-type(
 discord.com##div.listItem_c96c45:nth-of-type(5)
 discord.com##.searchBar_f0963d
 discord.com##.recentsIcon_ea0547
+discord.com##.anchorUnderlineOnHover_af404b.anchor_af404b
+discord.com##.inviteToolbar_c2739c > .divider_fc4f04
+
 
 
 ! Sep 14, 2024 https://www.midjourney.com
