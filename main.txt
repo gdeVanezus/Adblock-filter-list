@@ -771,50 +771,6 @@ chatgpt.com##.flex.h-10.w-10.items-center.justify-center.rounded-full.hover\:bg-
 
 
 
-! 2023-07-10 https://discord.com
-! Уведомление сверху о телефоне
-discord.com##.colorDefault-1e8tQv.notice-2HEN-u
-! Панель слева
-discord.com##.tutorialContainer-2jwoiB > .listItem-3SmSlK
-discord.com##.tree-3agP2X
-discord.com##.guilds-2JjMmN.wrapper-1_HaEi
-! Панель снизу с аккаунтом настройками
-discord.com##.container-YkUktl
-! Панель с кнопками сверху
-discord.com##.themed-Hp1KC_.container-ZMc96U.title-31SJ6t
-! Хэдер в чатах
-discord.com##.dropdownButton-1-5aBs.button-2BMPJJ
-discord.com##.header-3OsQeK
-discord.com##section[aria-label="Пользовательская область"]
-discord.com##div[aria-label="Настроить канал"]
-discord.com##div[aria-label="Создание приглашения"]
-discord.com##button[aria-label="Создать канал"]
-discord.com###channel-context
-discord.com##.scroller_d90b3d.thin_c49869.scrollerBase_c49869
-
-! ПКМ по участникам
-discord.com###user-context
-
-! Создать сервер
-discord.com##.tutorialContainer_dc6fde
-
-! Создать ветку через ПКМ по сообщению
-discord.com###message-thread
-discord.com###message-actions-thread
-discord.com##div[aria-label="Создать ветку"]
-
-discord.com##div[aria-label="Ветки"]
-discord.com##div[aria-label="Параметры уведомлений"]
-discord.com##div[aria-label="Закреплённые сообщения"]
-discord.com##div[aria-label="Почта"]
-discord.com##div[aria-label="Помощь"]
-discord.com##div[aria-label="Серверы"] + div
-
-
-
-
-
-
 ! 2023-11-18 https://app.leonardo.ai
 app.leonardo.ai##.css-13rbjse
 app.leonardo.ai##.css-1f0xmx1
