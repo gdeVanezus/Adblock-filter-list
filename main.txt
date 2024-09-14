@@ -963,9 +963,11 @@ discord.com##.scrollerBase_eed6a8.thin_eed6a8.scroller_cedfaf > .content_eed6a8
 discord.com##.acronym_f90abb.childWrapperNoHoverBg_f90abb.childWrapper_f90abb
 discord.com##.scrollerBase_c49869.none_c49869.scroller_fea3ef > div:nth-of-type(3)
 discord.com##div.listItem_c96c45:nth-of-type(5)
+discord.com##.searchBar_f0963d
+discord.com##.recentsIcon_ea0547
+
 
 ! Sep 14, 2024 https://www.midjourney.com
 www.midjourney.com##.md\:p-8.p-4.min-h-screen.w-full.mx-auto
 www.midjourney.com##.buttonActiveBackground.buttonHoverBackground.buttonActiveOpacity.buttonHoverOpacity.dark\:bg-dark-750.p-2.bg-light-50.rounded-full.gap-2.justify-start.items-center.cursor-pointer.shrink.w-full.flex.group.select-none.buttonActiveRing
 
-##.searchBar_f0963d
