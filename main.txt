@@ -896,3 +896,104 @@ app.flair.ai##.active\:shadow-lime-900\/5.hover\:shadow-lime-600\/5.shadow-lime-
 app.flair.ai##button.hover\:border-lime-500.cursor-pointer.hover\:text-lime-500.text-zinc-300.box-border.shadow-md.items-center.justify-center.flex-row.flex.py-2.px-2.my-4.transition-colors.border-zinc-700.border.border-solid.rounded-md.w-full:nth-of-type(1)
 app.flair.ai##.my-2.items-center.flex-row.flex.w-full
 
+
+! discord new
+
+
+discord.com##button.grow_dd4f85.colorBrand_dd4f85.lookBlank_dd4f85.button_dd4f85.enabled_adca65.button_adca65:nth-of-type(3)
+discord.com##.addButtonIcon_a08117 > path
+discord.com##.dropdownButton_ee69e0.button_a79c58
+discord.com##.input_cebd1c
+discord.com##.container_cebd1c
+discord.com##.dropdownIcon_f6639d
+discord.com##.selectPositionTop_f6639d.lookFilled_f6639d.marginBottom8_f7730b.searchable_f6639d.select_f6639d
+||media.discordapp.net/attachments/1284459719221710882/1284461238532702208/stdomik002r_testy_432c8544-ed63-44dc-9c56-3e8698ef2dcf.png?ex=66e6b73f&is=66e565bf&hm=0464f1a24aa10a223256965be06c1797b5ec75824373c7c091d5201281670181&=&format=webp&quality=lossless&width=350&height=350$image
+discord.com##.channel-settings-overview > .children_a6ae9b > div
+discord.com##.titleCaret_cd9517
+||media.discordapp.net/attachments/1284459719221710882/1284461238532702208/stdomik002r_testy_432c8544-ed63-44dc-9c56-3e8698ef2dcf.png?ex=66e6b73f&is=66e565bf&hm=0464f1a24aa10a223256965be06c1797b5ec75824373c7c091d5201281670181&=&format=webp&quality=lossless&width=350&height=350$image
+||media.discordapp.net/attachments/1284459719221710882/1284461238532702208/stdomik002r_testy_432c8544-ed63-44dc-9c56-3e8698ef2dcf.png?ex=66e6b73f&is=66e565bf&hm=0464f1a24aa10a223256965be06c1797b5ec75824373c7c091d5201281670181&=&format=webp&quality=lossless&width=350&height=350$image
+||media.discordapp.net/attachments/1284459719221710882/1284461238532702208/stdomik002r_testy_432c8544-ed63-44dc-9c56-3e8698ef2dcf.png?ex=66e6b73f&is=66e565bf&hm=0464f1a24aa10a223256965be06c1797b5ec75824373c7c091d5201281670181&=&format=webp&quality=lossless&width=350&height=350$image
+discord.com##div.permissionsForm_a49993:nth-of-type(1)
+discord.com##.layoutStyle_a49993.content_ff90b2
+||media.discordapp.net/attachments/1284459719221710882/1284461238532702208/stdomik002r_testy_432c8544-ed63-44dc-9c56-3e8698ef2dcf.png?ex=66e6b73f&is=66e565bf&hm=0464f1a24aa10a223256965be06c1797b5ec75824373c7c091d5201281670181&=&format=webp&quality=lossless&width=350&height=350$image
+discord.com##.headerSection_edb39d
+||media.discordapp.net/attachments/1284459719221710882/1284461238532702208/stdomik002r_testy_432c8544-ed63-44dc-9c56-3e8698ef2dcf.png?ex=66e6b73f&is=66e565bf&hm=0464f1a24aa10a223256965be06c1797b5ec75824373c7c091d5201281670181&=&format=webp&quality=lossless&width=350&height=350$image
+discord.com##.tabBarItemContainer_e7c031
+discord.com##.contentColumnWide_c25c6d.contentColumn_c25c6d
+discord.com##.contentColumnDefault_c25c6d.contentColumn_c25c6d
+discord.com##.scrollerBase_c49869.auto_c49869.contentRegionShownSidebar_c25c6d.contentRegionScroller_c25c6d
+discord.com##.scrollerBase_c49869.none_c49869.scroller_d90b3d > div > .colorDefault_d90b3d.labelContainer_d90b3d.item_d90b3d
+discord.com##.separator_d90b3d
+discord.com###account > .scrollerBase_c49869.none_c49869.scroller_d90b3d
+discord.com##.userTagUsername_c32acf
+discord.com##.biteSize_c32acf.nickname_c32acf.defaultColor_e9e35f.heading-lg\/bold_dc00ef.defaultColor_a595eb
+discord.com##.usernameRow_c32acf
+discord.com##.background_d0a252.biteSize_d0a252.visibleContainer_d0a252 > .statusBubbleOuterAddStatusCursor_d0a252.statusBubbleSingleLineWithTextShape_d0a252.statusBubbleShape_d0a252.biteSize_d0a252.statusBubbleOuter_d0a252 > .statusBubbleWithTextPadding_d0a252.statusBubbleSingleLineWithTextShape_d0a252.statusBubbleShape_d0a252.statusBubble_d0a252
+discord.com##.background_d0a252.biteSize_d0a252.visibleContainer_d0a252 > .statusBubbleOuterAddStatusCursor_d0a252.statusBubbleSingleLineWithTextShape_d0a252.statusBubbleShape_d0a252.biteSize_d0a252.statusBubbleOuter_d0a252
+discord.com##.scrollerBase_eed6a8.auto_eed6a8.contentRegionScroller_c25c6d.customScroller_c25c6d
+discord.com###message-report > .label_d90b3d
+discord.com###message-report > .iconContainer_d90b3d > .icon_d90b3d > path
+discord.com###message-report
+discord.com##.input_cedfaf.input_f8bc55.inputDefault_f8bc55
+discord.com##.grow_dd4f85.sizeSmall_dd4f85.colorBrand_dd4f85.lookFilled_dd4f85.button_dd4f85.copyButton_cedfaf > .contents_dd4f85
+discord.com##.grow_dd4f85.sizeSmall_dd4f85.colorBrand_dd4f85.lookFilled_dd4f85.button_dd4f85.copyButton_cedfaf
+discord.com##.noScroll_eaf7c3.settingsContent_eaf7c3
+
+discord.com##.cursorPointer_aaab09 > svg
+discord.com##.footerSeparator_f9a4c9.noPadding_cedfaf.footer_f9a4c9.noWrap_ec1a20.alignStretch_ec1a20.justifyStart_ec1a20.horizontalReverse_dc333f.flex_dc333f
+discord.com##.addFriendInputWrapper_de812f
+
+discord.com##div.themed_a0.item_a0.expanded_f0cd33.tab_f0cd33:nth-of-type(1)
+discord.com##.size32_e258f5.secondary_e258f5.button_e258f5 > svg > path
+discord.com##.size32_e258f5.secondary_e258f5.button_e258f5
+discord.com##.innerWrapper_c511e4
+discord.com##.container_a8b566
+discord.com##.pageWrapper_e77fa3
+discord.com##.grow_dd4f85.sizeMedium_dd4f85.lookFilled_dd4f85.button_dd4f85.collapseBtn_a4a127
+||media.discordapp.net/attachments/1276937478997278844/1284442461820944510/stdomik002r_Modern_and_sleek_logo_design_for_a_VPN_client_featu_bbc8d0ab-c36f-47d2-8a8b-66aa5346e5a3.png?ex=66e6a5c2&is=66e55442&hm=668ded7d04e491dde19faaea006311cdef9d80d5a97c26b264bc73b5619e7b24&=&format=webp&quality=lossless&width=350&height=350$image
+||media.discordapp.net/attachments/1276937478997278844/1284442461820944510/stdomik002r_Modern_and_sleek_logo_design_for_a_VPN_client_featu_bbc8d0ab-c36f-47d2-8a8b-66aa5346e5a3.png?ex=66e6a5c2&is=66e55442&hm=668ded7d04e491dde19faaea006311cdef9d80d5a97c26b264bc73b5619e7b24&=&format=webp&quality=lossless&width=350&height=350$image
+||media.discordapp.net/attachments/1276937478997278844/1284442461820944510/stdomik002r_Modern_and_sleek_logo_design_for_a_VPN_client_featu_bbc8d0ab-c36f-47d2-8a8b-66aa5346e5a3.png?ex=66e6a5c2&is=66e55442&hm=668ded7d04e491dde19faaea006311cdef9d80d5a97c26b264bc73b5619e7b24&=&format=webp&quality=lossless&width=350&height=350$image
+discord.com##.primary_f9d37d.themeColor_f9d37d.colorPrimary_dd4f85.lookFilled_dd4f85.button_dd4f85.icon_f9d37d.button_f9d37d
+discord.com###user-bot-profile-overflow-menu-block
+discord.com###user-bot-profile-overflow-menu-report-user
+discord.com##.fullSize_cb78f1.wrapper_cb78f1 > div > .bannerColor_f9d37d.lookFilled_dd4f85.button_dd4f85.banner_f9d37d.icon_f9d37d.button_f9d37d
+discord.com##section.section_ba4d80:nth-of-type(3)
+discord.com##.textAreaForUserProfile_d0696b.textAreaWithoutAttachmentButton_d0696b.fontSize16Padding_d0696b.slateTextArea_e52116.editor_a552a6.markup_f8f345
+discord.com##.slateContainer_e52116.textAreaSlate_d0696b.textArea_d0696b.editor_c59af2
+discord.com##.themedBackground_d0696b.scrollableContainer_d0696b.inner_c59af2
+discord.com##.active_edf32f.mention_edf32f.unreadMentionsBar_fea3ef.bar_edf32f
+discord.com##div.themed_a0.item_a0:nth-of-type(13)
+discord.com##.themed_a0.selected_a0.item_a0
+discord.com##div.header_a0:nth-of-type(24)
+discord.com##.themed_a0.item_a0.serverBoostTabItem_f7189e
+discord.com##div.separator_a0:nth-of-type(26)
+discord.com##div.themed_a0.item_a0:nth-of-type(33)
+discord.com##button.container_a47d49:nth-of-type(1)
+discord.com##button.container_a47d49:nth-of-type(2)
+discord.com##button.container_a47d49:nth-of-type(3)
+discord.com##button.container_a47d49:nth-of-type(4)
+discord.com##button.container_a47d49:nth-of-type(5)
+discord.com##button.container_a47d49:nth-of-type(6)
+discord.com##button.container_a47d49:nth-of-type(7)
+discord.com##.scrollerBase_c49869.thin_c49869.templatesList_fc9dae.content_f9a4c9
+discord.com##.footerSeparator_f9a4c9.footer_fc9dae.footer_f9a4c9.noWrap_ec1a20.alignStretch_ec1a20.justifyStart_ec1a20.horizontalReverse_dc333f.flex_dc333f
+discord.com##div.clickable_d808b0.container_d808b0.categoryItem_c72b37 > .wrappedLayout_d808b0.layout_d808b0.itemInner_c72b37
+discord.com##.wrappedLayout_d808b0.layout_d808b0.itemInner_f75d68
+discord.com##.anchorUnderlineOnHover_af404b.anchor_af404b > .clickable_fc4f04.iconWrapper_fc4f04 > .icon_fc4f04 > path
+discord.com##.icon_fc4f04 > circle
+discord.com##.anchorUnderlineOnHover_af404b.anchor_af404b > .clickable_fc4f04.iconWrapper_fc4f04 > .icon_fc4f04
+discord.com##.layout_d808b0.memberInner_a31c43
+discord.com##.subtitle_f9902b.text-sm\/normal_dc00ef
+discord.com###message-actions-report
+discord.com##.container_fb1469
+discord.com##.tier2MarketingCard_eabbe0.tier2_c87d73.card_c87d73
+discord.com##.tier0MarketingCard_eabbe0.card_c87d73.tier0_c87d73
+discord.com##.scrollerBase_c49869.thin_c49869.skuSelectModalContent_f92df2.content_f9a4c9
+discord.com##.skuSelectModalHeader_f92df2.header_f9a4c9.noWrap_ec1a20.alignCenter_ec1a20.justifyStart_ec1a20.horizontal_dc333f.flex_dc333f
+discord.com##.rootWithShadow_f9a4c9.fullscreenOnMobile_f9a4c9.small_f9a4c9.root_f9a4c9.root_b93e3f
+discord.com##div.themed_a0.item_a0:nth-of-type(3)
+discord.com##.scrollerBase_c49869.thin_c49869.inner_effbe2
+||cdn.discordapp.com/avatars/936929561302675456/f6ce562a6b4979c4b1cbc5b436d3be76.webp?size=80$image
+discord.com##div.themed_a0.item_a0:nth-of-type(38)
+discord.com##.background_ae3c77
+discord.com##.themed_a0.item_a0.premiumTab_c10c74
