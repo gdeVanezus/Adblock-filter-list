@@ -968,3 +968,4 @@ discord.com##div.listItem_c96c45:nth-of-type(5)
 www.midjourney.com##.md\:p-8.p-4.min-h-screen.w-full.mx-auto
 www.midjourney.com##.buttonActiveBackground.buttonHoverBackground.buttonActiveOpacity.buttonHoverOpacity.dark\:bg-dark-750.p-2.bg-light-50.rounded-full.gap-2.justify-start.items-center.cursor-pointer.shrink.w-full.flex.group.select-none.buttonActiveRing
 
+##.searchBar_f0963d
