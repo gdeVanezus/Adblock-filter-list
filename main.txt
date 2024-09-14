@@ -897,8 +897,6 @@ app.flair.ai##button.hover\:border-lime-500.cursor-pointer.hover\:text-lime-500.
 app.flair.ai##.my-2.items-center.flex-row.flex.w-full
 
 
-! discord new
-
 
 discord.com##button.grow_dd4f85.colorBrand_dd4f85.lookBlank_dd4f85.button_dd4f85.enabled_adca65.button_adca65:nth-of-type(3)
 discord.com##.addButtonIcon_a08117 > path
