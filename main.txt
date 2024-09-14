@@ -854,6 +854,10 @@ app.flair.ai##.my-2.items-center.flex-row.flex.w-full
 
 
 
+! 14 сент. 2024 г. https://discord.com
+
+
+
 discord.com##button.grow_dd4f85.colorBrand_dd4f85.lookBlank_dd4f85.button_dd4f85.enabled_adca65.button_adca65:nth-of-type(3)
 discord.com##.addButtonIcon_a08117 > path
 discord.com##.dropdownButton_ee69e0.button_a79c58
@@ -951,3 +955,16 @@ discord.com##.scrollerBase_c49869.thin_c49869.inner_effbe2
 discord.com##div.themed_a0.item_a0:nth-of-type(38)
 discord.com##.background_ae3c77
 discord.com##.themed_a0.item_a0.premiumTab_c10c74
+
+! Sep 14, 2024 https://discord.com
+discord.com##.fade_eed6a8.scrollerBase_eed6a8.thin_eed6a8.scroller_c47fa9
+discord.com##.inviteRow_cedfaf
+discord.com##.scrollerBase_eed6a8.thin_eed6a8.scroller_cedfaf > .content_eed6a8
+discord.com##.acronym_f90abb.childWrapperNoHoverBg_f90abb.childWrapper_f90abb
+discord.com##.scrollerBase_c49869.none_c49869.scroller_fea3ef > div:nth-of-type(3)
+discord.com##div.listItem_c96c45:nth-of-type(5)
+
+! Sep 14, 2024 https://www.midjourney.com
+www.midjourney.com##.md\:p-8.p-4.min-h-screen.w-full.mx-auto
+www.midjourney.com##.buttonActiveBackground.buttonHoverBackground.buttonActiveOpacity.buttonHoverOpacity.dark\:bg-dark-750.p-2.bg-light-50.rounded-full.gap-2.justify-start.items-center.cursor-pointer.shrink.w-full.flex.group.select-none.buttonActiveRing
+
