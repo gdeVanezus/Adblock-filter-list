@@ -973,4 +973,26 @@ discord.com##.inviteToolbar_c2739c > .divider_fc4f04
 ! Sep 14, 2024 https://www.midjourney.com
 www.midjourney.com##.md\:p-8.p-4.min-h-screen.w-full.mx-auto
 www.midjourney.com##.buttonActiveBackground.buttonHoverBackground.buttonActiveOpacity.buttonHoverOpacity.dark\:bg-dark-750.p-2.bg-light-50.rounded-full.gap-2.justify-start.items-center.cursor-pointer.shrink.w-full.flex.group.select-none.buttonActiveRing
-
+www.midjourney.com##.dark\:border-dark-800.border-light-100.border.lg\:max-w-none.dark\:shadow-black\/30.shadow-light-200\/30.shadow-md.lg\:flex.dark\:bg-\[hsl\(228deg_12\%_8\%\)\].transition-\[border\].rounded-3xl.overflow-hidden.flex-col.max-w-lg.h-full.mx-auto > .lg\:p-6.lg\:justify-start.lg\:flex-col.lg\:shrink-0.lg\:flex.text-left.\!pb-8.py-8.px-6.relative > .mt-6 > .dark\:active\:\!ring-dark-600.active\:\!ring-light-950.dark\:active\:bg-dark-750.dark\:hover\:bg-dark-600.active\:bg-light-900.hover\:bg-light-850.text-white.dark\:shadow-button.dark\:bg-dark-700.bg-light-800.disabled\:pointer-events-none.dark\:disabled\:text-dark-500.disabled\:text-light-600.disabled\:bg-opacity-40.select-none.buttonActiveRing.rounded-md.transition.\!text-base.font-medium.w-full.px-1.empty\:hidden.py-2\.5.items-center
+www.midjourney.com##.dark\:border-dark-800.border-light-100.border.lg\:max-w-none.dark\:shadow-black\/30.shadow-light-200\/30.shadow-md.lg\:flex.dark\:bg-\[hsl\(228deg_12\%_8\%\)\].transition-\[border\].rounded-3xl.overflow-hidden.flex-col.max-w-lg.h-full.mx-auto > .lg\:p-6.lg\:justify-start.lg\:flex-col.lg\:shrink-0.lg\:flex.text-left.\!pb-8.py-8.px-6.relative > .hover\:underline.opacity-80.font-medium.text-sm.text-center.px-1\.5.p-1.gap-1.justify-center.items-center.w-full.flex.mt-2.ml-1
+www.midjourney.com##.dark\:border-dark-800.border-light-100.border.lg\:max-w-none.dark\:shadow-black\/30.shadow-light-200\/30.shadow-md.lg\:flex.dark\:bg-\[hsl\(228deg_12\%_8\%\)\].transition-\[border\].rounded-3xl.overflow-hidden.flex-col.max-w-lg.h-full.mx-auto
+www.midjourney.com##.gap-4.flex-wrap.grid.relative.items-auto
+www.midjourney.com##.dark\:text-dark-400.text-light-700.text-base.text-left > .hover\:underline.text-splash
+www.midjourney.com###headlessui-disclosure-button-\:r14\: > .pr-12.cursor-default.mt-2
+www.midjourney.com###headlessui-disclosure-button-\:r14\:
+www.midjourney.com##.text-center.items-center.flex-col.w-full.flex > .w-full
+www.midjourney.com##.md\:py-24.md\:px-16.xs\:px-8.py-12.px-4.max-w-\[100rem\].mx-auto
+www.midjourney.com##.dark\:border-dark-800.border-light-100.border-4.dark\:bg-dark-800.bg-light-100.rounded-full.gap-1.flex.z-0.relative
+www.midjourney.com##button.hoverUpSmall.dark\:border-dark-700.dark\:bg-dark-800.bg-light-50.\!border.rounded-md.w-full.px-4.p-4.items-center.text-center.flex-col.flex:nth-of-type(1)
+www.midjourney.com##.px-2.gap-2.flex.mt-4
+www.midjourney.com##.dark\:bg-dark-800.bg-light-bg.rounded-b-xl.mt-0.sm\:pt-2.sm\:p-6.pb-4.px-4
+www.midjourney.com##.false.undefined.\.dark\:bg-dark-800.\.bg-light-bg.sm\:p-6.py-6.px-4.shrink-0
+www.midjourney.com##.dark\:bg-dark-900.bg-light-800.py-5.p-6.text-white.items-center.flex
+www.midjourney.com##.sm\:scale-100.opacity-100.undefined.sm\:align-middle.sm\:max-w-lg.sm\:my-8.transition-all.shadow-xl.w-full.dark\:border-dark-850.border-light-100.border.rounded-2xl.align-bottom.text-left.dark\:bg-dark-800.bg-light-bg.overflow-auto.flex-col.inline-flex.m-2.relative
+www.midjourney.com##.lg\:flex.hidden.gap-2 > button.px-4.font-semibold.text-sm.dark\:bg-dark-800.bg-light-100.rounded-full.gap-2.buttonHoverBackground.buttonActiveBackground.buttonActiveOpacity.buttonHoverOpacity.buttonActiveRing.focus\:\.outline-none.group\/button.group-button.py-1\.5.items-center.select-none.cursor-pointer.disabled\:\!text-opacity-20.disabled\:pointer-events-none.justify-center.dark\:text-dark-primary.text-light-primary.relative.flex
+www.midjourney.com##div.dark\:shadow-black\/30.shadow-light-200\/30.shadow-md.bg-light-bg.dark\:bg-\[hsl\(228deg_12\%_8\%\)\].dark\:border-dark-800.border-light-100.border.rounded-2xl.flex.p-6.gap-4.flex-col.col-span-1:nth-of-type(2)
+www.midjourney.com##form.w-full > .dark\:active\:\!ring-dark-600.active\:\!ring-light-950.dark\:active\:bg-dark-750.dark\:hover\:bg-dark-600.active\:bg-light-900.hover\:bg-light-850.text-white.dark\:shadow-button.dark\:bg-dark-700.bg-light-800.disabled\:pointer-events-none.dark\:disabled\:text-dark-500.disabled\:text-light-600.disabled\:bg-opacity-40.select-none.buttonActiveRing.rounded-md.transition.\!text-base.font-medium.w-full.px-1.empty\:hidden.py-2\.5.items-center
+www.midjourney.com##.lg\:grid.gap-4.flex-col.flex-1.flex
+www.midjourney.com##.min-h-screen.w-full.mx-auto
+www.midjourney.com###accountButton > svg
+www.midjourney.com##.buttonActiveBackground.buttonHoverBackground.buttonActiveOpacity.buttonHoverOpacity.dark\:bg-dark-750.p-2.bg-light-50.rounded-full.gap-2.justify-start.items-center.cursor-pointer.shrink.w-full.flex.group.select-none.buttonActiveRing
