@@ -996,3 +996,20 @@ www.midjourney.com##.lg\:grid.gap-4.flex-col.flex-1.flex
 www.midjourney.com##.min-h-screen.w-full.mx-auto
 www.midjourney.com###accountButton > svg
 www.midjourney.com##.buttonActiveBackground.buttonHoverBackground.buttonActiveOpacity.buttonHoverOpacity.dark\:bg-dark-750.p-2.bg-light-50.rounded-full.gap-2.justify-start.items-center.cursor-pointer.shrink.w-full.flex.group.select-none.buttonActiveRing
+
+
+discord.com##div.listItem_c96c45:nth-of-type(4)
+discord.com##.closedFolderIconWrapper_bc7085
+discord.com##.folderIconWrapper_bc7085
+discord.com##.folder_bc7085
+discord.com##div.wrapper_bc7085 > .listItem_c96c45 > div > .wrapper_c5f96a > .svg_c5f96a > foreignObject
+discord.com##div.wrapper_bc7085 > .listItem_c96c45 > div > .wrapper_c5f96a > .svg_c5f96a
+discord.com##div.wrapper_bc7085 > .listItem_c96c45 > div > .wrapper_c5f96a
+discord.com##.selected_f90abb.wrapper_f90abb
+discord.com##.selected_a5ad63.blobContainer_a5ad63 > .wrapper_c5f96a > .svg_c5f96a > foreignObject
+discord.com##.selected_a5ad63.blobContainer_a5ad63 > .wrapper_c5f96a > .svg_c5f96a
+discord.com##.selected_a5ad63.blobContainer_a5ad63 > .wrapper_c5f96a
+discord.com##div.wrapper_bc7085 > .listItem_c96c45 > .wrapper_c4cd66.pill_a5ad63
+discord.com##.wrapper_c4cd66.pill_f36a5a
+discord.com##.scrollerBase_c49869.none_c49869.scroller_fea3ef > div > div.listItem_c96c45 > .wrapper_c4cd66.pill_a5ad63
+discord.com##.guildSeparator_d0c57e
