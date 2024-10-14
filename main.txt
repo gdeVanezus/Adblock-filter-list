@@ -613,21 +613,7 @@ www.renderforest.com##.dnndTd.styled__SubscriptionContainer-sc-er9bwa-0
 
 
 
-telemetr.me##.pr-0.kt-header__topbar
-! Чат снизу
-telemetr.me##.trigger-font-size.trigger-classic.trigger-background
-! Поддержка
-telemetr.me##a.kt-link.kt-footer__menu-link:nth-of-type(1)
-! Профиль
-telemetr.me##div.col-xl-6.col-lg-6.col-md-6:nth-of-type(1) > form:nth-of-type(1) > .form-group
-telemetr.me##form.m-form--label-align-right.m-form:nth-of-type(2) > .m-form__group.form-group
-telemetr.me##form.m-form--label-align-right.m-form:nth-of-type(3) > .m-form__group.form-group
-telemetr.me##form.m-form--label-align-right.m-form:nth-of-type(4) > .m-form__group.form-group
-telemetr.me##form.m-form--label-align-right.m-form:nth-of-type(5) > .m-form__group.form-group
-telemetr.me##div.col-xl-6.col-lg-6.col-md-6:nth-of-type(2) > form
-telemetr.me##div.col-xl-6.col-lg-6.col-md-6:nth-of-type(2) > label
-telemetr.me###remove_account_form
-telemetr.me###m_user_profile_tab_2 > form > .btn-warning.btn
+
 
 
 
