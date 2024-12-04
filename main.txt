@@ -952,14 +952,3 @@ www.midjourney.com##.min-h-screen.w-full.mx-auto
 www.midjourney.com###accountButton > svg
 www.midjourney.com##.buttonActiveBackground.buttonHoverBackground.buttonActiveOpacity.buttonHoverOpacity.dark\:bg-dark-750.p-2.bg-light-50.rounded-full.gap-2.justify-start.items-center.cursor-pointer.shrink.w-full.flex.group.select-none.buttonActiveRing
 
-авторизация фрипик
-||accounts.google.com/gsi/button?theme=outline&size=large&text=continue_with&logo_alignment=center&width=320&click_listener=()%3D%3E%7Bc(De.GOOGLE)%7D&client_id=705648808057-3chuddbr6oahbebib1uh693k02sgfl30.apps.googleusercontent.com&iframe_id=gsi_332634_573341&as=84Wv6sUZmQnWa9oq8GsLIA&hl=en$subdocument
-www.freepik.com##button.button--with-icon.button--outline.button.main-button:nth-of-type(1)
-||accounts.google.com/gsi/button?theme=outline&size=large&text=continue_with&logo_alignment=center&width=320&click_listener=()%3D%3E%7Bc(De.GOOGLE)%7D&client_id=705648808057-3chuddbr6oahbebib1uh693k02sgfl30.apps.googleusercontent.com&iframe_id=gsi_420966_872722&as=%2F9bcw3DSjqj2f4UR7g2OPA&hl=en$subdocument
-www.freepik.com##.have-account > p
-www.freepik.com##.have-account
-||accounts.google.com/gsi/button?theme=outline&size=large&text=continue_with&logo_alignment=center&width=320&click_listener=()%3D%3E%7Bc(De.GOOGLE)%7D&client_id=705648808057-3chuddbr6oahbebib1uh693k02sgfl30.apps.googleusercontent.com&iframe_id=gsi_420966_872722&as=%2F9bcw3DSjqj2f4UR7g2OPA&hl=en$subdocument
-www.freepik.com##.icon--eye-line-through.icon
-www.freepik.com##.form-item--password.form-item > label > input
-www.freepik.com##.checkbox--xs.checkbox
-www.freepik.com##.form-item--password.form-item > label
