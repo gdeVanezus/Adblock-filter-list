@@ -952,3 +952,5 @@ www.midjourney.com##.min-h-screen.w-full.mx-auto
 www.midjourney.com###accountButton > svg
 www.midjourney.com##.buttonActiveBackground.buttonHoverBackground.buttonActiveOpacity.buttonHoverOpacity.dark\:bg-dark-750.p-2.bg-light-50.rounded-full.gap-2.justify-start.items-center.cursor-pointer.shrink.w-full.flex.group.select-none.buttonActiveRing
 
+Убрал создание папок чатгпт
+chatgpt.com##.justify-between.items-center.h-\[26px\].flex > span
