@@ -954,3 +954,5 @@ www.midjourney.com##.buttonActiveBackground.buttonHoverBackground.buttonActiveOp
 
 Убрал создание папок чатгпт
 chatgpt.com##.justify-between.items-center.h-\[26px\].flex > span
+chatgpt.com##.screen-arch\:mb-5.screen-arch\:gap-0\.5.flex-col.flex .h-9.hover\:bg-token-sidebar-surface-secondary.text-token-text-primary.px-2.rounded-lg.gap-2\.5.items-center.w-full.flex
+chatgpt.com##.justify-between.items-center.h-\[26px\].flex
