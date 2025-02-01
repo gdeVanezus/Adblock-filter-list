@@ -956,3 +956,10 @@ www.midjourney.com##.buttonActiveBackground.buttonHoverBackground.buttonActiveOp
 chatgpt.com##.justify-between.items-center.h-\[26px\].flex > span
 chatgpt.com##.screen-arch\:mb-5.screen-arch\:gap-0\.5.flex-col.flex .h-9.hover\:bg-token-sidebar-surface-secondary.text-token-text-primary.px-2.rounded-lg.gap-2\.5.items-center.w-full.flex
 chatgpt.com##.justify-between.items-center.h-\[26px\].flex
+
+01,02 АДблок дискорд
+discord.com##.scrollerBase_d125d2.none_d125d2.scroller_ef3116
+discord.com##.itemsContainer_ef3116
+discord.com##.tree_ef3116
+discord.com##.guilds_c48ade.wrapper_ef3116
+
