@@ -963,3 +963,18 @@ discord.com##.itemsContainer_ef3116
 discord.com##.tree_ef3116
 discord.com##.guilds_c48ade.wrapper_ef3116
 
+! Feb 5, 2025 https://www.semrush.com
+www.semrush.com##.gridLayout_T6jD.wrapper_JroZ
+www.semrush.com##.gridLayout_T6jD.wrapper_U9EN
+www.semrush.com##.gridLayout_T6jD.wrapper_DlVh
+www.semrush.com##.___SHeader_16yb1_gg_.header_qrtE
+||static.semrush.com/subscription-info/assets/image-brand-monitoring.28092.svg$image
+www.semrush.com##.apiWidget_tY_o > .___SCard_16yb1_gg_ > .___SBody_16yb1_gg_
+www.semrush.com##.apiWidget_tY_o > .___SCard_16yb1_gg_ > .___SHeader_16yb1_gg_
+www.semrush.com##._theme_primary-success_5s13m_gg_._size_m_5s13m_gg_.___SButton_5s13m_gg_.buttonWide_EkRu > .___SInner_5s13m_gg_
+www.semrush.com##._theme_primary-success_5s13m_gg_._size_m_5s13m_gg_.___SButton_5s13m_gg_.buttonWide_EkRu
+www.semrush.com##._theme_secondary-muted_5s13m_gg_._size_m_5s13m_gg_.___SButton_5s13m_gg_.buttonWide_EkRu > .___SInner_5s13m_gg_
+www.semrush.com##._theme_secondary-muted_5s13m_gg_._size_m_5s13m_gg_.___SButton_5s13m_gg_.buttonWide_EkRu
+www.semrush.com##.buttonWrapper_f3Hj.___SFlex_11pya_gg_
+www.semrush.com##.___SBody_uc8f8_gg_ > .___SFlex_1whp4_gg_
+www.semrush.com##.js-sidebar-wrapper-link-active.srf-report-sidebar-main__link-wrapper--active.srf-report-sidebar-main__link-wrapper > .js-sidebar-group-link.srf-report-sidebar-main__link
