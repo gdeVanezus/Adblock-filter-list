@@ -978,3 +978,6 @@ www.semrush.com##._theme_secondary-muted_5s13m_gg_._size_m_5s13m_gg_.___SButton_
 www.semrush.com##.buttonWrapper_f3Hj.___SFlex_11pya_gg_
 www.semrush.com##.___SBody_uc8f8_gg_ > .___SFlex_1whp4_gg_
 www.semrush.com##.js-sidebar-wrapper-link-active.srf-report-sidebar-main__link-wrapper--active.srf-report-sidebar-main__link-wrapper > .js-sidebar-group-link.srf-report-sidebar-main__link
+
+! 9 лют. 2025 р. https://www.freepik.com
+www.freepik.com##.icon--eye-line-through.icon
