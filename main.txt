@@ -1019,3 +1019,10 @@ discord.com##.connectContainer_c7f964
 discord.com##.selectedBackground_e681d1.background_e681d1
 discord.com##.themed_b3f026.selected_b3f026.item_b3f026.premiumTab__581ea
 discord.com##.side_b3f026
+discord.com##button.grow__201d5.colorBrand__201d5.lookBlank__201d5.button__201d5.enabled__67645.button__67645:nth-of-type(2)
+discord.com##.upsellButton__5997d.grow__201d5.sizeSmall__201d5.colorPrimary__201d5.lookFilled__201d5.button__201d5.shinyButton__6a443
+discord.com##.grow__201d5.sizeSmall__201d5.primary_fb7f94.themeColor_fb7f94.colorPrimary__201d5.lookFilled__201d5.button__201d5.upsellButton__5997d.button_fb7f94
+discord.com##div.menuOverlay_af7fb7.biteSize_c0bea0.overlay_c0bea0 > div
+discord.com##div.menuOverlay_af7fb7.biteSize_c0bea0.overlay_c0bea0:nth-of-type(1)
+discord.com##div.menuOverlay_af7fb7.biteSize_c0bea0.overlay_c0bea0:nth-of-type(2)
+discord.com##.userTagUsername__63ed3
