@@ -991,3 +991,31 @@ chatgpt.com##.text-token-text-secondary.text-base.font-normal.lg\:px-10.md\:px-6
 chatgpt.com##button.hover\:bg-token-sidebar-surface-secondary.text-left.rounded.w-full.items-center.group.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus\:ring-0.cursor-pointer.text-sm.p-2\.5.gap-2.flex:nth-of-type(2)
 chatgpt.com##.bg-token-sidebar-surface-secondary.hover\:bg-token-sidebar-surface-secondary.text-left.rounded.w-full.items-center.group.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus\:ring-0.cursor-pointer.text-sm.p-2\.5.gap-2.flex
 
+! 13 лют. 2025 р. https://discord.com
+discord.com##.background__1fed1
+discord.com##.userInfo__1fed1 > .grow__201d5.sizeSmall__201d5.colorBrand__201d5.lookFilled__201d5.button__201d5
+discord.com##.marginTop40_fd297e.userSettingsSecurity__2666b > .children__7bffb > div
+discord.com###account_security_tab-tab > div.marginTop40_fd297e > .children__7bffb
+discord.com###account_security_tab-tab > div.marginTop40_fd297e > .sectionTitle__7bffb > .defaultMarginh5_b717a1.eyebrow_b717a1.h5_b717a1
+discord.com##.card__73069.cardPrimary__73069.container_d878e7
+discord.com##div.customizationSection_ace4f5 > div > .inputWrapper__0f084 > .input__0f084.inputDefault__0f084
+discord.com##div.customizationSection_ace4f5 > .inputWrapper__0f084 > .input__0f084.inputDefault__0f084
+discord.com###profile-customization-tab > div > .profileCustomizationSection__44061 > .baseLayout__44061 > .preview__44061.customizationSection_ace4f5 > .container_ba7f98.biteSize_c0bea0.images-dark.theme-dark.outer_c0bea0 > .biteSize_c0bea0.inner_c0bea0
+discord.com##.background__65c15.premiumBackground__65c15
+discord.com##.floatingNitroUpsell__39749.upsellContainerFloating__0b69f.upsellContainerShadow__0b69f.upsellContainer__0b69f
+discord.com##.upsellOverlay__0f7dc
+discord.com##.lookFilled__3f413.searchable__3f413.select__3f413
+discord.com##.dropdownIcon__3f413
+discord.com##.categoryContent__41c03 > .settingsBackgroundFlashElement__7cd2d.container__6b700
+discord.com##div.container__6b700:nth-of-type(2)
+discord.com##div.category__41c03:nth-of-type(2)
+discord.com##div.category__41c03:nth-of-type(3)
+discord.com##div.category__41c03:nth-of-type(1)
+discord.com##.box_f8c98c.container__5dbf8
+discord.com##.box.box_f8c98c.max-width__5b321.container__5b321
+discord.com##.top_b3f026.settingsTabBar_dc2e0e
+discord.com##.children__7bffb > div > .children__7bffb
+discord.com##.connectContainer_c7f964
+discord.com##.selectedBackground_e681d1.background_e681d1
+discord.com##.themed_b3f026.selected_b3f026.item_b3f026.premiumTab__581ea
+discord.com##.side_b3f026
