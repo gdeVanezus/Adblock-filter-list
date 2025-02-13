@@ -982,14 +982,6 @@ www.semrush.com##.js-sidebar-wrapper-link-active.srf-report-sidebar-main__link-w
 ! 9 лют. 2025 р. https://www.freepik.com
 www.freepik.com##.icon--eye-line-through.icon
 
-! 13 лют. 2025 р. https://discord.com
-discord.com##.contentColumnDefault__23e6b.contentColumn__23e6b
-discord.com##.floatingNitroUpsell__39749.upsellContainerFloating__0b69f.upsellContainerShadow__0b69f.upsellContainer__0b69f
-discord.com##.tryItOutLayout__9d295.baseLayout__44061
-discord.com##.background__65c15.premiumBackground__65c15
-discord.com##.contentColumnWide__23e6b.contentColumn__23e6b
-discord.com##.app__160d8
-
 ! 13 лют. 2025 р. https://chatgpt.com
 chatgpt.com##.sm\:p-6.p-4.overflow-y-auto.flex-grow
 chatgpt.com##.dark\:border-white\/10.border-black\/10.border-b.justify-between.items-center.flex.sm\:p-6.pt-5.pb-4.px-4
