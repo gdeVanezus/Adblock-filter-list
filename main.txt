@@ -989,3 +989,13 @@ discord.com##.tryItOutLayout__9d295.baseLayout__44061
 discord.com##.background__65c15.premiumBackground__65c15
 discord.com##.contentColumnWide__23e6b.contentColumn__23e6b
 discord.com##.app__160d8
+
+! 13 лют. 2025 р. https://chatgpt.com
+chatgpt.com##.sm\:p-6.p-4.overflow-y-auto.flex-grow
+chatgpt.com##.dark\:border-white\/10.border-black\/10.border-b.justify-between.items-center.flex.sm\:p-6.pt-5.pb-4.px-4
+chatgpt.com##.btn-primary.relative.btn
+chatgpt.com##.transition-width.overflow-auto.flex-1.w-full.h-full.relative > .lg\:px-10.md\:px-6.px-2.w-full.mx-auto.max-w-4xl
+chatgpt.com##.text-token-text-secondary.text-base.font-normal.lg\:px-10.md\:px-6.px-2.max-w-4xl.w-full.mx-auto
+chatgpt.com##button.hover\:bg-token-sidebar-surface-secondary.text-left.rounded.w-full.items-center.group.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus\:ring-0.cursor-pointer.text-sm.p-2\.5.gap-2.flex:nth-of-type(2)
+chatgpt.com##.bg-token-sidebar-surface-secondary.hover\:bg-token-sidebar-surface-secondary.text-left.rounded.w-full.items-center.group.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus\:ring-0.cursor-pointer.text-sm.p-2\.5.gap-2.flex
+
