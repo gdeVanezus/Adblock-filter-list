@@ -1026,3 +1026,5 @@ discord.com##div.menuOverlay_af7fb7.biteSize_c0bea0.overlay_c0bea0 > div
 discord.com##div.menuOverlay_af7fb7.biteSize_c0bea0.overlay_c0bea0:nth-of-type(1)
 discord.com##div.menuOverlay_af7fb7.biteSize_c0bea0.overlay_c0bea0:nth-of-type(2)
 discord.com##.userTagUsername__63ed3
+
+chatgpt.com##.text-token-text-secondary.text-xs.border-token-border-light.border.rounded-full.justify-center.items-center.w-6.h-6.flex
