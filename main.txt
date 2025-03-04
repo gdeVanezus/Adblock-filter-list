@@ -1030,4 +1030,5 @@ elements.envato.com##div.iZqZog.cIMMqX.sc-fPXMVe.sc-imWYAI:nth-of-type(2)
 elements.envato.com##.sc-bbSZdi
 elements.envato.com##input[type="password"]
 elements.envato.com##a[data-testid="forgotUsernameLink"]
+##a[data-testid="sign-out-link"]
 
