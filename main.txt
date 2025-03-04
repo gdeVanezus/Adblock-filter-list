@@ -1053,4 +1053,13 @@ account.envato.com##.hYUpxT.sc-dVBluf
 account.envato.com##.egHUYQ.QHZjZ.jAVDfw.bSAjUJ.sc-dJkDXt.sc-fuExOL.sc-dPKAra.sc-eiwqOE
 elements.envato.com##.Mvefxhtu.W75Bck95.McVQtipP.nr9DhCl_
 ##a[href="https://account.elements.envato.com/subscription"]
-
+##a[href="https://elements.envato.com/de/pricing/teams/upgrade"]
+##a[href="https://account.elements.envato.com/de/subscription"]
+##a[href="https://elements.envato.com/es/pricing/teams/upgrade"]
+##a[href="https://account.elements.envato.com/es/subscription"]
+##a[href="https://elements.envato.com/fr/pricing/teams/upgrade"]
+##a[href="https://account.elements.envato.com/fr/subscription"]
+##a[href="https://account.elements.envato.com/pt-br/subscription"]
+##a[href="https://elements.envato.com/pt-br/pricing/teams/upgrade"]
+##a[href="https://elements.envato.com/ru/pricing/teams/upgrade"]
+##a[href="https://account.elements.envato.com/ru/subscription"]
