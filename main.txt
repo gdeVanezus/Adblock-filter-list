@@ -1030,5 +1030,27 @@ elements.envato.com##div.iZqZog.cIMMqX.sc-fPXMVe.sc-imWYAI:nth-of-type(2)
 elements.envato.com##.sc-bbSZdi
 elements.envato.com##input[type="password"]
 elements.envato.com##a[data-testid="forgotUsernameLink"]
+
 ##a[data-testid="sign-out-link"]
+##a[href="https://help.elements.envato.com/hc/en-us/"]
+account.elements.envato.com##.SGxlIng1 > .nTCW_OeW
+account.elements.envato.com##section.R7UIfAnZ:nth-of-type(1)
+account.elements.envato.com##form
+account.elements.envato.com##.GIYO80sX
+account.elements.envato.com##.CEHN3Umw
+account.elements.envato.com##.lwux1xc4
+elements.envato.com##.nCWiMC_q
+elements.envato.com##.iFrUrPGV
+elements.envato.com##.mzBWPIgr
+elements.envato.com##.K8HFfhTV
+elements.envato.com##.HS6hlPnE
+##a[href="https://elements.envato.com/pricing/teams/upgrade"]
+account.envato.com##a.QHZjZ.gFVVdD.bSAjUJ.sc-jcvhOc.sc-fuExOL.sc-dPKAra.sc-eiwqOE:nth-of-type(1)
+account.envato.com##a.QHZjZ.gFVVdD.bSAjUJ.sc-jcvhOc.sc-fuExOL.sc-dPKAra.sc-eiwqOE:nth-of-type(2)
+account.envato.com##a.QHZjZ.gFVVdD.bSAjUJ.sc-jcvhOc.sc-fuExOL.sc-dPKAra.sc-eiwqOE:nth-of-type(3)
+account.envato.com##a.QHZjZ.gFVVdD.bSAjUJ.sc-jcvhOc.sc-fuExOL.sc-dPKAra.sc-eiwqOE:nth-of-type(4)
+account.envato.com##.hYUpxT.sc-dVBluf
+account.envato.com##.egHUYQ.QHZjZ.jAVDfw.bSAjUJ.sc-dJkDXt.sc-fuExOL.sc-dPKAra.sc-eiwqOE
+elements.envato.com##.Mvefxhtu.W75Bck95.McVQtipP.nr9DhCl_
+##a[href="https://account.elements.envato.com/subscription"]
 
