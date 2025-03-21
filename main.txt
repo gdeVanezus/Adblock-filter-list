@@ -1063,3 +1063,45 @@ elements.envato.com##.Mvefxhtu.W75Bck95.McVQtipP.nr9DhCl_
 ##a[href="https://elements.envato.com/pt-br/pricing/teams/upgrade"]
 ##a[href="https://elements.envato.com/ru/pricing/teams/upgrade"]
 ##a[href="https://account.elements.envato.com/ru/subscription"]
+
+! 21 бер. 2025 р. https://claude.ai
+claude.ai##.gap-1.grow-\[3\].grid.min-w-60 > .rounded-\[0\.6rem\].px-3.h-11.disabled\:opacity-50.disabled\:cursor-not-allowed.focus\:outline-none.focus\:ring-0.focus-within\:\!border-accent-secondary-100.focus\:border-accent-secondary-100.placeholder\:text-text-500.transition-colors.hover\:border-border-100.border-border-200.border.bg-bg-000
+claude.ai##.gap-1.grow.grid.min-w-30 > .rounded-\[0\.6rem\].px-3.h-11.disabled\:opacity-50.disabled\:cursor-not-allowed.focus\:outline-none.focus\:ring-0.focus-within\:\!border-accent-secondary-100.focus\:border-accent-secondary-100.placeholder\:text-text-500.transition-colors.hover\:border-border-100.border-border-200.border.bg-bg-000
+claude.ai##.w-full.shadow.hover\:border-border-100.border-border-200.border.bg-bg-000.rounded-\[0\.6rem\].pr-6\.5.pl-4.h-11.cursor-pointer.focus\:outline-none.focus\:ring-0.focus\:border-accent-secondary-100.transition-colors.py-0.text-text-200.block
+claude.ai###conversation-preferences
+claude.ai##.gap-2.flex-col.flex.md\:p-8.p-6.rounded-xl.border-border-300.border-0\.5.bg-bg-100
+claude.ai##section.md\:p-8.p-6.rounded-xl.border-border-300.border-0\.5.bg-bg-100:nth-of-type(3)
+claude.ai##div.py-2.items-center.justify-between.gap-8.flex-row.flex:nth-of-type(1)
+claude.ai##div.py-2.items-center.justify-between.gap-8.flex-row.flex:nth-of-type(2)
+claude.ai##div.py-2.items-center.justify-between.gap-8.flex-row.flex:nth-of-type(3)
+claude.ai##.items-center.w-full.flex-row.flex > .whitespace-nowrap.active\:scale-\[0\.985\].min-w-\[5rem\].rounded-lg.py-2.px-4.h-9.hover\:bg-bg-500\/60.hover\:text-text-000.active\:bg-bg-500\/50.transition-colors.text-text-100\/90.font-styrene.font-medium.border-border-400.border-0\.5.to-bg-500\/30.from-50\%.from-bg-500\/10.bg-\[radial-gradient\(ellipse\,_var\(--tw-gradient-stops\)\)\].disabled\:drop-shadow-none.disabled\:shadow-none.disabled\:opacity-50.disabled\:pointer-events-none.focus-visible\:ring-1.focus-visible\:outline-none.ring-accent-main-100.ring-offset-bg-300.ring-offset-2.shrink-0.relative.justify-center.items-center.inline-flex
+claude.ai##section.md\:p-8.p-6.rounded-xl.border-border-300.border-0\.5.bg-bg-100:nth-of-type(2)
+claude.ai##.text-text-100.font-medium.text-lg
+claude.ai##.justify-start.gap-1.flex-col.flex.md\:p-8.p-6.rounded-xl.border-border-300.border-0\.5.bg-bg-100
+claude.ai##.py-3.px-4.bg-bg-100.border.rounded-lg.gap-4.justify-between.items-center.flex.border-border-200.mt-4 > .whitespace-nowrap.active\:scale-\[0\.985\].min-w-\[5rem\].rounded-lg.py-2.px-4.h-9.hover\:bg-bg-500\/60.hover\:text-text-000.active\:bg-bg-500\/50.transition-colors.text-text-100\/90.font-styrene.font-medium.border-border-400.border-0\.5.to-bg-500\/30.from-50\%.from-bg-500\/10.bg-\[radial-gradient\(ellipse\,_var\(--tw-gradient-stops\)\)\].disabled\:drop-shadow-none.disabled\:shadow-none.disabled\:opacity-50.disabled\:pointer-events-none.focus-visible\:ring-1.focus-visible\:outline-none.ring-accent-main-100.ring-offset-bg-300.ring-offset-2.shrink-0.relative.justify-center.items-center.inline-flex
+claude.ai##.py-3.px-4.bg-bg-100.border.rounded-lg.gap-4.justify-between.items-center.flex.border-border-200.mt-4
+claude.ai##.mb-1.text-text-400.font-normal.text-sm
+claude.ai##div.grow > .gap-1.items-center.flex
+claude.ai##div.grow > .text-text-100
+claude.ai##.tracking-tighter.font-medium.text-xl.mb-3.font-styrene-display
+claude.ai##.hover\:bg-accent-pro-200.bg-accent-pro-100.whitespace-nowrap.active\:scale-\[0\.985\].min-w-\[5rem\].rounded-lg.py-2.px-4.h-9.hover\:bg-accent-main-200.transition-colors.font-styrene.font-medium.text-oncolor-100.bg-accent-main-100.disabled\:drop-shadow-none.disabled\:shadow-none.disabled\:opacity-50.disabled\:pointer-events-none.focus-visible\:ring-1.focus-visible\:outline-none.ring-accent-main-100.ring-offset-bg-300.ring-offset-2.shrink-0.relative.justify-center.items-center.inline-flex
+claude.ai##.gap-3.justify-end.items-center.flex-wrap.flex-row.flex.mt-5 > .whitespace-nowrap.active\:scale-\[0\.985\].min-w-\[5rem\].rounded-lg.py-2.px-4.h-9.hover\:bg-bg-500\/60.hover\:text-text-000.active\:bg-bg-500\/50.transition-colors.text-text-100\/90.font-styrene.font-medium.border-border-400.border-0\.5.to-bg-500\/30.from-50\%.from-bg-500\/10.bg-\[radial-gradient\(ellipse\,_var\(--tw-gradient-stops\)\)\].disabled\:drop-shadow-none.disabled\:shadow-none.disabled\:opacity-50.disabled\:pointer-events-none.focus-visible\:ring-1.focus-visible\:outline-none.ring-accent-main-100.ring-offset-bg-300.ring-offset-2.shrink-0.relative.justify-center.items-center.inline-flex
+claude.ai##.sm\:items-center.sm\:flex-row.gap-2.flex-col.flex > .whitespace-nowrap.active\:scale-\[0\.985\].min-w-\[5rem\].rounded-lg.py-2.px-4.h-9.hover\:bg-bg-500\/60.hover\:text-text-000.active\:bg-bg-500\/50.transition-colors.text-text-100\/90.font-styrene.font-medium.border-border-400.border-0\.5.to-bg-500\/30.from-50\%.from-bg-500\/10.bg-\[radial-gradient\(ellipse\,_var\(--tw-gradient-stops\)\)\].disabled\:drop-shadow-none.disabled\:shadow-none.disabled\:opacity-50.disabled\:pointer-events-none.focus-visible\:ring-1.focus-visible\:outline-none.ring-accent-main-100.ring-offset-bg-300.ring-offset-2.shrink-0.relative.justify-center.items-center.inline-flex
+claude.ai##.gap-2.items-center.flex > span
+claude.ai##section.overflow-hidden.md\:p-8.p-6.rounded-xl.border-border-300.border-0\.5.bg-bg-100 > .font-medium.text-lg.mb-3
+claude.ai##.flex-1 > .gap-2.items-center.flex > svg
+claude.ai##.rounded-md.min-h-5.min-w-16.rounded-\[0\.25rem\].px-0\.5.hover\:border-bg-400.hover\:bg-bg-400.hover\:text-text-100.transition-colors.text-text-200.bg-transparent.font-styrene.font-medium.border-1\.5.disabled\:drop-shadow-none.disabled\:shadow-none.disabled\:opacity-50.disabled\:pointer-events-none.focus-visible\:ring-1.focus-visible\:outline-none.ring-accent-main-100.ring-offset-bg-300.ring-offset-2.shrink-0.relative.justify-center.items-center.inline-flex
+claude.ai##div.md\:p-8.p-6.rounded-xl.overflow-hidden.border-border-300.border-0\.5.bg-bg-100
+claude.ai##.py-3.px-3.rounded-lg.active\:scale-95.ease-in-out.transition-all.whitespace-nowrap.block.hover\:bg-bg-400\/50
+claude.ai##.mb-6.text-sm.text-text-300
+claude.ai##section.md\:p-8.p-6.rounded-xl.border-border-300.border-0\.5.bg-bg-100:nth-of-type(4)
+claude.ai###radix-\:r8l\:
+claude.ai##.intercom-launcher.text-sm.\[\&\[data-highlighted\]\]\:text-text-300.\[\&\[data-highlighted\]\]\:bg-bg-200.select-none.outline-none.items-center.gap-2.grid-cols-\[minmax\(0\,_1fr\)_auto\].grid.text-ellipsis.overflow-hidden.whitespace-nowrap.cursor-pointer.rounded-md.px-2.py-1
+claude.ai##a.text-sm.\[\&\[data-highlighted\]\]\:text-text-300.\[\&\[data-highlighted\]\]\:bg-bg-200.select-none.outline-none.items-center.gap-2.grid-cols-\[minmax\(0\,_1fr\)_auto\].grid.text-ellipsis.overflow-hidden.whitespace-nowrap.cursor-pointer.rounded-md.px-2.py-1:nth-of-type(2)
+claude.ai##a.text-sm.\[\&\[data-highlighted\]\]\:text-text-300.\[\&\[data-highlighted\]\]\:bg-bg-200.select-none.outline-none.items-center.gap-2.grid-cols-\[minmax\(0\,_1fr\)_auto\].grid.text-ellipsis.overflow-hidden.whitespace-nowrap.cursor-pointer.rounded-md.px-2.py-1:nth-of-type(3)
+claude.ai##a.text-sm.\[\&\[data-highlighted\]\]\:text-text-300.\[\&\[data-highlighted\]\]\:bg-bg-200.select-none.outline-none.items-center.gap-2.grid-cols-\[minmax\(0\,_1fr\)_auto\].grid.text-ellipsis.overflow-hidden.whitespace-nowrap.cursor-pointer.rounded-md.px-2.py-1:nth-of-type(1)
+claude.ai###radix-\:r9g\:
+claude.ai##.truncate.overflow-ellipsis.pb-2.text-sm.px-2.pt-1.text-text-500
+claude.ai##span.group-hover\:\!translate-x-0.relative.duration-300.transition-all > div > .\!rounded-lg.active\:scale-95.rounded-md.w-8.h-8.hover\:text-text-100.hover\:bg-bg-500\/40.active\:bg-bg-400.font-styrene.transition-colors.border-transparent.text-text-200.disabled\:drop-shadow-none.disabled\:shadow-none.disabled\:opacity-50.disabled\:pointer-events-none.focus-visible\:ring-1.focus-visible\:outline-none.ring-accent-main-100.ring-offset-bg-300.ring-offset-2.shrink-0.relative.justify-center.items-center.inline-flex
+claude.ai##span.group-hover\:\!translate-x-0.relative.duration-300.transition-all > .\!rounded-lg.active\:scale-95.rounded-md.w-8.h-8.hover\:text-text-100.hover\:bg-bg-500\/40.active\:bg-bg-400.font-styrene.transition-colors.border-transparent.text-text-200.disabled\:drop-shadow-none.disabled\:shadow-none.disabled\:opacity-50.disabled\:pointer-events-none.focus-visible\:ring-1.focus-visible\:outline-none.ring-accent-main-100.ring-offset-bg-300.ring-offset-2.shrink-0.relative.justify-center.items-center.inline-flex
+claude.ai##.text-sm.truncate.flex-1.min-w-0
