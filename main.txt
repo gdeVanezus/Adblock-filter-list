@@ -1105,3 +1105,20 @@ claude.ai##.truncate.overflow-ellipsis.pb-2.text-sm.px-2.pt-1.text-text-500
 claude.ai##span.group-hover\:\!translate-x-0.relative.duration-300.transition-all > div > .\!rounded-lg.active\:scale-95.rounded-md.w-8.h-8.hover\:text-text-100.hover\:bg-bg-500\/40.active\:bg-bg-400.font-styrene.transition-colors.border-transparent.text-text-200.disabled\:drop-shadow-none.disabled\:shadow-none.disabled\:opacity-50.disabled\:pointer-events-none.focus-visible\:ring-1.focus-visible\:outline-none.ring-accent-main-100.ring-offset-bg-300.ring-offset-2.shrink-0.relative.justify-center.items-center.inline-flex
 claude.ai##span.group-hover\:\!translate-x-0.relative.duration-300.transition-all > .\!rounded-lg.active\:scale-95.rounded-md.w-8.h-8.hover\:text-text-100.hover\:bg-bg-500\/40.active\:bg-bg-400.font-styrene.transition-colors.border-transparent.text-text-200.disabled\:drop-shadow-none.disabled\:shadow-none.disabled\:opacity-50.disabled\:pointer-events-none.focus-visible\:ring-1.focus-visible\:outline-none.ring-accent-main-100.ring-offset-bg-300.ring-offset-2.shrink-0.relative.justify-center.items-center.inline-flex
 claude.ai##.text-sm.truncate.flex-1.min-w-0
+
+! Mar 28, 2025 https://discord.com
+discord.com##.recentsIcon_c99c29 > .clickable__9293f.iconWrapper__9293f.button__85643
+discord.com##.anchorUnderlineOnHover_edefb8.anchor_edefb8 > .clickable__9293f.iconWrapper__9293f.button__85643
+discord.com##.title__85643
+discord.com###guild-header-popout-settings
+discord.com###guild-header-popout-create-channel
+discord.com##.colorDefault_c1e9c4.colorBrand_c1e9c4.labelContainer_c1e9c4.item_c1e9c4
+discord.com###guild-header-popout-create-event
+discord.com###guild-header-popout-create-category
+discord.com###guild-header-popout-application-directory
+discord.com###guild-header-popout-privacy
+discord.com###guild-header-popout-notifications
+discord.com###guild-header-popout-change-nickname
+discord.com##.colorDefault_c1e9c4.labelContainer_c1e9c4.checkboxContainer_c1e9c4.item_c1e9c4
+discord.com###guild-header-popout-premium-subscribe
+discord.com##.dropdownButton__2637a > path
