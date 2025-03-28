@@ -1122,3 +1122,21 @@ discord.com###guild-header-popout-change-nickname
 discord.com##.colorDefault_c1e9c4.labelContainer_c1e9c4.checkboxContainer_c1e9c4.item_c1e9c4
 discord.com###guild-header-popout-premium-subscribe
 discord.com##.dropdownButton__2637a > path
+discord.com##div.clickable__9293f.iconWrapper__9293f:nth-of-type(4)
+discord.com##div.clickable__9293f.iconWrapper__9293f:nth-of-type(3)
+discord.com##div.clickable__9293f.iconWrapper__9293f:nth-of-type(2)
+discord.com##.clickable__9293f.iconWrapper__9293f.icon_d98031
+discord.com##.card_aae012
+discord.com##.subtitle_aae012.text-sm\/normal_cf4812
+discord.com##.tier2MarketingCard__9e160.tier2_ac86f6.card_ac86f6
+discord.com##.tier0MarketingCard__9e160.card_ac86f6.tier0_ac86f6
+discord.com##.closeIcon__49fc1.closeInner_e50a4d
+discord.com##.buttons__74017 > .grow__201d5.colorBrand__201d5.lookBlank__201d5.button__201d5 > .button__74017.button__24af7.contents__201d5
+discord.com##.stickerButton__74017.button__74017.button__24af7.contents__201d5
+discord.com##.grow__201d5.colorBrand__201d5.lookBlank__201d5.button__201d5.button__74017.emojiButton__74017.emojiButton__04eed.emojiButtonNormal__04eed
+discord.com##div.buttonContainer__74017.expression-picker-chat-input-button > .grow__201d5.colorBrand__201d5.lookBlank__201d5.button__201d5 > .button__74017.button__24af7.contents__201d5
+discord.com###channel-attach-poll
+discord.com###channel-attach-THREAD
+discord.com##.basicChannelRowLink__2ea32.link__2ea32
+discord.com##.sectionDivider__629e4
+
