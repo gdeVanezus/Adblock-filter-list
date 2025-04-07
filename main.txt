@@ -913,3 +913,16 @@ claude.ai##.truncate.overflow-ellipsis.pb-2.text-sm.px-2.pt-1.text-text-500
 claude.ai##span.group-hover\:\!translate-x-0.relative.duration-300.transition-all > div > .\!rounded-lg.active\:scale-95.rounded-md.w-8.h-8.hover\:text-text-100.hover\:bg-bg-500\/40.active\:bg-bg-400.font-styrene.transition-colors.border-transparent.text-text-200.disabled\:drop-shadow-none.disabled\:shadow-none.disabled\:opacity-50.disabled\:pointer-events-none.focus-visible\:ring-1.focus-visible\:outline-none.ring-accent-main-100.ring-offset-bg-300.ring-offset-2.shrink-0.relative.justify-center.items-center.inline-flex
 claude.ai##span.group-hover\:\!translate-x-0.relative.duration-300.transition-all > .\!rounded-lg.active\:scale-95.rounded-md.w-8.h-8.hover\:text-text-100.hover\:bg-bg-500\/40.active\:bg-bg-400.font-styrene.transition-colors.border-transparent.text-text-200.disabled\:drop-shadow-none.disabled\:shadow-none.disabled\:opacity-50.disabled\:pointer-events-none.focus-visible\:ring-1.focus-visible\:outline-none.ring-accent-main-100.ring-offset-bg-300.ring-offset-2.shrink-0.relative.justify-center.items-center.inline-flex
 claude.ai##.text-sm.truncate.flex-1.min-w-0
+
+
+chatgpt.com##.gap-4.justify-between.items-start.flex > .btn-secondary.relative.btn
+chatgpt.com##.btn-primary.relative.btn.cursor-not-allowed.opacity-50
+chatgpt.com##.css-19bb58m.react-select__input-container
+chatgpt.com##.css-13cymwt-control.react-select__control
+chatgpt.com##.gap-1.flex-col.flex > .text-sm.text-token-text-tertiary
+chatgpt.com###add-emails-label
+chatgpt.com##.gap-4.justify-between.items-start.flex
+chatgpt.com##.text-token-text-primary.form-check-label
+chatgpt.com##.cursor-pointer.focus\:outline-hidden.checked\:bg-blue-600.checked\:border-blue-600.duration-200.transition.align-top.bg-no-repeat.bg-center.bg-contain.bg-white.border-gray-300.border.rounded-xs.appearance-none.w-4.h-4.float-left.form-check-input
+chatgpt.com##.gap-2.justify-end.flex > .btn-secondary.relative.btn
+chatgpt.com##.sm\:p-6.p-4.overflow-y-auto.grow
