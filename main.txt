@@ -926,3 +926,13 @@ chatgpt.com##.text-token-text-primary.form-check-label
 chatgpt.com##.cursor-pointer.focus\:outline-hidden.checked\:bg-blue-600.checked\:border-blue-600.duration-200.transition.align-top.bg-no-repeat.bg-center.bg-contain.bg-white.border-gray-300.border.rounded-xs.appearance-none.w-4.h-4.float-left.form-check-input
 chatgpt.com##.gap-2.justify-end.flex > .btn-secondary.relative.btn
 chatgpt.com##.sm\:p-6.p-4.overflow-y-auto.grow
+chatgpt.com##.btn-secondary.relative.btn
+chatgpt.com##.ps-8.border.rounded-lg.w-48.placeholder\:text-token-text-tertiary.bg-token-main-surface-primary.border-token-border-light
+chatgpt.com##.hover\:bg-token-main-surface-tertiary.btn-ghost.relative.btn
+chatgpt.com##.btn-primary.relative.btn
+chatgpt.com##.transform.-translate-y-1\/2.left-2.top-1\/2.absolute.text-token-text-tertiary.icon-sm
+chatgpt.com##.gap-2.items-center.flex.hover\:text-token-text-primary.text-token-text-secondary
+chatgpt.com##.text-sm.mt-4.text-token-text-secondary
+chatgpt.com###main > .lg\:px-10.md\:px-6.px-2.w-full.mx-auto.max-w-4xl
+chatgpt.com##.text-token-text-secondary.text-base.font-normal.lg\:px-10.md\:px-6.px-2.max-w-4xl.w-full.mx-auto
+chatgpt.com##h2.lg\:px-10.md\:px-6.px-2.max-w-4xl.w-full.mx-auto:nth-of-type(1)
