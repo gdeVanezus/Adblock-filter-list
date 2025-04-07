@@ -2,7 +2,7 @@
 ! Version: 3.4.2
 ! Title: Adblock Filter List
 ! Last modified: 2 May 2024 9:58 UTC
-! Expires: 1 days (update frequency)
+! Expires: 1 days (update frequency) 
 ! Homepage: https://subsnet.app
 !
 
