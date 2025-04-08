@@ -1166,3 +1166,4 @@ chatgpt.com##.bg-token-sidebar-surface-secondary.text-left.rounded-sm.w-full.hov
 chatgpt.com##button.text-left.rounded-sm.w-full.hover\:bg-token-sidebar-surface-secondary.items-center.group.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus\:ring-0.cursor-pointer.text-sm.p-2\.5.gap-2.flex:nth-of-type(4)
 chatgpt.com##button.text-left.rounded-sm.w-full.hover\:bg-token-sidebar-surface-secondary.items-center.group.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus\:ring-0.cursor-pointer.text-sm.p-2\.5.gap-2.flex:nth-of-type(5)
 chatgpt.com##button.text-left.rounded-sm.w-full.hover\:bg-token-sidebar-surface-secondary.items-center.group.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus\:ring-0.cursor-pointer.text-sm.p-2\.5.gap-2.flex:nth-of-type(1)
+chatgpt.com##.cursor-pointer.hover\:bg-token-main-surface-secondary.py-2.px-2.rounded.gap-2.flex-col.flex
