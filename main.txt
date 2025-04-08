@@ -1159,3 +1159,4 @@ chatgpt.com##.lg\:justify-between.md\:items-start.lg\:flex-row.gap-4.flex-col.fl
 chatgpt.com##.lg\:justify-between.md\:items-start.lg\:flex-row.gap-4.flex-col.flex.py-6.mb-4
 chatgpt.com##div.md\:m-0.m-auto.w-full.gap-3.flex-col.flex:nth-of-type(1)
 chatgpt.com##div.md\:m-0.m-auto.w-full.gap-3.flex-col.flex:nth-of-type(2)
+chatgpt.com##.dark\:bg-token-main-surface-secondary.text-token-text-primary.bg-token-main-surface-primary.border-token-border-light.md\:items-center.shadow-xxs.dark\:border-transparent.lg\:mx-auto.\[text-wrap\:pretty\].text-sm.pe-3.ps-5.py-4.border.rounded-3xl.gap-4.items-start.w-full.flex
