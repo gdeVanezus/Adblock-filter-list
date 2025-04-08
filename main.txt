@@ -1155,3 +1155,4 @@ chatgpt.com##.btn-primary.relative.btn
 chatgpt.com##.hover\:bg-token-main-surface-tertiary.btn-ghost.relative.btn
 chatgpt.com##.bg-token-main-surface-tertiary.btn-ghost.relative.btn
 chatgpt.com##.table-fixed.border-spacing-0.border-separate.w-full
+chatgpt.com##.lg\:justify-between.md\:items-start.lg\:flex-row.gap-4.flex-col.flex.py-6.mb-4
