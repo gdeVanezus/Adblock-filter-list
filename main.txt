@@ -1151,7 +1151,6 @@ chatgpt.com##.btn-primary.relative.btn.cursor-not-allowed.opacity-50
 chatgpt.com##.gap-2.justify-end.flex > .btn-secondary.relative.btn
 chatgpt.com##.css-13cymwt-control.react-select__control
 
-chatgpt.com##.btn-secondary.relative.btn
 chatgpt.com##.btn-primary.relative.btn
 chatgpt.com##.hover\:bg-token-main-surface-tertiary.btn-ghost.relative.btn
 chatgpt.com##.bg-token-main-surface-tertiary.btn-ghost.relative.btn
