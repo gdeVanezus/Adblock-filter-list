@@ -1183,3 +1183,26 @@ claude.ai##.text-sm.px-4.mt-6.text-text-300
 claude.ai##.text-sm.whitespace-nowrap.active\:scale-\[0\.985\].min-w-\[5rem\].rounded-lg.py-2.px-4.h-9.hover\:after\:translate-y-0.hover\:after\:opacity-100.after\:translate-y-2.after\:duration-200.after\:transition.after\:opacity-0.after\:bg-\[radial-gradient\(at_bottom\,hsla\(var\(--bg-000\)\/20\%\)\,hsla\(var\(--bg-000\)\/0\%\)\)\].after\:inset-0.after\:absolute.backface-hidden.hover\:scale-x-\[1\.005\].hover\:scale-y-\[1\.015\].duration-150.ease-\[cubic-bezier\(0\.165\,0\.85\,0\.45\,1\)\].will-change-transform.transition-transform.font-styrene.font-medium.overflow-hidden.text-bg-000.bg-text-000.disabled\:drop-shadow-none.disabled\:shadow-none.disabled\:opacity-50.disabled\:pointer-events-none.select-none.can-focus.shrink-0.relative.justify-center.items-center.inline-flex
 
 chatgpt.com##.dark\:text-black.dark\:bg-white.dark\:border-transparent.text-white.p-3.bg-black.border-b.justify-between.items-center.min-h-16.h-auto.flex.border-main-surface-secondary
+
+! 11 квіт. 2025 р. https://sora.com
+sora.com##div.tablet\:gap-6.tablet\:flex-row.py-2.gap-2.flex-col.flex > div > .text-token-text-primary.gap-2.items-center.flex
+sora.com##div.tablet\:gap-6.tablet\:flex-row.py-2.gap-2.flex-col.flex > div > .text-token-text-primary
+sora.com##.data-\[state\=open\]\:bg-token-bg-active.hover\:bg-token-bg-active.py-1.px-2\.5.rounded-full.gap-1.items-center.flex.-my-1.-mx-2\.5
+sora.com##div.tablet\:gap-6.tablet\:flex-row.py-2.gap-2.flex-col.flex:nth-of-type(7)
+sora.com##div.tablet\:gap-6.tablet\:flex-row.py-2.gap-2.flex-col.flex:nth-of-type(9)
+sora.com##div.tablet\:gap-6.tablet\:flex-row.py-2.gap-2.flex-col.flex:nth-of-type(1)
+sora.com##div.tablet\:gap-6.tablet\:flex-row.py-2.gap-2.flex-col.flex:nth-of-type(3)
+sora.com##div.tablet\:gap-6.tablet\:flex-row.py-2.gap-2.flex-col.flex:nth-of-type(5)
+sora.com##.tablet\:gap-5.tablet\:flex-row.text-token-text-secondary.py-4.gap-3.items-center.flex-col.shrink-0.flex > .underline
+sora.com##div.gap-2.flex:nth-of-type(6)
+sora.com##div.data-\[disabled\]\:opacity-20.data-\[disabled\]\:cursor-default.data-\[disabled\]\:pointer-events-none.focus\:bg-token-bg-light.outline-none.text-sm.py-2\.5.px-2.rounded-\[10px\].gap-2.items-center.select-none.cursor-pointer.flex.relative:nth-of-type(1)
+sora.com##a.data-\[disabled\]\:opacity-20.data-\[disabled\]\:cursor-default.data-\[disabled\]\:pointer-events-none.focus\:bg-token-bg-light.outline-none.text-sm.py-2\.5.px-2.rounded-\[10px\].gap-2.items-center.select-none.cursor-pointer.flex.relative:nth-of-type(2)
+sora.com##button.rounded-full.h-9.py-2.px-3.data-\[disabled\=true\]\:text-token-text-primary\/40.data-\[disabled\=true\]\:opacity-70.hover\:bg-token-bg-active.text-token-text-primary.bg-token-bg-light.relative.group\/button.data-\[disabled\=true\]\:cursor-default.data-\[disabled\=true\]\:pointer-events-none.focus-visible\:ring-offset-2.focus-visible\:ring-ring.focus-visible\:ring-2.focus-visible\:outline-none.ring-offset-background.font-semibold.text-sm.whitespace-nowrap.justify-center.items-center.gap-1\.5.inline-flex:nth-of-type(1)
+sora.com###radix-\:r6g\:-trigger-general
+sora.com##div.bg-token-bg-light.w-full.h-\[1px\].my-1\.5:nth-of-type(4)
+sora.com##div.bg-token-bg-light.w-full.h-\[1px\].my-1\.5:nth-of-type(6)
+sora.com##div.bg-token-bg-light.w-full.h-\[1px\].my-1\.5:nth-of-type(10)
+sora.com##div.bg-token-bg-light.w-full.h-\[1px\].my-1\.5:nth-of-type(8)
+sora.com##div.bg-token-bg-light.w-full.h-\[1px\].my-1\.5:nth-of-type(2)
+sora.com##a.data-\[disabled\]\:opacity-20.data-\[disabled\]\:cursor-default.data-\[disabled\]\:pointer-events-none.focus\:bg-token-bg-light.outline-none.text-sm.py-2\.5.px-2.rounded-\[10px\].gap-2.items-center.select-none.cursor-pointer.flex.relative:nth-of-type(3)
+sora.com##div.bg-token-bg-light.h-px.my-1\.5.mx-2:nth-of-type(5)
