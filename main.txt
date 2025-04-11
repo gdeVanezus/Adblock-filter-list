@@ -1206,3 +1206,26 @@ sora.com##div.bg-token-bg-light.w-full.h-\[1px\].my-1\.5:nth-of-type(8)
 sora.com##div.bg-token-bg-light.w-full.h-\[1px\].my-1\.5:nth-of-type(2)
 sora.com##a.data-\[disabled\]\:opacity-20.data-\[disabled\]\:cursor-default.data-\[disabled\]\:pointer-events-none.focus\:bg-token-bg-light.outline-none.text-sm.py-2\.5.px-2.rounded-\[10px\].gap-2.items-center.select-none.cursor-pointer.flex.relative:nth-of-type(3)
 sora.com##div.bg-token-bg-light.h-px.my-1\.5.mx-2:nth-of-type(5)
+
+sora.chatgpt.com##div.tablet\:gap-6.tablet\:flex-row.py-2.gap-2.flex-col.flex > div > .text-token-text-primary.gap-2.items-center.flex
+sora.chatgpt.com##div.tablet\:gap-6.tablet\:flex-row.py-2.gap-2.flex-col.flex > div > .text-token-text-primary
+sora.chatgpt.com##.data-\[state\=open\]\:bg-token-bg-active.hover\:bg-token-bg-active.py-1.px-2\.5.rounded-full.gap-1.items-center.flex.-my-1.-mx-2\.5
+sora.chatgpt.com##div.tablet\:gap-6.tablet\:flex-row.py-2.gap-2.flex-col.flex:nth-of-type(7)
+sora.chatgpt.com##div.tablet\:gap-6.tablet\:flex-row.py-2.gap-2.flex-col.flex:nth-of-type(9)
+sora.chatgpt.com##div.tablet\:gap-6.tablet\:flex-row.py-2.gap-2.flex-col.flex:nth-of-type(1)
+sora.chatgpt.com##div.tablet\:gap-6.tablet\:flex-row.py-2.gap-2.flex-col.flex:nth-of-type(3)
+sora.chatgpt.com##div.tablet\:gap-6.tablet\:flex-row.py-2.gap-2.flex-col.flex:nth-of-type(5)
+sora.chatgpt.com##.tablet\:gap-5.tablet\:flex-row.text-token-text-secondary.py-4.gap-3.items-center.flex-col.shrink-0.flex > .underline
+sora.chatgpt.com##div.gap-2.flex:nth-of-type(6)
+sora.chatgpt.com##div.data-\[disabled\]\:opacity-20.data-\[disabled\]\:cursor-default.data-\[disabled\]\:pointer-events-none.focus\:bg-token-bg-light.outline-none.text-sm.py-2\.5.px-2.rounded-\[10px\].gap-2.items-center.select-none.cursor-pointer.flex.relative:nth-of-type(1)
+sora.chatgpt.com##a.data-\[disabled\]\:opacity-20.data-\[disabled\]\:cursor-default.data-\[disabled\]\:pointer-events-none.focus\:bg-token-bg-light.outline-none.text-sm.py-2\.5.px-2.rounded-\[10px\].gap-2.items-center.select-none.cursor-pointer.flex.relative:nth-of-type(2)
+sora.chatgpt.com##button.rounded-full.h-9.py-2.px-3.data-\[disabled\=true\]\:text-token-text-primary\/40.data-\[disabled\=true\]\:opacity-70.hover\:bg-token-bg-active.text-token-text-primary.bg-token-bg-light.relative.group\/button.data-\[disabled\=true\]\:cursor-default.data-\[disabled\=true\]\:pointer-events-none.focus-visible\:ring-offset-2.focus-visible\:ring-ring.focus-visible\:ring-2.focus-visible\:outline-none.ring-offset-background.font-semibold.text-sm.whitespace-nowrap.justify-center.items-center.gap-1\.5.inline-flex:nth-of-type(1)
+sora.chatgpt.com###radix-\:r6g\:-trigger-general
+sora.chatgpt.com##div.bg-token-bg-light.w-full.h-\[1px\].my-1\.5:nth-of-type(4)
+sora.chatgpt.com##div.bg-token-bg-light.w-full.h-\[1px\].my-1\.5:nth-of-type(6)
+sora.chatgpt.com##div.bg-token-bg-light.w-full.h-\[1px\].my-1\.5:nth-of-type(10)
+sora.chatgpt.com##div.bg-token-bg-light.w-full.h-\[1px\].my-1\.5:nth-of-type(8)
+sora.chatgpt.com##div.bg-token-bg-light.w-full.h-\[1px\].my-1\.5:nth-of-type(2)
+sora.chatgpt.com##a.data-\[disabled\]\:opacity-20.data-\[disabled\]\:cursor-default.data-\[disabled\]\:pointer-events-none.focus\:bg-token-bg-light.outline-none.text-sm.py-2\.5.px-2.rounded-\[10px\].gap-2.items-center.select-none.cursor-pointer.flex.relative:nth-of-type(3)
+sora.chatgpt.com##div.bg-token-bg-light.h-px.my-1\.5.mx-2:nth-of-type(5)
+
