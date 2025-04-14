@@ -1226,3 +1226,4 @@ sora.chatgpt.com##div.bg-token-bg-light.w-full.h-\[1px\].my-1\.5:nth-of-type(2)
 sora.chatgpt.com##a.data-\[disabled\]\:opacity-20.data-\[disabled\]\:cursor-default.data-\[disabled\]\:pointer-events-none.focus\:bg-token-bg-light.outline-none.text-sm.py-2\.5.px-2.rounded-\[10px\].gap-2.items-center.select-none.cursor-pointer.flex.relative:nth-of-type(3)
 sora.chatgpt.com##div.bg-token-bg-light.h-px.my-1\.5.mx-2:nth-of-type(5)
 
+chatgpt.com##.focus-visible\:outline-0.transition.px-1.rounded-full.justify-center.items-center.w-10.h-10.flex.radix-state-open\:text-token-text-secondary.hover\:bg-token-surface-hover.hover\:text-token-text-primary.text-token-text-secondary
