@@ -1147,11 +1147,9 @@ chatgpt.com###upload-csv-label
 chatgpt.com###add-emails-label
 chatgpt.com##.text-token-text-primary.form-check-label
 chatgpt.com##.cursor-pointer.focus\:outline-hidden.checked\:bg-blue-600.checked\:border-blue-600.duration-200.transition.align-top.bg-no-repeat.bg-center.bg-contain.bg-white.border-gray-300.border.rounded-xs.appearance-none.w-4.h-4.float-left.form-check-input
-chatgpt.com##.btn-primary.relative.btn.cursor-not-allowed.opacity-50
 chatgpt.com##.gap-2.justify-end.flex > .btn-secondary.relative.btn
 chatgpt.com##.css-13cymwt-control.react-select__control
 
-chatgpt.com##.btn-primary.relative.btn
 chatgpt.com##.hover\:bg-token-main-surface-tertiary.btn-ghost.relative.btn
 chatgpt.com##.bg-token-main-surface-tertiary.btn-ghost.relative.btn
 chatgpt.com##.table-fixed.border-spacing-0.border-separate.w-full
