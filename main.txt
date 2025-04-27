@@ -1227,3 +1227,52 @@ sora.chatgpt.com##a.data-\[disabled\]\:opacity-20.data-\[disabled\]\:cursor-defa
 sora.chatgpt.com##div.bg-token-bg-light.h-px.my-1\.5.mx-2:nth-of-type(5)
 
 chatgpt.com##.focus-visible\:outline-0.transition.px-1.rounded-full.justify-center.items-center.w-10.h-10.flex.radix-state-open\:text-token-text-secondary.hover\:bg-token-surface-hover.hover\:text-token-text-primary.text-token-text-secondary
+
+Adheart Новый сайт:
+! 27 квіт. 2025 р. https://adheart.me
+adheart.me##button.profile-change-password-button.cUzZyo.sc-ddf699dc-3:nth-of-type(1)
+adheart.me##.red.profile-change-password-button.cUzZyo.sc-ddf699dc-3
+adheart.me##.iCVWIa.sc-21f22a3e-2
+adheart.me##.hXKgel.jyWgUP.sc-97c6200e-1.sc-af2f07c1-0
+adheart.me##div.emFxDP.sc-996367fa-0:nth-of-type(3)
+adheart.me##div.emFxDP.sc-996367fa-0:nth-of-type(2)
+adheart.me##div.emFxDP.sc-996367fa-0:nth-of-type(4)
+adheart.me##div.emFxDP.sc-996367fa-0:nth-of-type(5)
+adheart.me##div.emFxDP.sc-996367fa-0:nth-of-type(6)
+adheart.me##.gLPKSZ.sc-17681acc-0
+adheart.me##.fKoDnV.sc-21f22a3e-3
+adheart.me##.rYyoB.sc-aaa02eea-0
+adheart.me##.jQmGqQ.hBCdyp.sc-175e8764-7.sc-175e8764-4
+adheart.me##.jkkMZF.sc-a504b73a-0
+adheart.me##.green.jYMKnS.sc-8675aa31-2
+adheart.me##.bSBQUi.sc-175e8764-3
+adheart.me##.eQqjJF.sc-21f22a3e-0
+adheart.me##.dYArOH.sc-e5905e00-0
+adheart.me##.blue.jYMKnS.sc-8675aa31-2
+adheart.me##a.hhjUGD.sc-9d226f5-0:nth-of-type(2)
+adheart.me##a.hhjUGD.sc-9d226f5-0:nth-of-type(3)
+adheart.me##.selected.hTeFNn.sc-4d60c0ce-0 > .mXCRK.sc-4d60c0ce-13 > .custom-wrap.bsNlqi.sc-3a64a14f-4 > div > .cUzZyo.sc-ddf699dc-3
+adheart.me##.custom-wrap.bsNlqi.sc-3a64a14f-4 > div > .cUzZyo.sc-ddf699dc-3
+adheart.me##.elwdCR.sc-6da3918b-1
+adheart.me##div.hTeFNn.sc-4d60c0ce-0:nth-of-type(3)
+adheart.me##.selected.hTeFNn.sc-4d60c0ce-0
+adheart.me##div.hTeFNn.sc-4d60c0ce-0:nth-of-type(1)
+adheart.me##.bEzXyh.sc-f0d49401-0
+adheart.me##a.hhjUGD.sc-9d226f5-0:nth-of-type(4)
+adheart.me##a.hhjUGD.sc-9d226f5-0:nth-of-type(5)
+adheart.me##.mt-4.ml-auto.cRmfhq.sc-b95d6012-5.irhPka.sc-ddf699dc-3
+adheart.me##.bNYVso.sc-9d226f5-1
+adheart.me##.mr-1.bEzLnh.fPwBTY.sc-b95d6012-2.sc-e89c3aa0-0
+adheart.me##.hjaEot.sc-b95d6012-0
+adheart.me##.ml-auto.mb-4.mt-4.vAvIQ.sc-ddf699dc-3
+adheart.me##.ml-auto.irhPka.sc-ddf699dc-3
+adheart.me##.mb-4.fjbXVU.sc-e89c3aa0-0
+adheart.me##.mr-2.bjHBDC.sc-e89c3aa0-0
+adheart.me##.cVPDTQ.sc-af2f07c1-0
+adheart.me##div.mb-3.iAeDHa.sc-dc948a6e-0:nth-of-type(2)
+adheart.me##div.mb-3.iAeDHa.sc-dc948a6e-0:nth-of-type(1)
+adheart.me##div.mb-3.iAeDHa.sc-dc948a6e-0:nth-of-type(3)
+adheart.me##.hJVkXB.sc-4f82743b-3
+adheart.me##.bGJlFr.sc-4f82743b-3
+adheart.me###launcher
+
