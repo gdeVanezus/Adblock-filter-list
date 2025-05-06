@@ -1276,3 +1276,8 @@ adheart.me##.hJVkXB.sc-4f82743b-3
 adheart.me##.bGJlFr.sc-4f82743b-3
 adheart.me###launcher
 
+! 6 трав. 2025 р. https://chatgpt.com
+chatgpt.com##circle
+chatgpt.com##.relative > svg
+chatgpt.com##.focus-visible\:outline-0.transition.px-1.rounded-full.justify-center.items-center.w-10.h-10.flex.radix-state-open\:text-token-text-secondary.hover\:bg-token-interactive-bg-secondary-hover.hover\:text-token-text-primary.text-token-text-secondary.user-select-none
+
