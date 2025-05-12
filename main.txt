@@ -1281,3 +1281,11 @@ chatgpt.com##circle
 chatgpt.com##.relative > svg
 chatgpt.com##.focus-visible\:outline-0.transition.px-1.rounded-full.justify-center.items-center.w-10.h-10.flex.radix-state-open\:text-token-text-secondary.hover\:bg-token-interactive-bg-secondary-hover.hover\:text-token-text-primary.text-token-text-secondary.user-select-none
 
+! May 12, 2025 https://claude.ai
+claude.ai##.shadow-none.hover\:border-border-200.border-border-300.border.bg-bg-000.rounded-\[0\.6rem\].pr-6.pl-2.h-11.w-full.appearance-none.cursor-pointer.can-focus.transition-colors.py-0.text-text-100
+claude.ai##.gap-6.flex-col.flex > .gap-1.grid > .text-sm.block.mb-1.text-text-200
+claude.ai###conversation-preferences
+claude.ai##div.items-center.flex-col.flex:nth-of-type(1)
+claude.ai##div.items-center.flex-col.flex:nth-of-type(2)
+claude.ai##div.items-center.flex-col.flex:nth-of-type(3)
+claude.ai##.\!text-oncolor-100.hover\:\!bg-accent-pro-000.\!bg-accent-pro-100.py-3.text-sm.whitespace-nowrap.active\:scale-\[0\.985\].min-w-\[5rem\].rounded-lg.py-2.px-4.h-9.backface-hidden.hover\:bg-bg-400.bg-bg-300\/0.hover\:border-border-300\/0.duration-100.transition.font-medium.font-styrene.overflow-hidden.border-border-300.border-0\.5.text-text-000.disabled\:drop-shadow-none.disabled\:shadow-none.disabled\:opacity-50.disabled\:pointer-events-none.select-none.can-focus.shrink-0.relative.justify-center.items-center.inline-flex
