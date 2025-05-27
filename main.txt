@@ -1308,3 +1308,5 @@ adheart.me##div.profile-history-item.kAbMKv.sc-f2bdc12a-0:nth-of-type(3)
 adheart.me##.dOwpdz.sc-a504b73a-16
 adheart.me##.green.gwToIY.sc-9c6f25bb-2
 adheart.me##.hAgWwZ.sc-b95d6012-0
+adheart.me##.iXmCRo.sc-2ec780f6-0
+adheart.me##.dBTTkY.sc-aaa02eea-1.hRocGL.sc-c5443e25-3
