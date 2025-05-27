@@ -1290,3 +1290,21 @@ claude.ai##div.items-center.flex-col.flex:nth-of-type(2)
 claude.ai##div.items-center.flex-col.flex:nth-of-type(3)
 claude.ai##.\!text-oncolor-100.hover\:\!bg-accent-pro-000.\!bg-accent-pro-100.py-3.text-sm.whitespace-nowrap.active\:scale-\[0\.985\].min-w-\[5rem\].rounded-lg.py-2.px-4.h-9.backface-hidden.hover\:bg-bg-400.bg-bg-300\/0.hover\:border-border-300\/0.duration-100.transition.font-medium.font-styrene.overflow-hidden.border-border-300.border-0\.5.text-text-000.disabled\:drop-shadow-none.disabled\:shadow-none.disabled\:opacity-50.disabled\:pointer-events-none.select-none.can-focus.shrink-0.relative.justify-center.items-center.inline-flex
 claude.ai##.w-full.block.text-left.text-sm.\[\&\[data-highlighted\]\]\:text-text-300.\[\&\[data-highlighted\]\]\:bg-bg-200.select-none.outline-none.items-center.gap-2.grid-cols-\[minmax\(0\,_1fr\)_auto\].grid.text-ellipsis.overflow-hidden.whitespace-nowrap.cursor-pointer.rounded-md.px-2.py-1
+
+! 28 трав. 2025 р. https://adheart.me
+adheart.me##button.profile-change-password-button.lIwtY.sc-c5443e25-3:nth-of-type(1)
+adheart.me##.red.profile-change-password-button.lIwtY.sc-c5443e25-3
+adheart.me##.grey.bCHUGn.sc-fa60f48-0
+adheart.me##label.base-label.czdJeN.sc-f63c0074-0:nth-of-type(1)
+adheart.me##.base-label__text.gGdAWu.kYhA-dj.sc-f63c0074-1.sc-e89c3aa0-0
+adheart.me##.kaBUcu.jyWgUP.sc-fa60f48-1.sc-af2f07c1-0
+adheart.me##.bUFDa-D.sc-d7c95e37-2
+adheart.me##.purple.profile-add-social.hRocGL.sc-c5443e25-3
+adheart.me##.gQVcQN.sc-567ab5c5-4
+adheart.me##.khoyrj.sc-567ab5c5-3
+adheart.me##div.profile-history-item.kAbMKv.sc-f2bdc12a-0:nth-of-type(1)
+adheart.me##div.profile-history-item.kAbMKv.sc-f2bdc12a-0:nth-of-type(2)
+adheart.me##div.profile-history-item.kAbMKv.sc-f2bdc12a-0:nth-of-type(3)
+adheart.me##.dOwpdz.sc-a504b73a-16
+adheart.me##.green.gwToIY.sc-9c6f25bb-2
+adheart.me##.hAgWwZ.sc-b95d6012-0
