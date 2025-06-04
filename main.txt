@@ -1310,3 +1310,5 @@ adheart.me##.green.gwToIY.sc-9c6f25bb-2
 adheart.me##.hAgWwZ.sc-b95d6012-0
 adheart.me##.iXmCRo.sc-2ec780f6-0
 adheart.me##.dBTTkY.sc-aaa02eea-1.hRocGL.sc-c5443e25-3
+
+chatgpt.com##div.gap-1\.5.__menu-item.group:nth-of-type(1)
