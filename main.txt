@@ -1312,3 +1312,5 @@ adheart.me##.iXmCRo.sc-2ec780f6-0
 adheart.me##.dBTTkY.sc-aaa02eea-1.hRocGL.sc-c5443e25-3
 
 chatgpt.com##div.gap-1\.5.__menu-item.group:nth-of-type(1)
+
+chatgpt.com##.group-focus-visible\:ring-2.rounded-full.justify-center.items-center.w-9.h-9.flex.touch\:w-10.touch\:h-10.group-hover\:bg-token-interactive-bg-secondary-hover
