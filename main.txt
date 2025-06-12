@@ -1316,3 +1316,6 @@ chatgpt.com##div.gap-1\.5.__menu-item.group:nth-of-type(1)
 ! 10 черв. 2025 р. https://chatgpt.com
 chatgpt.com##.group-focus-visible\:ring-2.rounded-full.justify-center.items-center.w-9.h-9.flex.touch\:w-10.touch\:h-10.group-hover\:bg-token-interactive-bg-secondary-hover
 chatgpt.com##.gap-2.__menu-item.group
+
+! 12 черв. 2025 р. https://chatgpt.com
+chatgpt.com##.group-focus-visible\:ring-2.rounded-full.justify-center.items-center.w-9.h-9.flex.touch\:w-10.touch\:h-10.group-hover\:bg-token-interactive-bg-secondary-selected
