@@ -1322,3 +1322,4 @@ chatgpt.com##.group-focus-visible\:ring-2.rounded-full.justify-center.items-cent
 
 www.semrush.com##.___SLabel_15grl_gg_
 www.semrush.com##.___SInfo_15grl_gg_
+www.semrush.com##div.___SRow_1noov_gg_:nth-of-type(3)
