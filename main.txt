@@ -1323,3 +1323,13 @@ chatgpt.com##.group-focus-visible\:ring-2.rounded-full.justify-center.items-cent
 www.semrush.com##.___SLabel_15grl_gg_
 www.semrush.com##.___SInfo_15grl_gg_
 www.semrush.com##div.___SRow_1noov_gg_:nth-of-type(3)
+! 23 лип. 2025 р. https://www.freepik.com
+www.freepik.com##div.dark\:hover\:bg-surface-3.hover\:bg-surface-2.last\:border-b.py-\[10px\].px-4.border-surface-border-0.border-t.border-x.gap-4.items-center.cursor-pointer.flex.last\:\$rounded-b-md.first\:\$rounded-t-md:nth-of-type(1)
+www.freepik.com##div.dark\:hover\:bg-surface-3.hover\:bg-surface-2.last\:border-b.py-\[10px\].px-4.border-surface-border-0.border-t.border-x.gap-4.items-center.cursor-pointer.flex.last\:\$rounded-b-md.first\:\$rounded-t-md:nth-of-type(2)
+www.freepik.com##.\$text-blueFreepik.\$inline-block.\$mt-10.\$sprinkles-text-xs.hover\:text-primary-1.text-primary-0.font-semibold
+www.freepik.com##.text-surface-foreground-2.\$font-semibold.\$text-xs.billing_maskedCardNumber__1ntWH
+www.freepik.com##.py-\[10px\].px-4.border-surface-border-0.border.rounded.gap-4.items-center.flex-wrap.flex
+www.freepik.com##.\$mt-20.dark\:hover\:\$bg-blueFreepik.dark\:\$text-blueScience.hover\:\$bg-blueScience.\$text-white.\$bg-blueFreepik.\$whitespace-nowrap.\$rounded-\[6px\].\$font-semibold.\$sprinkles-text-base.\$px-\[25px\].\$py-\[10px\].\$w-full.\$justify-center.\$flex.\$no-underline.\$duration-\[300ms\].\$transition-colors.\$items-center
+www.freepik.com##.lg\:w-\[208px\].hover\:bg-surface-3.ease-in.duration-100.py-\[9px\].px-4.bg-surface-2.rounded-lg.w-full
+www.freepik.com##.text-sm._2xuulm14._2xuulmx.\$items-center._2xuulm9.\$sprinkles-text-sm.\$h-\[inherit\].\$px-\[10px\].\$transition-colors.\$sprinkles-text-base.\$no-underline.\$font-semibold.\$flex._2xuulmd
+
