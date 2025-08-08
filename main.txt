@@ -1309,3 +1309,20 @@ elements.envato.com##.bzNofK.fFXeDi.sc-khsqcC.sc-dkrFOg.fLJxAw.sc-bcXHqe
 account.elements.envato.com##.CEHN3Umw
 account.elements.envato.com##.gNwtRiju
 elements.envato.com##.H5vx7gEB.Y0Fl413W
+
+! Envato снова
+! 2023-07-10 https://elements.envato.com
+elements.envato.com##.jmhFZQ.cPdjwb.sc-bCDidY.sc-fsQiph > .cbKsLB.sc-fsQiph
+elements.envato.com##div.dkGsnt.cbKsLB.sc-fGFwAa.sc-fsQiph:nth-of-type(2)
+elements.envato.com##.cLqJrz.jXjeVX.sc-eKYjST.sc-dmqHEX.gzPyyM.sc-beqWaB
+elements.envato.com##.label-container.ACMIj.jXjeVX.sc-kgKVFY.sc-dmqHEX.gzPyyM.sc-beqWaB
+elements.envato.com##.khsnpo.sc-jegxcv
+! 2023-11-17 https://account.elements.envato.com
+account.elements.envato.com##.ADrhEmMX
+! 2023-11-17 https://elements.envato.com
+elements.envato.com##.ledPWQ.cGBhOx.sc-bbSZdi.sc-imWYAI > .cIMMqX.sc-imWYAI
+elements.envato.com##.dhvqwu.sc-jxOSlx
+elements.envato.com##div.iZqZog.cIMMqX.sc-fPXMVe.sc-imWYAI:nth-of-type(2)
+elements.envato.com##.sc-bbSZdi
+elements.envato.com##input[type="password"]
+elements.envato.com##a[data-testid="forgotUsernameLink"]
