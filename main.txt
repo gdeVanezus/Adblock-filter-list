@@ -1328,13 +1328,13 @@ elements.envato.com##input[type="password"]
 elements.envato.com##a[data-testid="forgotUsernameLink"]
 
 
-##a[data-testid="sign-out-link"]
-##a[href="https://help.elements.envato.com/hc/en-us/"]
+
 account.elements.envato.com##.SGxlIng1 > .nTCW_OeW
 account.elements.envato.com##section.R7UIfAnZ:nth-of-type(1)
 account.elements.envato.com##form
 account.elements.envato.com##.GIYO80sX
 account.elements.envato.com##.CEHN3Umw
 account.elements.envato.com##.lwux1xc4
+
 
 
