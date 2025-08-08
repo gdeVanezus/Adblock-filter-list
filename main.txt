@@ -1333,7 +1333,8 @@ account.elements.envato.com##.GIYO80sX
 account.elements.envato.com##.CEHN3Umw
 account.elements.envato.com##.lwux1xc4
 account.elements.envato.com##form
-account.elements.envato.com##section.R7UIfAnZ:nth-of-type(1)
+
+
 
 
 
