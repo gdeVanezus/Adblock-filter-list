@@ -1336,8 +1336,5 @@ account.elements.envato.com##form
 account.elements.envato.com##.GIYO80sX
 account.elements.envato.com##.CEHN3Umw
 account.elements.envato.com##.lwux1xc4
-elements.envato.com##.nCWiMC_q
-elements.envato.com##.iFrUrPGV
-elements.envato.com##.mzBWPIgr
-elements.envato.com##.K8HFfhTV
-elements.envato.com##.HS6hlPnE
+
+
