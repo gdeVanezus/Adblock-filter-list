@@ -986,83 +986,7 @@ www.freepik.com##.\$text-grayOxford.\$p-20.\$bg-grayHades\/20.\$border-grayHeath
 www.freepik.com##.\$text-grayOxford.\$font-alternate.\$sprinkles-text-2xl.\$mb-20
 
 
-Envato
-elements.envato.com##.IApy4UwJ
-elements.envato.com##.M_ciPgaF
-elements.envato.com##.SQwnu9It
-elements.envato.com##._uPYWdBx.R0yMSq_u
-elements.envato.com##.ddGMEOpL
-elements.envato.com##.ex7gyfzY
-elements.envato.com##.hHFF_PPi
-elements.envato.com##.UHoyWaA1.username.huPvc6Z1
-elements.envato.com##.UHoyWaA1.password.huPvc6Z1
-elements.envato.com##.kulw0CQf .pnaMrbkn.EjgazRe_ > .W8LBOjqa
-elements.envato.com##.m79w7Rxn
-elements.envato.com##.mW_Zeem8
-elements.envato.com##.qqLmI2XZ
-elements.envato.com##.rMNRgR0S.mW_Zeem8
-elements.envato.com##.xMdHBep0
-elements.envato.com##.D8Ruvw9s
-elements.envato.com##.i6e_BsOx
-elements.envato.com##li.CwB8BmDC > .R0yMSq_u
-elements.envato.com##a.hTPaPH.eEdhPi.bQLgCw.sc-cUEOzv.sc-cCjUiG.sc-gYbzsP.bGsCqg.sc-kMjNwy
-elements.envato.com##.bfDBdm.sc-jcMfQk
-elements.envato.com##div.ejmSgi.jLrBOP.sc-fEXmlR.sc-ftTHYK:nth-of-type(2)
-elements.envato.com##div.ejmSgi.jLrBOP.sc-fEXmlR.sc-ftTHYK:nth-of-type(1)
-elements.envato.com##.gNEXao.fFXeDi.sc-eJDSGI.sc-dkrFOg.fLJxAw.sc-bcXHqe
-elements.envato.com##.bzNofK.fFXeDi.sc-khsqcC.sc-dkrFOg.fLJxAw.sc-bcXHqe
-account.elements.envato.com##.CEHN3Umw
-account.elements.envato.com##.gNwtRiju
-elements.envato.com##.H5vx7gEB.Y0Fl413W
-! Envato снова
-! 2023-07-10 https://elements.envato.com
-elements.envato.com##.jmhFZQ.cPdjwb.sc-bCDidY.sc-fsQiph > .cbKsLB.sc-fsQiph
-elements.envato.com##div.dkGsnt.cbKsLB.sc-fGFwAa.sc-fsQiph:nth-of-type(2)
-elements.envato.com##.cLqJrz.jXjeVX.sc-eKYjST.sc-dmqHEX.gzPyyM.sc-beqWaB
-elements.envato.com##.label-container.ACMIj.jXjeVX.sc-kgKVFY.sc-dmqHEX.gzPyyM.sc-beqWaB
-elements.envato.com##.khsnpo.sc-jegxcv
-! 2023-11-17 https://account.elements.envato.com
-account.elements.envato.com##.ADrhEmMX
-! 2023-11-17 https://elements.envato.com
-elements.envato.com##.ledPWQ.cGBhOx.sc-bbSZdi.sc-imWYAI > .cIMMqX.sc-imWYAI
-elements.envato.com##.dhvqwu.sc-jxOSlx
-elements.envato.com##div.iZqZog.cIMMqX.sc-fPXMVe.sc-imWYAI:nth-of-type(2)
-elements.envato.com##.sc-bbSZdi
-elements.envato.com##input[type="password"]
-elements.envato.com##a[data-testid="forgotUsernameLink"]
 
-##a[data-testid="sign-out-link"]
-##a[href="https://help.elements.envato.com/hc/en-us/"]
-account.elements.envato.com##.SGxlIng1 > .nTCW_OeW
-account.elements.envato.com##section.R7UIfAnZ:nth-of-type(1)
-account.elements.envato.com##form
-account.elements.envato.com##.GIYO80sX
-account.elements.envato.com##.CEHN3Umw
-account.elements.envato.com##.lwux1xc4
-elements.envato.com##.nCWiMC_q
-elements.envato.com##.iFrUrPGV
-elements.envato.com##.mzBWPIgr
-elements.envato.com##.K8HFfhTV
-elements.envato.com##.HS6hlPnE
-##a[href="https://elements.envato.com/pricing/teams/upgrade"]
-account.envato.com##a.QHZjZ.gFVVdD.bSAjUJ.sc-jcvhOc.sc-fuExOL.sc-dPKAra.sc-eiwqOE:nth-of-type(1)
-account.envato.com##a.QHZjZ.gFVVdD.bSAjUJ.sc-jcvhOc.sc-fuExOL.sc-dPKAra.sc-eiwqOE:nth-of-type(2)
-account.envato.com##a.QHZjZ.gFVVdD.bSAjUJ.sc-jcvhOc.sc-fuExOL.sc-dPKAra.sc-eiwqOE:nth-of-type(3)
-account.envato.com##a.QHZjZ.gFVVdD.bSAjUJ.sc-jcvhOc.sc-fuExOL.sc-dPKAra.sc-eiwqOE:nth-of-type(4)
-account.envato.com##.hYUpxT.sc-dVBluf
-account.envato.com##.egHUYQ.QHZjZ.jAVDfw.bSAjUJ.sc-dJkDXt.sc-fuExOL.sc-dPKAra.sc-eiwqOE
-elements.envato.com##.Mvefxhtu.W75Bck95.McVQtipP.nr9DhCl_
-##a[href="https://account.elements.envato.com/subscription"]
-##a[href="https://elements.envato.com/de/pricing/teams/upgrade"]
-##a[href="https://account.elements.envato.com/de/subscription"]
-##a[href="https://elements.envato.com/es/pricing/teams/upgrade"]
-##a[href="https://account.elements.envato.com/es/subscription"]
-##a[href="https://elements.envato.com/fr/pricing/teams/upgrade"]
-##a[href="https://account.elements.envato.com/fr/subscription"]
-##a[href="https://account.elements.envato.com/pt-br/subscription"]
-##a[href="https://elements.envato.com/pt-br/pricing/teams/upgrade"]
-##a[href="https://elements.envato.com/ru/pricing/teams/upgrade"]
-##a[href="https://account.elements.envato.com/ru/subscription"]
 
 ! 21 бер. 2025 р. https://claude.ai
 claude.ai##.gap-1.grow-\[3\].grid.min-w-60 > .rounded-\[0\.6rem\].px-3.h-11.disabled\:opacity-50.disabled\:cursor-not-allowed.focus\:outline-none.focus\:ring-0.focus-within\:\!border-accent-secondary-100.focus\:border-accent-secondary-100.placeholder\:text-text-500.transition-colors.hover\:border-border-100.border-border-200.border.bg-bg-000
@@ -1354,5 +1278,6 @@ adheart.me##.full-overlay.scrolled.emjVnr.sc-3dc51cbd-2.cTCsAo.sc-62907514-2
 adheart.me##.hODfNV.sc-a0d4bd9c-7
 adheart.me##.REhAp.eDFja-D.sc-6457119f-2.sc-55e82b4d-3.hRocGL.sc-c5443e25-3
 adheart.me##.zuzeh.sc-f14bb546-0
+
 
 
