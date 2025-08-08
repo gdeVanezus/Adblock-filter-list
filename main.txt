@@ -1311,7 +1311,7 @@ adheart.me##.hAgWwZ.sc-b95d6012-0
 adheart.me##.iXmCRo.sc-2ec780f6-0
 adheart.me##.dBTTkY.sc-aaa02eea-1.hRocGL.sc-c5443e25-3
 
-chatgpt.com##div.gap-1\.5.__menu-item.group:nth-of-type(1)
+
 
 ! 10 черв. 2025 р. https://chatgpt.com
 chatgpt.com##.group-focus-visible\:ring-2.rounded-full.justify-center.items-center.w-9.h-9.flex.touch\:w-10.touch\:h-10.group-hover\:bg-token-interactive-bg-secondary-hover
@@ -1354,4 +1354,5 @@ adheart.me##.full-overlay.scrolled.emjVnr.sc-3dc51cbd-2.cTCsAo.sc-62907514-2
 adheart.me##.hODfNV.sc-a0d4bd9c-7
 adheart.me##.REhAp.eDFja-D.sc-6457119f-2.sc-55e82b4d-3.hRocGL.sc-c5443e25-3
 adheart.me##.zuzeh.sc-f14bb546-0
+
 
