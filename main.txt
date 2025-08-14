@@ -1354,6 +1354,7 @@ elements.envato.com##.Mvefxhtu.W75Bck95.McVQtipP.nr9DhCl_
 ##a[href="https://elements.envato.com/ru/pricing/teams/upgrade"]
 ##a[href="https://account.elements.envato.com/ru/subscription"]
 
+chatgpt.com##div.gap-1\.5.hoverable.__menu-item.group:nth-of-type(1)
 
 
 
