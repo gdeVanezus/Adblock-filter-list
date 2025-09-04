@@ -1356,6 +1356,28 @@ elements.envato.com##.Mvefxhtu.W75Bck95.McVQtipP.nr9DhCl_
 
 chatgpt.com##div.gap-1\.5.hoverable.__menu-item.group:nth-of-type(1)
 
+adheart.me##.gBTBrX.sc-dc3ae6b8-3
+adheart.me##.cbAyFB.sc-dc3ae6b8-4
+adheart.me##.grey.bUUWUV.sc-f50232f7-0
+adheart.me##button.profile-change-password-button.fkORnN.sc-9999e6cb-3:nth-of-type(1)
+adheart.me##.red.profile-change-password-button.fkORnN.sc-9999e6cb-3
+adheart.me##.green.ibWCjM.sc-7e026634-2 > .dnXMKi.dzRdzJ.sc-7e026634-5.sc-7e026634-3
+adheart.me##.hHeQcO.sc-a6bca4f9-1
+adheart.me##.hyjHdE.kgBzBL.sc-34514aca-8.sc-34514aca-5
+adheart.me##.jOfaIH.sc-f4a38de6-0
+adheart.me##.ctfsCY.sc-cecb4f24-0
+adheart.me##.gKGjlc.sc-78a8ec24-0
+adheart.me##.eNHFjo.sc-32839cf7-0
+adheart.me##.jtWbrK.sc-34514aca-4
+adheart.me##a.jCVdIp.sc-2ae0f80-0:nth-of-type(1)
+adheart.me##.mt-4.ml-auto.cJERkf.sc-b2325082-5.bWzjiT.sc-9999e6cb-3
+adheart.me##a.jCVdIp.sc-2ae0f80-0:nth-of-type(2)
+adheart.me##a.jCVdIp.sc-2ae0f80-0:nth-of-type(3)
+adheart.me##a.jCVdIp.sc-2ae0f80-0:nth-of-type(5)
+adheart.me##a.jCVdIp.sc-2ae0f80-0:nth-of-type(4)
+adheart.me##.beyNWM.sc-2ae0f80-1
+adheart.me##.chAyZf.sc-bda3274a-3
+adheart.me##.dpnIeQ.sc-b2325082-0
 
 
 
