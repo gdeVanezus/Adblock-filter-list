@@ -1,2 +1,4 @@
 whoer.net
 *.whoer.net
+whoer.com
+*.whoer.com
