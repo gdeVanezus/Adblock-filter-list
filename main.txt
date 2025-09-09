@@ -1381,6 +1381,7 @@ adheart.me##.dpnIeQ.sc-b2325082-0
 
 
 chatgpt.com##.md\:px-\[60px\].text-xs.text-center.p-2.justify-center.items-center.w-full.min-h-8.flex.mt-auto.relative.text-token-text-secondary > div
+chatgpt.com###snorlax-heading > div.gap-1\.5.hoverable.__menu-item.group
 
 
 
