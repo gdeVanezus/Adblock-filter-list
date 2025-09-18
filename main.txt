@@ -1387,6 +1387,8 @@ chatgpt.com###snorlax-heading > div.gap-1\.5.hoverable.__menu-item.group
 claude.ai##.text-start.font-normal.text-text-300.text-xs.truncate.w-full
 
 chatgpt.com##.group-data-scrolled-from-end\/scrollport\:shadow-\(--sharp-edge-bottom-shadow\).py-1\.5.bg-token-bg-elevated-secondary.empty\:hidden.z-30.bottom-0.sticky > div > .gap-2.hoverable.__menu-item.group
+chatgpt.com##div.gap-1\.5.hoverable.__menu-item.group:nth-of-type(1)
+
 
 
 
