@@ -1389,6 +1389,9 @@ claude.ai##.text-start.font-normal.text-text-300.text-xs.truncate.w-full
 chatgpt.com##.group-data-scrolled-from-end\/scrollport\:shadow-\(--sharp-edge-bottom-shadow\).py-1\.5.bg-token-bg-elevated-secondary.empty\:hidden.z-30.bottom-0.sticky > div > .gap-2.hoverable.__menu-item.group
 chatgpt.com##div.gap-1\.5.hoverable.__menu-item.group:nth-of-type(1)
 
+! 19 вер. 2025 р. https://chatgpt.com
+chatgpt.com###history > .last\:mb-5.pt-\(--sidebar-section-margin-top\)
+chatgpt.com##.motion-safe\:duration-150.motion-safe\:transition-colors.focus-visible\:outline-hidden.focus-visible\:ring-offset-transparent.focus-visible\:ring-offset-1.focus-visible\:ring-2.focus-visible\:ring-token-text-tertiary.p-2.border-\[\.5px\].border.border-token-border-default.text-xs.pe-4.ps-4.py-3.rounded-t-2xl.justify-between.items-center.w-full.flex.z-10.relative.hover\:bg-token-main-surface-secondary.text-token-text-primary.sm\:bg-token-main-surface-primary.group
 
 
 
