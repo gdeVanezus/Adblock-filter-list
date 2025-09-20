@@ -4,3 +4,9 @@ whoer.com
 *.whoer.com
 
 www.youtube.com
+*.youtube.com
+
+proton.me
+*.proton.me
+
+myaccount.google.com
