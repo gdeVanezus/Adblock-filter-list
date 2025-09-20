@@ -24,3 +24,4 @@ docs.google.com
 passwords.google.com
 analytics.google.com
 accounts.google.com
+workspace.google.com
