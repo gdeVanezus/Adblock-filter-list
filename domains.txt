@@ -63,3 +63,4 @@ classroom.google.com
 
 *workspace.google.com
 
+accounts.google.com
