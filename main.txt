@@ -1435,4 +1435,17 @@ www.youtube.com##.ytd-rich-grid-renderer.style-scope > .ytd-rich-section-rendere
 www.youtube.com###guide-inner-content
 
 
+mail.proton.me##.w-full.text-center.inline-block.button-solid-norm.button-medium.button
+mail.proton.me##.text-center.inline-block.button-outline-weak.button-medium.w-full.button
+mail.proton.me##.gap-3.items-start.flex-nowrap.flex-column.\*\:min-size-auto.flex.pt-0\.5.p-3.h-full > button.button-outline-weak.button-medium.w-full.button
+mail.proton.me##div.shadow-norm.rounded-lg.py-2.px-4.justify-center.shrink-0.gap-2.flex-column.\*\:min-size-auto.flex.w-full.drawerAppSection:nth-of-type(1)
+mail.proton.me##.w-full.gap-2.items-center.justify-space-between.flex-nowrap.flex.quickSettingsSectionRow
+mail.proton.me##div.shadow-norm.rounded-lg.py-2.px-4.justify-center.shrink-0.gap-2.flex-column.\*\:min-size-auto.flex.w-full.drawerAppSection:nth-of-type(3)
+mail.proton.me##div.shadow-norm.rounded-lg.py-2.px-4.justify-center.shrink-0.gap-2.flex-column.\*\:min-size-auto.flex.w-full.drawerAppSection:nth-of-type(5)
+mail.proton.me##.gap-4.grid-auto-fill.m-0.unstyled
+mail.proton.me##.w-full.h-full.relative.flex-column.flex-nowrap.flex.overflow-auto.items-column-list-container
+mail.proton.me##.grow-2.outline-none
+mail.proton.me##.outline-none.no-print.flex-column.flex-nowrap.flex.sidebar
+mail.proton.me##.reset4print.flex-nowrap.flex.header
+
 
