@@ -61,4 +61,5 @@ one.google.com/
 
 *accounts.google.com/v3/signin/  
 
+*workspace.google.com
 
