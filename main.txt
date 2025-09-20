@@ -1392,6 +1392,47 @@ chatgpt.com##div.gap-1\.5.hoverable.__menu-item.group:nth-of-type(1)
 ! 19 вер. 2025 р. https://chatgpt.com
 chatgpt.com##.motion-safe\:duration-150.motion-safe\:transition-colors.focus-visible\:outline-hidden.focus-visible\:ring-offset-transparent.focus-visible\:ring-offset-1.focus-visible\:ring-2.focus-visible\:ring-token-text-tertiary.p-2.border-\[\.5px\].border.border-token-border-default.text-xs.pe-4.ps-4.py-3.rounded-t-2xl.justify-between.items-center.w-full.flex.z-10.relative.hover\:bg-token-main-surface-secondary.text-token-text-primary.sm\:bg-token-main-surface-primary.group
 
+! 20 вер. 2025 р. https://accounts.google.com
+accounts.google.com##.CDELXb.sdJrJc.zKHdkd.i79UJc.rFrNMe
+accounts.google.com##.lw1w4b.TrZEUc.Jskylb.BqKGqe.LQeN7.DuMIQc.AjY5Oe.nCP5yc.VfPpkd-LgbsSe-OWXEXe-dgl2Hf.VfPpkd-LgbsSe-OWXEXe-k8QpJ.VfPpkd-LgbsSe > .VfPpkd-vQzf8d
+accounts.google.com##.lw1w4b.TrZEUc.Jskylb.BqKGqe.LQeN7.DuMIQc.AjY5Oe.nCP5yc.VfPpkd-LgbsSe-OWXEXe-dgl2Hf.VfPpkd-LgbsSe-OWXEXe-k8QpJ.VfPpkd-LgbsSe > .VfPpkd-RLmnJb
+accounts.google.com##.lw1w4b.TrZEUc.Jskylb.BqKGqe.LQeN7.DuMIQc.AjY5Oe.nCP5yc.VfPpkd-LgbsSe-OWXEXe-dgl2Hf.VfPpkd-LgbsSe-OWXEXe-k8QpJ.VfPpkd-LgbsSe > .VfPpkd-Jh9lGc
+accounts.google.com##.O1Slxf
+accounts.google.com##.NEk0Ve.QTJzre
+accounts.google.com##.xNLKcb.cd29Sd.EPPJc.m8wwGd.Ahygpe
+accounts.google.com###headingText > span
+accounts.google.com##.dMNVAe
+
+! 20 вер. 2025 р. https://myaccount.google.com
+myaccount.google.com##div.l5Ibu.wJpH8c > .qoyPsd.QW4Pie > .R2b1Pb > div.aK2X8b.ugt2L > .I6g62c.CmhoVd.VfPpkd-ksKsZd-XxIAqe > .kJXJmd.N5YmOc.I6g62c.RlFDUe
+myaccount.google.com##div.iDdZmf.t97Ap.aK2X8b.ugt2L > .I6g62c.CmhoVd.VfPpkd-ksKsZd-XxIAqe > .kJXJmd.N5YmOc.I6g62c.RlFDUe
+myaccount.google.com##div.t97Ap.aK2X8b.ugt2L > .I6g62c.CmhoVd.VfPpkd-ksKsZd-XxIAqe > .kJXJmd.N5YmOc.I6g62c.RlFDUe
+myaccount.google.com##div.iDdZmf.aK2X8b.ugt2L > .I6g62c.CmhoVd.VfPpkd-ksKsZd-XxIAqe > .kJXJmd.N5YmOc.I6g62c.RlFDUe
+myaccount.google.com##.I6g62c > .N5YmOc
+myaccount.google.com##.KKjvXb.EhlvJf.RlFDUe
+myaccount.google.com##.EhlvJf.RlFDUe
+myaccount.google.com###gbwa > .gb_D > .gb_B
+myaccount.google.com##.XY0ASe
+myaccount.google.com##div.l5Ibu.wJpH8c > .qoyPsd.QW4Pie > .R2b1Pb > .iDdZmf.aK2X8b.ugt2L > .I6g62c.bvW4md.kJXJmd.N5YmOc.RlFDUe
+myaccount.google.com##div.l5Ibu.wJpH8c > .qoyPsd.QW4Pie > .R2b1Pb > div.ugt2L > .bvW4md.kJXJmd.N5YmOc
+
+! 20 вер. 2025 р. https://mail.google.com
+mail.google.com###gbwa > .gb_D > .gb_B
+mail.google.com##.VYBDae-JX-ano
+mail.google.com##.O6
+mail.google.com##.J-KU-Jg-K9.J-KU-Jg.aAA
+mail.google.com##.aam.V3
+mail.google.com##.brC-bsf-aT5-aOt
+mail.google.com##.gb_Fe
+mail.google.com##.aeJ.Tm
+mail.google.com##.L3.T-I-KE.T-I
+
+! 20 вер. 2025 р. https://www.youtube.com
+www.youtube.com##.yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__fill
+www.youtube.com###avatar-btn
+www.youtube.com###masthead > .ytd-masthead.style-scope
+www.youtube.com##.ytd-rich-grid-renderer.style-scope > .ytd-rich-section-renderer.style-scope
+www.youtube.com###guide-inner-content
 
 
 
