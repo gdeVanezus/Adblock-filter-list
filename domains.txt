@@ -25,3 +25,5 @@ passwords.google.com
 analytics.google.com
 accounts.google.com
 workspace.google.com
+
+adheart.me/en/profile
