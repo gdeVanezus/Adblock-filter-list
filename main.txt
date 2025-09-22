@@ -1449,3 +1449,9 @@ mail.proton.me##.outline-none.no-print.flex-column.flex-nowrap.flex.sidebar
 mail.proton.me##.reset4print.flex-nowrap.flex.header
 
 
+adheart.me##.cIFbHh.sc-923a8175-1
+adheart.me##.full-overlay.scrolled.klNOFw.sc-923a8175-2.bbYBQY.sc-3f4c353a-2
+
+
+
+
