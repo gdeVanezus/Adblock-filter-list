@@ -1451,5 +1451,10 @@ mail.proton.me##.reset4print.flex-nowrap.flex.header
 
 
 
+! Sep 27, 2025 https://elements.envato.com
+elements.envato.com##a.jwKmG4aP:nth-of-type(7)
+elements.envato.com##a.jwKmG4aP:nth-of-type(6)
+elements.envato.com##a.jwKmG4aP:nth-of-type(5)
+elements.envato.com##a.jwKmG4aP:nth-of-type(3)
 
 
