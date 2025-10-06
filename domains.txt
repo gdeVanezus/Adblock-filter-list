@@ -9,21 +9,5 @@ www.youtube.com
 proton.me
 *.proton.me
 
-myaccount.google.com
-mail.google.com
-calendar.google.com
-drive.google.com
-photos.google.com
-meet.google.com
-translate.google.com
-docs.google.com
-one.google.com
-classroom.google.com
-play.google.com
-docs.google.com
-passwords.google.com
-analytics.google.com
-accounts.google.com
-workspace.google.com
 
 
