@@ -1471,4 +1471,5 @@ sora.chatgpt.com##button.max-w-full.cursor-pointer.active\:text-token-text-secon
 
 кнопка удаления в гпт
 chatgpt.com##div[role="menuitem"]:last-child
+chatgpt.com##div.gap-1\.5.hoverable.__menu-item.group:nth-of-type(2)
 
