@@ -1460,3 +1460,5 @@ mail.google.com##.brC-bsf-aT5-aOt
 mail.google.com##.gb_Fe
 mail.google.com##.aeJ.Tm
 mail.google.com##.L3.T-I-KE.T-I
+
+www.midjourney.com##button:has-text(Hide)
