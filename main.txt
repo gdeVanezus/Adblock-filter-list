@@ -1463,4 +1463,5 @@ mail.google.com##.L3.T-I-KE.T-I
 
 ##button:has(svg path[d^="M13.875 18.825A10.05"])
 www.midjourney.com##span:has(svg g#ExternalLink)
+www.midjourney.com##button.group-button:has(svg g#ExternalLink)
 
