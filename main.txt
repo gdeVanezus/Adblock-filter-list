@@ -1462,3 +1462,4 @@ mail.google.com##.aeJ.Tm
 mail.google.com##.L3.T-I-KE.T-I
 
 www.midjourney.com##button:has-text(Hide)
+www.midjourney.com##button:has-text(Open in Discord)
