@@ -1469,7 +1469,7 @@ www.midjourney.com##button.group-button:has(span.relative:has-text(Report))
 
 sora.chatgpt.com##button.max-w-full.cursor-pointer.active\:text-token-text-secondary.text-token-text-primary.font-medium.py-1\.5.pr-4.pl-3.-mx-3.rounded-full.gap-2.items-center.flex
 
-кнопка удаления в гпт
-chatgpt.com##div[role="menuitem"]:last-child
+
 chatgpt.com##div.gap-1\.5.hoverable.__menu-item.group:nth-of-type(2)
+
 
