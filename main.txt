@@ -1477,3 +1477,6 @@ chatgpt.com##div.gap-1\.5.hoverable.__menu-item.group:nth-of-type(2)
 chatgpt.com##.group-data-scrolled-from-end\/scrollport\:shadow-\(--sharp-edge-bottom-shadow\).py-1\.5.bg-token-bg-elevated-secondary.empty\:hidden.z-30.bottom-0.sticky > .relative .gap-2.hoverable.__menu-item.group
 chatgpt.com##.motion-safe\:ease-out.motion-safe\:duration-150.motion-safe\:transition-colors.focus-visible\:outline-hidden.focus-visible\:ring-offset-transparent.focus-visible\:ring-offset-1.focus-visible\:ring-\[\#5856D6\].focus-visible\:ring-2.hover\:bg-token-interactive-bg-secondary-hover.font-medium.text-xs.py-2.px-3.border.rounded-full.bg-token-main-surface-primary.gap-1.justify-center.items-center.w-full.flex.border-token-interactive-border-secondary-default
 chatgpt.com##.pb-3.pt-1.px-3\.5
+
+||adheart.me/_next_static/banners/header-active-uk.webp$image
+||adheart.me/_next_static/banners/active-uk.webp$image
