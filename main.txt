@@ -1481,4 +1481,5 @@ chatgpt.com##.pb-3.pt-1.px-3\.5
 adheart.me/_next_static/banners/header-active-uk.webp$image
 adheart.me/_next_static/banners/active-uk.webp$image
 adheart.me##img[src*="/_next_static/banners/header-active-en.webp"]
+adheart.me##img[src*="/_next_static/banners/active-uk.webp$image"]
 
