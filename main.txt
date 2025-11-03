@@ -1482,4 +1482,5 @@ adheart.me/_next_static/banners/header-active-uk.webp$image
 adheart.me/_next_static/banners/active-uk.webp$image
 adheart.me##img[src*="/_next_static/banners/header-active-en.webp"]
 adheart.me##img[src*="/_next_static/banners/active-uk.webp$image"]
+adheart.me##./_next_static/banners/header-active-uk.webp
 
