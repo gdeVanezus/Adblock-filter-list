@@ -1492,4 +1492,7 @@ chatgpt.com##.gap-2.__menu-item.group
 chatgpt.com##.pb-3.pt-1.px-3\.5
 
 chatgpt.com##div[aria-label="asdf"][role="button"]
+chatgpt.com##[data-testid="accounts-profile-button"]
+data-testid="accounts-profile-button"
+
 
