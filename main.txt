@@ -1491,3 +1491,5 @@ chatgpt.com##.gap-2.__menu-item.group
 ! 18 лист. 2025 р. https://chatgpt.com
 chatgpt.com##.pb-3.pt-1.px-3\.5
 
+chatgpt.com##div[aria-label="asdf"][role="button"]
+
