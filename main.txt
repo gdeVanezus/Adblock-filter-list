@@ -1484,3 +1484,10 @@ adheart.me##img[src*="/_next_static/banners/header-active-en.webp"]
 adheart.me##img[src*="/_next_static/banners/active-uk.webp$image"]
 adheart.me##./_next_static/banners/header-active-uk.webp
 
+! 10 черв. 2025 р. https://chatgpt.com
+chatgpt.com##.group-focus-visible\:ring-2.rounded-full.justify-center.items-center.w-9.h-9.flex.touch\:w-10.touch\:h-10.group-hover\:bg-token-interactive-bg-secondary-hover
+chatgpt.com##.gap-2.__menu-item.group
+
+! 18 лист. 2025 р. https://chatgpt.com
+chatgpt.com##.pb-3.pt-1.px-3\.5
+
