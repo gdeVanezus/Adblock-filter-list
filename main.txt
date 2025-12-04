@@ -1534,5 +1534,7 @@ app.envato.com##li.ds-b1394h2yb:nth-of-type(6)
 app.envato.com##hr.ds-b1394h4nt.ds-b1394h4ns.ds-b1394h425.ds-b1394h4nn.ds-b1394h4nm.ds-b1394h3t5.ds-b1394h4nh.ds-b1394h4pz.ds-b1394h4pp.ds-b1394h4pf.ds-b1394h4p5.ds-b1394h3yw.ds-b1394h3ue.ds-b1394h43e.ds-b1394h47w:nth-of-type(2)
 
 elements.envato.com##a[data-testid="sign-out-link"]
+elements.envato.com##a[href="/sign-out"]:upward(1)
+
 
 
