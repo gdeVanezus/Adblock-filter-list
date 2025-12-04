@@ -1496,3 +1496,41 @@ chatgpt.com##[data-testid="accounts-profile-button"]
 data-testid="accounts-profile-button"
 
 
+! 4 груд. 2025 р. https://account.envato.com
+account.envato.com##.ds-29rq474.ds-b1394h3au.ds-b1394h4s1.ds-b1394h4rt.ds-b1394h4rs.ds-b1394h4l1.ds-b1394h4k5.ds-b1394h37s.ds-b1394h33t.ds-b1394h28c.ds-b1394h1kt.ds-b1394h1fx.ds-b1394h1ds.ds-b1394h13p.ds-b1394hz4.ds-b1394huj.ds-b1394hni.ds-b1394h4fc.ds-b1394h4ew.ds-b1394h4a5.ds-b1394h485.ds-b1394h3i5.ds-b1394ha.ds-b1394h4no.ds-b1394h4nl.ds-b1394h4nr.ds-b1394h4nu.ds-b1394h3ye.ds-b1394h3tw.ds-b1394h42w.ds-b1394h47e.ds-b1394h2mp.ds-b1394h31d.ds-b1394h2wh.ds-b1394h2rl.ds-b1394h2iq.ds-b1394h2h7.ds-b1394h49.ds-b1394h8j.ds-b1394hh3.ds-b1394hct
+account.envato.com##.ds-29rq475.ds-b1394h3au.ds-b1394h4s1.ds-b1394h4rt.ds-b1394h4rs.ds-b1394h4l1.ds-b1394h4k5.ds-b1394h37s.ds-b1394h33t.ds-b1394h28c.ds-b1394h1kt.ds-b1394h1fx.ds-b1394h1ds.ds-b1394h13p.ds-b1394hz4.ds-b1394huj.ds-b1394hni.ds-b1394h4fc.ds-b1394h4ew.ds-b1394h4a5.ds-b1394h485.ds-b1394h3i5.ds-b1394ha.ds-b1394h4no.ds-b1394h4nl.ds-b1394h4nr.ds-b1394h4nu.ds-b1394h3ye.ds-b1394h3tw.ds-b1394h42w.ds-b1394h47e.ds-b1394h2mp.ds-b1394h31d.ds-b1394h2wh.ds-b1394h2rl.ds-b1394h2iq.ds-b1394h2h7.ds-b1394h49.ds-b1394h8j.ds-b1394hh3.ds-b1394hct
+account.envato.com##.ds-b1394h3au.ds-b1394h35c.ds-b1394hqk.ds-b1394hlz > .ds-o0brmj0
+account.envato.com##.ds-b1394h34q.ds-b1394htm.ds-b1394hr6.ds-b1394hlz.ds-b1394hix > .ds-o0brmj0.ds-b1394h1k7.ds-b1394h1fb.ds-b1394h133.ds-b1394hyi.ds-b1394htx
+||account.envato.com/packs/static/assets/images/logos/logo-visa-abafa1a923ee8ccb0192.svg$image
+account.envato.com##.ds-b1394h351.ds-b1394htb.ds-b1394hqk.ds-b1394hlz > .ds-o0brmj0.ds-b1394h1k7.ds-b1394h1fb.ds-b1394h133.ds-b1394hyi.ds-b1394htx
+||account.envato.com/packs/static/assets/images/logos/logo-visa-abafa1a923ee8ccb0192.svg$image
+account.envato.com##.ds-o0brmj0.ds-b1394h1nv.ds-b1394h1iz.ds-b1394h16r.ds-b1394h126.ds-b1394hxl
+account.envato.com##.ds-b1394hqk.ds-b1394hr5.ds-b1394hlz.ds-b1394h3nw.ds-b1394h3au.ds-b1394h4np.ds-b1394h4nm.ds-b1394h4ns.ds-b1394h4nv.ds-b1394h3yn.ds-b1394h3u5.ds-b1394h435.ds-b1394h47n.ds-b1394h3wn.ds-b1394h3s5.ds-b1394h415.ds-b1394h45n.ds-b1394h2pr.ds-b1394h2kv.ds-b1394h2un.ds-b1394h2zj.ds-b1394h5h.ds-b1394h9r.ds-b1394hib.ds-b1394he1
+account.envato.com##.ds-b1394ha.ds-b1394h1f0.ds-b1394h35n.ds-b1394htb.ds-b1394hqk.ds-b1394hr3.ds-b1394hlz.ds-b1394hk5
+account.envato.com##.ds-b1394h35c.ds-b1394htb.ds-b1394hqk.ds-b1394hlz > div.ds-b1394h34f.ds-b1394htb.ds-b1394hqk.ds-b1394hlz > .ds-1f2uzla0.ds-b1394h3au.ds-b1394h2u1.ds-b1394h2p5.ds-b1394h485.ds-b1394h3i5.ds-b1394h4a5.ds-b1394h4no.ds-b1394h4nl.ds-b1394h4nr.ds-b1394h4nu.ds-b1394h49.ds-b1394h8j.ds-b1394hh3.ds-b1394hct
+account.envato.com##div.ds-b1394hpn > .ds-b1394h34f.ds-b1394htb.ds-b1394hqk.ds-b1394hlz > .ds-1f2uzla0.ds-b1394h3au.ds-b1394h2u1.ds-b1394h2p5.ds-b1394h485.ds-b1394h3i5.ds-b1394h4a5.ds-b1394h4no.ds-b1394h4nl.ds-b1394h4nr.ds-b1394h4nu.ds-b1394h49.ds-b1394h8j.ds-b1394hh3.ds-b1394hct
+account.envato.com##.ds-b1394h35c.ds-b1394htb.ds-b1394hqk.ds-b1394hlz > .ds-o0brmj0.ds-b1394h1ki.ds-b1394h1fm.ds-b1394h13e.ds-b1394hyt.ds-b1394hu8.ds-b1394h4e5
+account.envato.com##div.ds-b1394h34f.ds-b1394htb.ds-b1394hqk.ds-b1394hlz > .ds-o0brmj0.ds-b1394h1ki.ds-b1394h1fm.ds-b1394h13e.ds-b1394hyt.ds-b1394hu8.ds-b1394h4e5
+account.envato.com##.ds-b1394h35c.ds-b1394htb.ds-b1394hqk.ds-b1394hlz > div.ds-b1394h34f.ds-b1394htb.ds-b1394hqk.ds-b1394hlz > .ds-b1394h3aj.ds-b1394h4en.ds-b1394h2jy.ds-b1394h2ym > .ds-b1394h34q.ds-b1394htb.ds-b1394hr6.ds-b1394hlz.ds-b1394hix > .ds-b1394hw.ds-b1394h34f.ds-b1394htm.ds-b1394hr6.ds-b1394hlz.ds-b1394him > .ds-o0brmj0.ds-b1394h1mc.ds-b1394h1hg.ds-b1394h158.ds-b1394h10n.ds-b1394hw2
+account.envato.com##div.ds-b1394hpn > .ds-b1394h34f.ds-b1394htb.ds-b1394hqk.ds-b1394hlz > .ds-b1394h3aj.ds-b1394h4en.ds-b1394h2jy.ds-b1394h2ym > .ds-b1394h34q.ds-b1394htb.ds-b1394hr6.ds-b1394hlz.ds-b1394hix > .ds-b1394hw.ds-b1394h34f.ds-b1394htm.ds-b1394hr6.ds-b1394hlz.ds-b1394him > .ds-o0brmj0.ds-b1394h1mc.ds-b1394h1hg.ds-b1394h158.ds-b1394h10n.ds-b1394hw2
+account.envato.com##.ds-o0brmj0.ds-b1394h1o6.ds-b1394h1ja.ds-b1394h172.ds-b1394h12h.ds-b1394hxw
+account.envato.com##.ds-o0brmj0.ds-b1394h1k7.ds-b1394h1fb.ds-b1394h133.ds-b1394hyi.ds-b1394htx.ds-b1394h4e5
+account.envato.com##span.ds-o0brmj0:nth-of-type(2)
+account.envato.com##path:nth-of-type(2)
+account.envato.com##.ds-b1394h35c.ds-b1394htb.ds-b1394hqk.ds-b1394hlz > div.ds-b1394h34q.ds-b1394htb.ds-b1394hqk.ds-b1394hlz > span.ds-o0brmj0
+account.envato.com##.ds-1hjzevs0.ds-b1394h3au.ds-b1394h4r1.ds-b1394h4j0.ds-b1394h26t.ds-b1394h1k7.ds-b1394hyi.ds-b1394htx.ds-b1394h4ew.ds-b1394h485.ds-b1394h3i5.ds-b1394h4ni.ds-b1394h4a5.ds-b1394h4no.ds-b1394h4nl.ds-b1394h4nr.ds-b1394h4nu.ds-b1394h3y5.ds-b1394h3tn.ds-b1394h42n.ds-b1394h475.ds-b1394h3ve.ds-b1394h3qw.ds-b1394h3zw.ds-b1394h44e.ds-b1394h2jy.ds-b1394h2ym.ds-b1394h2u1.ds-b1394h2p5.ds-b1394h49.ds-b1394h8j.ds-b1394hh3.ds-b1394hct
+account.envato.com##.ds-wcryew0.ds-b1394h3au.ds-b1394h2iq.ds-b1394h2gl.ds-b1394h4np.ds-b1394h4nm.ds-b1394h4ns.ds-b1394h4nv.ds-b1394h3y5.ds-b1394h3tn.ds-b1394h42n.ds-b1394h475.ds-b1394h3ve.ds-b1394h3qw.ds-b1394h3zw.ds-b1394h44e.ds-b1394h49.ds-b1394h8j.ds-b1394hh3.ds-b1394hct
+account.envato.com##.dRYIRN.sc-dNdcvo.cCLogJ.sc-kCuUfV
+account.envato.com##fieldset.ds-b1394htb.ds-b1394hqk.ds-b1394hlz
+account.envato.com##.ds-b1394h35n.ds-b1394htb.ds-b1394hqk.ds-b1394hlz > .ds-b1394h35c.ds-b1394htb.ds-b1394hqk.ds-b1394hlz
+account.envato.com##.ds-b1394h34q.ds-b1394htb.ds-b1394hqk.ds-b1394hlz > div.ds-b1394h3au > .ds-7yzrhd6e.ds-7yzrhd3n > .ds-10hojx60.ds-b1394h3au.ds-b1394h4s1.ds-b1394h4rt.ds-b1394h4rs.ds-b1394h4k5.ds-b1394h37h.ds-b1394h33t.ds-b1394h26t.ds-b1394h1k7.ds-b1394h1fb.ds-b1394h1ds.ds-b1394h133.ds-b1394hyi.ds-b1394htx.ds-b1394hni.ds-b1394h4fc.ds-b1394h4ew.ds-b1394h4a5.ds-b1394h485.ds-b1394h3i5.ds-b1394ha.ds-b1394h4no.ds-b1394h4nl.ds-b1394h4nr.ds-b1394h4nu.ds-b1394h3ye.ds-b1394h3tw.ds-b1394h42w.ds-b1394h47e.ds-b1394h2jy.ds-b1394h2ym.ds-b1394h2u1.ds-b1394h2p5.ds-b1394h2iq.ds-b1394h2h7.ds-b1394h49.ds-b1394h8j.ds-b1394hh3.ds-b1394hct
+account.envato.com##.ds-b1394h35c.ds-b1394htb.ds-b1394hqk.ds-b1394hlz > .ds-o0brmj0.ds-b1394h1oh.ds-b1394h1jl.ds-b1394h17d.ds-b1394h12s.ds-b1394hy7
+
+! 4 груд. 2025 р. https://app.envato.com
+app.envato.com##li:nth-of-type(2)
+app.envato.com##li.ds-b1394h2jn:nth-of-type(3)
+app.envato.com##.ds-b1394hqk.ds-b1394hlz.ds-b1394h390.ds-b1394h3iw.ds-b1394h2ou.ds-b1394h2jy.ds-b1394h2tq.ds-b1394h2ym.ds-b1394him.ds-b1394h34f.ds-b1394h24.ds-b1394h6e.ds-b1394hey.ds-b1394hao > li.ds-b1394h2yb > .ds-b1394h2tq.ds-b1394h2ou.ds-b1394h3au.ds-b1394h4s2.ds-b1394h4rt.ds-b1394h4rs.ds-b1394h4in.ds-b1394h28y.ds-b1394hlz.ds-b1394h4ew.ds-b1394hix.ds-b1394h3lz.ds-b1394h3lx.ds-b1394h3p5.ds-b1394ha.ds-b1394h4d8.ds-b1394h4d6.ds-b1394h4e5.ds-b1394h3ye.ds-b1394h3tw.ds-b1394h42w.ds-b1394h47e.ds-b1394h2jn.ds-b1394h2yb.ds-b1394h1t.ds-b1394h63.ds-b1394hen.ds-b1394had
+app.envato.com##li.ds-b1394h2yb:nth-of-type(6)
+app.envato.com##hr.ds-b1394h4nt.ds-b1394h4ns.ds-b1394h425.ds-b1394h4nn.ds-b1394h4nm.ds-b1394h3t5.ds-b1394h4nh.ds-b1394h4pz.ds-b1394h4pp.ds-b1394h4pf.ds-b1394h4p5.ds-b1394h3yw.ds-b1394h3ue.ds-b1394h43e.ds-b1394h47w:nth-of-type(2)
+
+
