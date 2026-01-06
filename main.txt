@@ -1537,4 +1537,13 @@ elements.envato.com##a[data-testid="sign-out-link"]
 elements.envato.com##a[href="/sign-out"]:upward(1)
 
 
+! 6 січ. 2026 р. https://adheart.me
+||adheart.me/_next_static/creatives/filters-top.jpg$image
+||adheart.me/_next_static/creatives/filters-top.jpg$image
+||adheart.me/_next_static/creatives/filters-top.jpg$image
+adheart.me##.kEufcm.sc-b96b4cd4-3
+adheart.me##.mb-4.hFqKzq.sc-b96b4cd4-0
+adheart.me##.ml-auto.bWzjiT.sc-9999e6cb-3
+
+
 
