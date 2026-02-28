@@ -1546,4 +1546,11 @@ adheart.me##.mb-4.hFqKzq.sc-b96b4cd4-0
 adheart.me##.ml-auto.bWzjiT.sc-9999e6cb-3
 
 
+account.envato.com##a[aria-atomic][aria-live][href]
+account.envato.com##button[aria-atomic][aria-live][disabled][type][data-testid]
+account.envato.com##div.ds-b1394h13e.ds-b1394h8b7.ds-b1394h8am.ds-b1394h8dd.ds-b1394h8h1.ds-b1394h7m6.ds-b1394h89p
+account.envato.com##div.ds-b1394h861.ds-b1394h13e.ds-b1394h8b8.ds-b1394h8do.ds-b1394h8g4
+account.envato.com##span[data-testid]
+account.envato.com##span[data-testid][aria-level]
+
 
