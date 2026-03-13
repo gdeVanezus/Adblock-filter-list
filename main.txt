@@ -1553,4 +1553,9 @@ account.envato.com##div.ds-b1394h861.ds-b1394h13e.ds-b1394h8b8.ds-b1394h8do.ds-b
 account.envato.com##span[data-testid]
 account.envato.com##span[data-testid][aria-level]
 
+adheart.me##div.sc-5105fd61-0.cJjRby
+adheart.me##div.sc-7742bbeb-2.eTghNl
+adheart.me##div.sc-7742bbeb-4.jycOSZ.demo
+adheart.me##div.sc-a6dcca5d-0.fYcGmX.active.demo
+adheart.me##div.sc-df4e2454-2.dgkWEZ
 
