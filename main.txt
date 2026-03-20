@@ -1639,3 +1639,9 @@ higgsfield.ai##section:nth-of-type(4)
 higgsfield.ai##section:nth-of-type(6)
 higgsfield.ai##section:nth-of-type(7)
 higgsfield.ai##section:nth-of-type(8)
+
+higgsfield.ai###cookiescript_injected_wrapper
+higgsfield.ai##div.absolute.inset-0.z-0
+higgsfield.ai##div.fixed.inset-0.z-[1200].flex.items-center.justify-center.bg-black/60.p-4.sm:items-center
+higgsfield.ai##div.flex.flex-col.gap-5.sm:gap-6.items-center.justify-center.p-4.sm:p-8
+higgsfield.ai##div[data-state][data-aria-hidden][aria-hidden][style]
