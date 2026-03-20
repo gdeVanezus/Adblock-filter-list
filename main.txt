@@ -1622,3 +1622,12 @@ higgsfield.ai##div.h-8.flex.items-center.justify-center.gap-1.pb-0\.5.text-xs.fo
 higgsfield.ai##div.hidden.md\:flex.flex-col.items-end.justify-between.bg-\[\#1c1e20\].rounded-tl-\[8px\].rounded-bl-\[8px\].rounded-tr-\[16px\].rounded-br-\[16px\].p-4.relative.overflow-hidden
 higgsfield.ai##div.hidden.sm\:flex.gap-4.mx-auto.items-center.justify-center
 higgsfield.ai##div.py-4
+higgsfield.ai##div.relative.bg-\[\#bfc4e4\].rounded-\[20px\].p-5.overflow-hidden.min-h-\[164px\]
+higgsfield.ai##div.relative.hidden.md\:flex.flex-col.bg-surface-primary.border.border-separator-card.p-4.gap-2.rounded-\[20px\].mt-14
+higgsfield.ai##div.relative.rounded-2xl.p-4.md\:p-5.flex.flex-1.flex-col.shadow-\[0px_8px_24px_0px_rgba\(0\,0\,0\,0\.12\)\].\[background\:linear-gradient\(180deg\,rgba\(110\,145\,188\,0\.02\)_0\%\,rgba\(110\,145\,188\,0\.20\)_100\%\)\,\#1C1E20\]
+higgsfield.ai##div.relative.rounded-2xl.p-4.md\:p-5.flex.flex-1.flex-col.shadow-\[0px_8px_24px_0px_rgba\(0\,0\,0\,0\.12\)\].\[background\:linear-gradient\(180deg\,rgba\(12\,104\,251\,0\.09\)_0\%\,rgba\(12\,104\,251\,0\.30\)_100\%\)\,\#0F1113\]
+higgsfield.ai##div.relative.rounded-2xl.p-4.md\:p-5.flex.flex-1.flex-col.shadow-\[0px_8px_24px_0px_rgba\(0\,0\,0\,0\.12\)\].\[background\:linear-gradient\(180deg\,rgba\(237\,21\,114\,0\.09\)_0\%\,rgba\(237\,21\,114\,0\.30\)_100\%\)\,\#0F1113\]
+higgsfield.ai##div.relative.rounded-2xl.p-4.md\:p-5.flex.flex-1.flex-col.shadow-\[0px_8px_24px_0px_rgba\(0\,0\,0\,0\.12\)\].\[background\:linear-gradient\(180deg\,rgba\(86\,194\,9\,0\.09\)_0\%\,rgba\(86\,194\,9\,0\.30\)_100\%\)\,\#0F1113\]
+higgsfield.ai##div.rounded-2xl.p-4.bg-surface-primary
+higgsfield.ai##div.rounded-\[10px\].bg-neutral-primary-reverted-5.shadow-\[0_2px_1\.5px_-0\.5px_var\(--Elevation-shadow\,rgba\(0\,0\,0\,0\.03\)\)\,inset_0_2px_3px_0_var\(--Color-White-3\,rgba\(255\,255\,255\,0\.03\)\)\].backdrop-blur-\[12px\].text-font-primary.h-8\!.px-2\!.flex.items-center.gap-1\.5.text-sm.relative
+higgsfield.ai##div.w-full.md\:max-w-\[680px\].flex.flex-col.gap-4
