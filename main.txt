@@ -1600,4 +1600,25 @@ www.freepik.com##td.w-5
 www.freepik.com##td:nth-of-type(2)
 
 
-
+higgsfield.ai###header-promotion
+higgsfield.ai###payment-methods
+higgsfield.ai###pricing-plans
+higgsfield.ai##a[href][aria-current]
+higgsfield.ai##div.absolute.min-w-\[68px\].text-center.leading-\[12px\].-bottom-\[45\%\].right-1\/2.translate-x-1\/2.text-\[10px\].rounded-full.border-2.border-\[rgba\(219\,63\,62\,0\.14\)\].bg-\[radial-gradient\(39\.71\%_136\.54\%_at_51\.64\%_117\.31\%\,\#F920D1_0\%\,\#ED1572_100\%\)\].text-xs.font-bold.text-font-primary.px-2
+higgsfield.ai##div.bg-\[\#131517\].border.border-\[rgba\(217\,217\,217\,0\.04\)\].rounded-\[20px\].p-1.flex.flex-col.gap-1
+higgsfield.ai##div.bg-neutral-primary-reverted-5.rounded-2xl.p-4.mt-4
+higgsfield.ai##div.bg-surface-primary.rounded-3xl.p-6.pt-5
+higgsfield.ai##div.fixed.left-1\/2.-translate-x-1\/2.md\:left-auto.md\:translate-x-0.md\:right-5.bottom-\[65px\].md\:bottom-5.bg-surface-primary.p-5.rounded-\[20px\].z-\[3001\].overflow-hidden.border.border-separator-card
+higgsfield.ai##div.flex-1.bg-\[\#1c1e20\].rounded-\[16px\].md\:rounded-tr-\[8px\].md\:rounded-br-\[8px\].p-4.relative
+higgsfield.ai##div.flex.flex-col.gap-4.rounded-2xl.p-5.justify-between.transition-all
+higgsfield.ai##div.flex.flex-col.gap-8.p-10.pt-6
+higgsfield.ai##div.flex.flex-col.items-center.pt-8.pb-8.px-4
+higgsfield.ai##div.flex.flex-col.md\:flex-row.gap-4.transition-all.duration-300.ease-out
+higgsfield.ai##div.flex.items-center.gap-1.mt-6.p-1.bg-white\/5.rounded-full
+higgsfield.ai##div.flex.items-center.gap-4.justify-center
+higgsfield.ai##div.grid.grid-cols-1.lg\:grid-cols-2.gap-1
+higgsfield.ai##div.h-8.flex.items-center.justify-center.gap-1.pb-0\.5.text-xs.font-grotesk.uppercase.font-bold.text-font-primary-reverted
+higgsfield.ai##div.h-8.flex.items-center.justify-center.gap-1.pb-0\.5.text-xs.font-grotesk.uppercase.font-bold.text-white
+higgsfield.ai##div.hidden.md\:flex.flex-col.items-end.justify-between.bg-\[\#1c1e20\].rounded-tl-\[8px\].rounded-bl-\[8px\].rounded-tr-\[16px\].rounded-br-\[16px\].p-4.relative.overflow-hidden
+higgsfield.ai##div.hidden.sm\:flex.gap-4.mx-auto.items-center.justify-center
+higgsfield.ai##div.py-4
