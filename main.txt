@@ -1653,3 +1653,5 @@ www.semrush.com##div.___SBody_16yb1_gg_
 www.semrush.com##div.___SFlex_11pya_gg_._use_primary_1lba3_gg_.__use_1lba3_gg_.___SCell_1lba3_gg_[data-ui-name][role][headers][name][tabindex][aria-colindex][style]:nth-of-type(3) > div.___SBoxInline_nyka0_gg_.___SContainer_1kwvq_gg_[data-ui-name] > div.___SEllipsis_1kwvq_gg_[data-ui-name][data-qa]
 www.semrush.com##div.___SHeader_16yb1_gg_
 www.semrush.com##li.menu-item.active.svelte-ei2261
+
+adheart.me##div.sc-dc948a6e-0.sc-1651f9db-0.gLaWpB.eDNpTy.danger
