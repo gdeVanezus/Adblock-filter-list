@@ -1658,3 +1658,4 @@ adheart.me##div.sc-dc948a6e-0.sc-1651f9db-0.gLaWpB.eDNpTy.danger
 adheart.me##div.sc-2dcd6bc-0.iMhpZo
 adheart.me##div.sc-91844e62-6.hBlzSR
 adheart.me##div[type]
+adheart.me##.woot-widget-bubble.woot-elements--right
