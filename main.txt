@@ -1655,3 +1655,6 @@ www.semrush.com##div.___SHeader_16yb1_gg_
 www.semrush.com##li.menu-item.active.svelte-ei2261
 
 adheart.me##div.sc-dc948a6e-0.sc-1651f9db-0.gLaWpB.eDNpTy.danger
+adheart.me##div.sc-2dcd6bc-0.iMhpZo
+adheart.me##div.sc-91844e62-6.hBlzSR
+adheart.me##div[type]
