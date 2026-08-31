@@ -1660,4 +1660,6 @@ adheart.me##div.sc-91844e62-6.hBlzSR
 adheart.me##div[type]
 adheart.me##.woot-widget-bubble.woot-elements--right
 
+chatgpt.com##div.bg-token-main-surface-secondary.w-full
+
 www.semrush.com##div.snav-header__trial-badge
