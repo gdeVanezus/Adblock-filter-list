@@ -1662,4 +1662,8 @@ adheart.me##.woot-widget-bubble.woot-elements--right
 
 chatgpt.com##div.bg-token-main-surface-secondary.w-full
 
+chatgpt.com##div.flex.items-center.h-toolbar.gap-2.px-row-x.has-\[\[data-ambient-usage-label\]\]\:h-auto.has-\[\[data-ambient-usage-label\]\]\:min-h-toolbar.browser\:h-16
+chatgpt.com##div.mt-6
+
+
 www.semrush.com##div.snav-header__trial-badge
