@@ -7,6 +7,9 @@
 !
 
 
+
+
+
 ADHEART! АДХЕРТ
 adheart.me##.sc-7388674b-4.iBpwin.ml-auto
 adheart.me###m_user_profile_tab_3
@@ -181,6 +184,11 @@ adheart.me##DIV[class="sc-61dba7e5-4 kmlmJD ml-auto"]
 
 
 
+
+
+
+
+
 SUPA!
 dashboard.supa.ru###page > div.page__main:first-child > div.container > div.main > div.auth.auth_sign-in > div.row.justify-content-center > div.col-md-4 > div.auth__main:nth-child(2) > div.auth__form:first-child > form.form > input.form-control:first-child
 dashboard.supa.ru###page > div.page__main:nth-child(2) > div.container > div.main > div.view > div.view__main:last-child > div.view__content:last-child > div.infinite-scroll-component__outerdiv > div.infinite-scroll-component.videos > div.videos__video-list > div.video-list > div.video-list__video > div.video > div.video__main:first-child > div.video__meta:last-child > div.video__actions.dropdown:last-child > div.dropdown-menu:last-child > button.dropdown-item:nth-child(4)
@@ -203,6 +211,9 @@ dashboard.supa.ru##h2.profile__title
 dashboard.supa.ru###page > div.page__main:first-child > div.container > div.main > div.auth.auth_sign-in > div.row.justify-content-center > div.col-md-4 > div.auth__main:nth-child(2) > div.auth__form:first-child > form.form > input.form-control:nth-child(2)
 dashboard.supa.ru##li.nav__item:nth-of-type(3)
 supa.ru##.primary.small-size.button
+
+
+
 
 
 
@@ -354,48 +365,8 @@ www.flaticon.com###credential_picker_container
 
 
 
-create.vista.com###webWidget
-create.vista.com##.buttonForgotPassword-3EhHp.typography-subheading-m.kvoQnE.sc-dmlrTW.kCQmsc.sc-hHftDr
-create.vista.com##.footerWrapper-3SH7S
-create.vista.com##.form-17YkF
-create.vista.com##.formSeparator-2y42r.typography-body-l
-create.vista.com##.formTitle-1RxKh.typography-marketing-display-s
-create.vista.com##.iconXXL-2N1Rg.typography-display-m.nameContainer-2j7q6
-create.vista.com##.inputsWrapper-2uewO
-create.vista.com##.labelUploadSetting-1a-Pp
-create.vista.com##.leftSideWrapper-qj5fA
-create.vista.com##.newPassTitle-3XLGT
-create.vista.com##.passInputs-18SW8
-create.vista.com##.promocodesWrapper-1hAh4
-create.vista.com##.sidebar-2pLKS
-create.vista.com##.socialButtonsWrapper-17B1p
-create.vista.com##.submit-130_E
-create.vista.com##.subscriptionWrapper-2jSZr
-create.vista.com##.typography-body-m.bQlIvC.sc-dlfnbm.bhdLno.sc-gsTCUz
-create.vista.com##.userAvatarWrapper-1_s-3
-create.vista.com##.wrapper-2Pb9k
-create.vista.com##.inputsWrapper-2uewO
-create.vista.com##.socialButtonsWrapper-17B1p
-create.vista.com##.formSeparator-2y42r.typography-body-l
-create.vista.com##.formTitle-1RxKh.typography-marketing-display-s
-create.vista.com##.typography-body-m.bQlIvC.sc-dlfnbm.bhdLno.sc-gsTCUz
-create.vista.com##.buttonForgotPassword-3EhHp.typography-subheading-m.kvoQnE.sc-dmlrTW.kCQmsc.sc-hHftDr
-create.vista.com##.leftSideWrapper-qj5fA
-create.vista.com##.footerWrapper-3SH7S
-create.vista.com###webWidget
-create.vista.com##.userAvatarWrapper-1_s-3
-create.vista.com##.form-17YkF
-create.vista.com##.labelUploadSetting-1a-Pp
-create.vista.com##.iconXXL-2N1Rg.typography-display-m.nameContainer-2j7q6
-create.vista.com##.sidebar-2pLKS
-create.vista.com##.passInputs-18SW8
-create.vista.com##.newPassTitle-3XLGT
-create.vista.com##.submit-130_E
-create.vista.com##.subscriptionWrapper-2jSZr
-create.vista.com##.wrapper-2Pb9k
-create.vista.com##.promocodesWrapper-1hAh4
-create.vista.com##.userAvatarWrapper-3Lh6L
-create.vista.com##.listMembers-JeETS
+
+
 
 
 
@@ -441,180 +412,6 @@ segmento-target.ru##a[onclick^="stopTask"]
 
 
 
-shop.targethunter.ru##.block-bordered.block-content-full.block-content
-shop.targethunter.ru##.img-lightbox > div
-shop.targethunter.ru##.right_sidebar_content.col-sm-4 > .text-center.th-block-bg
-shop.targethunter.ru##.right_sidebar_content.col-sm-6 > .text-center.th-block-bg
-shop.targethunter.ru##.school_courses_content > .container-fluid > .row > .text-center.col-sm-12 > .btn-default.btn-sm.btn
-shop.targethunter.ru##.school_courses_content > div.th-block-bg
-shop.targethunter.ru##div.block:nth-of-type(2) > .block-content-full.block-content
-shop.targethunter.ru##div.block:nth-of-type(2) > .th-block-header
-shop.targethunter.ru##div.block:nth-of-type(3) > .block-content-full.block-content
-shop.targethunter.ru##div.col-lg-4.col-md-6.col-sm-6.col-xs-6:nth-of-type(1)
-shop.targethunter.ru##div.col-lg-4.col-md-6.col-sm-6.col-xs-6:nth-of-type(2)
-shop.targethunter.ru##div.col-sm-6
-shop.targethunter.ru##div.th-block-bg:nth-of-type(2) > .container-fluid > .row
-shop.targethunter.ru##div.th-block-bg:nth-of-type(3) > .container-fluid > .row
-targethunter.ru###vkwidget1
-targethunter.ru##.autopay_content.block-content-full.block-content
-targethunter.ru##.bg-white.dropdown-toggle.btn-image.btn-default.btn
-targethunter.ru##.bg-white.tariff-button.btn-default.btn
-targethunter.ru##.cabinet_list.block-content-full.block-content
-targethunter.ru##.col-md-12 > .block-bordered.block > .block-content-full.block-content
-targethunter.ru##.color-warning.block-content
-targethunter.ru##.dropdown-menu-right.dropdown-menu
-targethunter.ru##.integration_content.block-content-full.block-content
-targethunter.ru##.my_cabinet_list.block-content-full.block-content
-targethunter.ru##.session_content.block-content-full.block-content
-targethunter.ru##.tariff_auto_renew.block-content-full.block-content
-targethunter.ru##.text-center.block-content-full.block-content
-targethunter.ru##.th-block-bg > .row > div.col-sm-6:nth-of-type(2) > .btn-default.btn-sm.btn-block.btn
-targethunter.ru##.widget-group-vk-head
-targethunter.ru##.widget-vk2-btn
-targethunter.ru##.withdraw-content > div > .block > .block-content
-targethunter.ru##FOOTER[id="page-footer"][class="content-mini content-mini-full font-s12 bg-gray-lighter clearfix"]
-targethunter.ru##div.block-bordered.block:nth-of-type(3) > .block-content-full.block-content
-targethunter.ru##div.col-lg-6.col-sm-12 > .text-center.block-link-hover3.block-bordered.block > .border-b.bg-gray-lighter.block-content-full.block-content
-targethunter.ru##div.col-lg-6.col-sm-6:nth-of-type(1) > div.block-bordered.block:nth-of-type(1) > .block-content-full.block-content
-targethunter.ru##div.col-lg-6.col-sm-6:nth-of-type(2) > div.block-bordered.block:nth-of-type(2) > .block-content-full.block-content
-targethunter.ru##div.col-sm-6 > .th-border.btn-default.btn-sm.btn-block.btn
-targethunter.ru##div.flex.socials:nth-of-type(5)
-targethunter.ru##div.flex.socials:nth-of-type(6)
-targethunter.ru##div.row:nth-of-type(1) > .col-md-6 > .block-bordered.block > .block-content-full.block-content
-targethunter.ru##li.hidden-xs:nth-of-type(1) > .bg-white.btn-default.btn
-targethunter.ru##input[type="password"]
-
-
-
-mpstats.io##.be-footer
-mpstats.io##.be-user-nav.float-right.navbar-nav.nav
-mpstats.io##.col-xl-12 > .card > .card-body
-mpstats.io##.copy-to-clip.btn-warning.btn-xl.btn
-mpstats.io##.float-right.btn-warning.btn-xs.btn
-mpstats.io##.primary-top-bottom.secondary-right.primary-bottom.trigger-type.cursor-pointer.top-z-index.trigger
-mpstats.io##div.col-md-4.col-sm-6:nth-of-type(1) > .self-align-center.card-border-color-primary.card-border-color.card
-
-
-
-
-##extensions-manager
-
-artgrid.io##.other-plan
-artgrid.io##.social-login
-artgrid.io##.forgot-pass
-artgrid.io##input[type="password"]
-artgrid.io##.join-container
-artgrid.io##.ng-star-inserted.mat-button.sm.art-main-btn-t1.mat-typography
-artgrid.io##.tooglePassword.fa-eye.fa.fas
-artgrid.io##.ng-star-inserted.ng-invalid.ng-pristine.ng-untouched.mat-form-field-hide-placeholder.mat-form-field-has-label.mat-form-field-can-float.mat-form-field-appearance-outline.mat-form-field-type-mat-input.mat-primary.ng-tns-c34-11.mat-form-field
-artgrid.io##.my-account-container
-artgrid.io##button.mat-menu-item:nth-of-type(1)
-artgrid.io##.ng-star-inserted.art-my-refer
-! 2023-11-17 https://artgrid.io
-artgrid.io##.mat-form-field-autofilled.ng-valid.ng-dirty.mat-form-field-should-float.ng-star-inserted.ng-untouched.mat-form-field-has-label.mat-form-field-can-float.mat-form-field-appearance-outline.mat-form-field-type-mat-input.mat-primary.ng-tns-c34-8.mat-form-field > .mat-form-field-wrapper
-artgrid.io##.mat-form-field-autofilled.ng-valid.ng-dirty.mat-form-field-should-float.ng-star-inserted.ng-untouched.mat-form-field-has-label.mat-form-field-can-float.mat-form-field-appearance-outline.mat-form-field-type-mat-input.mat-primary.ng-tns-c34-8.mat-form-field
-
-
-
-
-
-artlist.io###forgot-password-btn
-artlist.io##.appearance-none.leading-5.py-4.text-gray-100.shadow-none.focus\:ring-0.focus\:outline-none.outline-none.bg-transparent.text-base.w-full.grow.flex
-artlist.io##.art-wrapper-dropdown.art-hide-on-mobile
-artlist.io##.border-gray-100.border-t-transparent.py-4.rounded
-artlist.io##.bravo.hastext.input-field
-artlist.io##.footer-sign-up
-artlist.io##.go-to-refer
-artlist.io##.headsign
-artlist.io##input[type="password"]
-artlist.io##.inner-text.auth
-artlist.io##.md\:items-center.md\:justify-between.md\:flex.text-gray-200.text-sm.mt-3
-artlist.io##.md\:text-base.md\:items-center.md\:justify-between.md\:flex.rounded-lg.bg-gray-600.text-gray-200.text-sm.p-3
-artlist.io##.or
-artlist.io##.valid.loginemail
-artlist.io##.xl\:inline.lg\:whitespace-nowrap.lg\:text-left.lg\:flex-col.lg\:flex.text-gray-100.text-center.text-base
-artlist.io##div.hastext.input-field > .checkit.password
-artlist.io##div.hastext.input-field:nth-of-type(2)
-artlist.io##div:nth-of-type(4) > .w-full.relative > .border-gray-100.py-4.rounded
-! 2023-11-17 https://artlist.io
-artlist.io##.leading-4.text-sm.px-8.py-2.hover\:bg-white.hover\:text-primary.border-white.text-white.disabled\:bg-transparent.disabled\:text-gray-300.bg-transparent.border.transition-smooth.disabled\:border-gray-300.disabled\:bg-gray-300.disabled\:text-primary.disabled\:cursor-not-allowed.rounded-full.font-bold.items-center.justify-center.flex
-artlist.io##.fa-1x.fa-eye.svg-inline--fa
-artlist.io##div.w-full.mb-8:nth-of-type(2) > .w-full.relative > .border-success.border-t-transparent.px-4\.5.sm\:py-4.py-3.rounded.border.items-stretch.w-full.flex
-
-
-
-
-
-www.epidemicsound.com##.src-mainapp-___MessageContainer__messageContainer___DciBh
-! Бургер
-www.epidemicsound.com##.css-utmdtn
-! Account/Subscriptions
-www.epidemicsound.com##.src-mainapp-subscriptions-components-___SubscriptionActions__subscriptionActionContainer___E8GNr
-www.epidemicsound.com##.css-1ygdlcp.src-mainapp-account-___AccountPage__content___ccotP > div > div:nth-of-type(1) > div.src-mainapp-account-components-___AccountPageSection__accountPageSection___9bLQR:nth-of-type(2)
-www.epidemicsound.com##.css-1ygdlcp.src-mainapp-account-___AccountPage__content___ccotP > div > div.src-mainapp-account-components-___AccountPageSection__accountPageSection___9bLQR
-www.epidemicsound.com##div.src-mainapp-subscriptions-pages-___PlanInfoBox__statusItem___rFWwY:nth-of-type(3) > div:nth-of-type(2) > .css-26f274
-www.epidemicsound.com##div.src-mainapp-subscriptions-pages-___PlanInfoBox__statusItem___rFWwY:nth-of-type(3) > .css-16uidja.src-mainapp-subscriptions-pages-___PlanInfoBox__text___cA8ev
-! Account/Profile
-www.epidemicsound.com##div.src-mainapp-account-components-___AccountPageSection__accountPageSection___9bLQR:nth-of-type(1)
-www.epidemicsound.com##div.src-mainapp-account-components-___AccountPageSection__accountPageSection___9bLQR:nth-of-type(2)
-! Ссылка на аккаунт в футере
-www.epidemicsound.com##div:nth-of-type(1) > .src-mainapp-components-___Footer__sectionLinkList___BUESa > li:nth-of-type(4) > .src-mainapp-components-___Footer__sectionLink___JgmrM
-! Авторизация
-login.epidemicsound.com##[href="https://www.epidemicsound.com/login-partner"]
-login.epidemicsound.com##[href^="/auth/realms/accounts/login-actions/reset-credentials"]
-login.epidemicsound.com##div.form-row:nth-of-type(2) > .form-group
-login.epidemicsound.com##div.form-row:nth-of-type(1) > .form-group
-login.epidemicsound.com##div.form-row:nth-of-type(3) > .form-group
-! 2023-11-17 https://login.epidemicsound.com
-login.epidemicsound.com###kc-social-providers > ul
-
-
-
-
-
-www.renderforest.com##.cEvpVc.IllustrationWrapper--mkkba7
-www.renderforest.com##.dDguOE.FooterLinkWrapper--d1f6lp
-www.renderforest.com##.dZkzFv.SocialButtonsWrapper--1rs2uob
-www.renderforest.com##.hGuqhT.ForgotPassTextBtn--dn8yl5
-www.renderforest.com##.hsAVPU.TermsOfServiceTextWrapper--1pmfdua
-www.renderforest.com##.jUtFft.PasswordEyeImg--1fhkero
-www.renderforest.com##.leiUvV.DividerLineWrapper--vwqs45
-www.renderforest.com##A[class="nav-item-link nav-mobile-item active"]
-www.renderforest.com##A[class="nav-item-link nav-mobile-item"]
-www.renderforest.com##A[class="user-menu__link"][href="/ru/logout"]
-www.renderforest.com##A[class="user-menu__link-icon account"]
-www.renderforest.com##A[class="user-menu__link-icon star"]
-www.renderforest.com##DIV[class="styled__GeneralContainer-sc-1ov8tbu-1 lhXqLi"]
-www.renderforest.com##DIV[class="styled__InvoiceContainer-jot44d-0 crsrEP"]
-www.renderforest.com##DIV[class="styled__NotificationContainer-c7mhk-0 dCwTaY"]
-www.renderforest.com##DIV[class="styled__SubscriptionContainer-er9bwa-0 fIxHwK"]
-www.renderforest.com##DIV[class="styled__TabsContainer-sc-2y9k8x-0 cLanDq"]
-www.renderforest.com##DIV[class="styled__VideoPreferencesContainer-sc-12qtce6-0 fOcjcV"]
-www.renderforest.com##SECTION[class="choose-plan"]
-www.renderforest.com##SECTION[class="footer-subscription"]
-www.renderforest.com##SECTION[class="plans-and-features"]
-www.renderforest.com##SPAN[id="header-user-name"][class="name-text"]
-www.renderforest.com##div.xtllt.InputWrapper--11aj591:nth-of-type(1) > .eGvBZe.InputContent--1o9vo3j
-www.renderforest.com##div.xtllt.InputWrapper--11aj591:nth-of-type(2) > .eGvBZe.InputContent--1o9vo3j
-www.renderforest.com##.rf-ru.rf-social-login
-www.renderforest.com##.rf-email.rf-input
-www.renderforest.com##.rf-password.rf-input
-www.renderforest.com##.toggle-pass-visibility
-www.renderforest.com##.active.rf-sign-container > div.rf-links-wrap
-www.renderforest.com##.rf-forgot
-www.renderforest.com###cookie_message
-! 2023-11-17 https://www.renderforest.com
-www.renderforest.com##.announcement-badge__wrapper
-www.renderforest.com##.fVqwnw.PasswordEyeImg--rrf3gj
-www.renderforest.com##div.xGvIK.InputWrapper--x5e0w8:nth-of-type(2)
-www.renderforest.com##.jRhLdb.SocialButtonsWrapper--1558dpk
-www.renderforest.com##.evVmhg.styled__ChangePasswordButtonWrapper-sc-w9uk5f-0
-www.renderforest.com##.eQJDjz.styled__DeleteAccountButtonWrapper-sc-pmd6wu-0
-www.renderforest.com##.jBXCZi.styled__InvoiceContainer-sc-jot44d-0
-www.renderforest.com##.dnndTd.styled__SubscriptionContainer-sc-er9bwa-0
-
-
-##a.group.flex.gap-2.p-2\.5.text-sm.cursor-pointer.focus\:ring-0.radix-disabled\:pointer-events-none.radix-disabled\:opacity-50.group.items-center.hover\:bg-token-sidebar-surface-secondary.rounded-lg
 
 
 
@@ -622,43 +419,6 @@ www.renderforest.com##.dnndTd.styled__SubscriptionContainer-sc-er9bwa-0
 
 
 
-
-
-! Вход через гугл
-picsart.com##[src^="https://accounts.google.com/gsi/iframe/select?client_id=1076413845392-ukovna63hmpicftucqg05oekuaq22p39.apps.googleusercontent.com&ux_mode=popup&ui_mode=card&as=wWchDOGksUaN7W0U0%2F4U0Q&is_itp=true&channel_id=76ccabf3ded2210d6c64a3508bd1197264b8f73b2b8482da"]
-picsart.com###credential_picker_container
-! Поддержка
-picsart.com##.help-widget-root-d0-0-2-287.help-widget-root-0-2-284
-picsart.com##.help-widget-root-d0-0-2-29.help-widget-root-0-2-26
-! Настройки аккаунта
-picsart.com##.account-root-0-2-70
-picsart.com##.billing-and-subscription-wrapper-0-2-166
-! Авторизация
-picsart.com##.options-form-root-0-2-473
-picsart.com##.picsart-legal-text-root-0-2-499.text-root-d85-0-2-643.text-root-0-2-462 > p
-picsart.com##.options-form-divider-0-2-461
-picsart.com##.insert-password-form-formContent-0-2-553
-! Про оплату
-picsart.com##.payment-methods-container-0-2-304
-picsart.com##.payment-methods-container
-picsart.com##.settings-invoices-settingsInvoices-0-2-324
-picsart.com##.billing-and-subscription-wrapper-0-2-174 > div > div
-! 2023-11-17 https://picsart.com
-picsart.com##.default.vertical-align-content.otFloatingRoundedIcon
-picsart.com##.insert-password-form-formContent-0-2-1087
-picsart.com##.button-interactive-d219-0-2-1375.button-interactive-0-2-44.button-default-d218-0-2-1374.button-default-0-2-43.button-root-d244-0-2-1379.button-root-0-2-54
-picsart.com##.account-accountForm-0-2-97
-picsart.com##.delete-account-buttonContainer-0-2-149
-picsart.com##.delete-account-text-0-2-146
-picsart.com##.settings-about-field-root-0-2-138
-picsart.com##.user-avatar-uploadContainer-0-2-104
-picsart.com##.pa-uiLib-button-responsive-0-2-145.pa-uiLib-button-primary-0-2-143.pa-uiLib-button-root-0-2-142.account-disabledButton-0-2-101.account-saveChanges-0-2-100
-picsart.com##.plan-details-container-0-2-483
-picsart.com##.payment-methods-container-0-2-498
-picsart.com##.settings-invoices-settingsInvoices-0-2-522
-picsart.com##.billing-and-subscription-wrapper-0-2-178 > div > div
-picsart.com##[type="password"]
-picsart.com##[placeholder="Пароль"]
 
 
 
@@ -744,6 +504,9 @@ chatgpt.com##.text-token-text-secondary.text-xs.border-token-border-light.border
 chatgpt.com##.focus-visible\:outline-0.transition.px-1.rounded-full.justify-center.items-center.w-10.h-10.flex.radix-state-open\:text-token-text-secondary.hover\:bg-token-surface-hover.hover\:text-token-text-primary.text-token-text-secondary
 chatgpt.com##.dark\:text-black.dark\:bg-white.dark\:border-transparent.text-white.p-3.bg-black.border-b.justify-between.items-center.min-h-16.h-auto.flex.border-main-surface-secondary
 chatgpt.com##.focus-visible\:outline-0.transition.px-1.rounded-full.justify-center.items-center.w-10.h-10.flex.radix-state-open\:text-token-text-secondary.hover\:bg-token-surface-hover.hover\:text-token-text-primary.text-token-text-secondary
+
+
+
 
 
 
@@ -998,6 +761,15 @@ www.midjourney.com##.lg\:grid.gap-4.flex-col.flex-1.flex
 www.midjourney.com##.min-h-screen.w-full.mx-auto
 www.midjourney.com###accountButton > svg
 www.midjourney.com##.buttonActiveBackground.buttonHoverBackground.buttonActiveOpacity.buttonHoverOpacity.dark\:bg-dark-750.p-2.bg-light-50.rounded-full.gap-2.justify-start.items-center.cursor-pointer.shrink.w-full.flex.group.select-none.buttonActiveRing
+
+
+
+
+
+
+
+
+
 
 SEMRUSH
 www.semrush.com##.gridLayout_T6jD.wrapper_JroZ
