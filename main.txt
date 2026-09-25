@@ -6,6 +6,8 @@
 ! Homepage: https://subsnet.app
 !
 
+
+ADHEART!
 adheart.me##.sc-7388674b-4.iBpwin.ml-auto
 adheart.me###m_user_profile_tab_3
 adheart.me###m_user_profile_tab_3 > .table-striped.table > thead > tr > th
@@ -58,7 +60,7 @@ adheart.me##.sc-a4f3529e-0
 
 
 
-
+SUPA!
 dashboard.supa.ru###page > div.page__main:first-child > div.container > div.main > div.auth.auth_sign-in > div.row.justify-content-center > div.col-md-4 > div.auth__main:nth-child(2) > div.auth__form:first-child > form.form > input.form-control:first-child
 dashboard.supa.ru###page > div.page__main:nth-child(2) > div.container > div.main > div.view > div.view__main:last-child > div.view__content:last-child > div.infinite-scroll-component__outerdiv > div.infinite-scroll-component.videos > div.videos__video-list > div.video-list > div.video-list__video > div.video > div.video__main:first-child > div.video__meta:last-child > div.video__actions.dropdown:last-child > div.dropdown-menu:last-child > button.dropdown-item:nth-child(4)
 dashboard.supa.ru##.HW_visible.HW_badge_cont
@@ -89,7 +91,7 @@ supa.ru##.primary.small-size.button
 
 ! Авторизация Flaticon
 
-! Freepik
+Freepik, MAGNIFIC
 ru.freepik.com###footer
 ru.freepik.com###go-premium-menu-link
 ru.freepik.com###payment_method_box
@@ -609,33 +611,82 @@ account.grammarly.com##.f1lqnxri._kazaDangerContrast_eeij4_25._kazaFormat_eeij4_
 
 
 
-
+CHATGPT ЧАТГПТ
 auth0.openai.com##.ce460850a.c01d45ffc
 auth0.openai.com##.c1b0c47a8.cd2e05f8d
 auth0.openai.com##.cb7ee17b4.ca8eca547.cc48745dc
 auth0.openai.com##._button-icon.c3f6e0ede.ulp-button-icon.cec7de2e9
-
 auth0.openai.com##[type="password"]
 auth0.openai.com##.password
-
 auth0.openai.com##._alternate-action
 ! или
 auth0.openai.com##.cb3a0b9a1
-
 auth0.openai.com##[data-provider="windowslive"]
 auth0.openai.com##[data-provider="google"]
 auth0.openai.com##[data-provider="apple"]
-
 BUTTON: MY PLAN
 chatgpt.com##nav[role="none"] > a:nth-of-type(1)
-
 ! Sign Up
 chatgpt.com##button.hover\:bg-\[\#0000FF\].text-\[\#fff\].bg-\[\#3C46FF\].font-medium.text-base.text-center.rounded-md.justify-center.items-center.h-12.flex.relative:nth-of-type(2)
-
 ! Collabe subs
 chatgpt.com##.px-2.rounded-lg.m-0.hover\:bg-token-sidebar-surface-secondary.items-center.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus\:ring-0.cursor-pointer.text-sm.p-2\.5.gap-2.flex.group
 chatgpt.com##.flex.h-10.w-10.items-center.justify-center.rounded-full.hover\:bg-token-main-surface-secondary.focus-visible\:bg-token-main-surface-secondary.focus-visible\:outline-0
-
+Убрал создание папок чатгпт
+chatgpt.com##.justify-between.items-center.h-\[26px\].flex > span
+chatgpt.com##.screen-arch\:mb-5.screen-arch\:gap-0\.5.flex-col.flex .h-9.hover\:bg-token-sidebar-surface-secondary.text-token-text-primary.px-2.rounded-lg.gap-2\.5.items-center.w-full.flex
+chatgpt.com##.justify-between.items-center.h-\[26px\].flex
+chatgpt.com##.gap-4.justify-between.items-start.flex > .btn-secondary.relative.btn
+chatgpt.com##.underline
+chatgpt.com##.gap-1.flex-col.flex > .text-sm.text-token-text-tertiary
+chatgpt.com###upload-csv-label
+chatgpt.com###add-emails-label
+chatgpt.com##.text-token-text-primary.form-check-label
+chatgpt.com##.cursor-pointer.focus\:outline-hidden.checked\:bg-blue-600.checked\:border-blue-600.duration-200.transition.align-top.bg-no-repeat.bg-center.bg-contain.bg-white.border-gray-300.border.rounded-xs.appearance-none.w-4.h-4.float-left.form-check-input
+chatgpt.com##.css-13cymwt-control.react-select__control
+chatgpt.com##.hover\:bg-token-main-surface-tertiary.btn-ghost.relative.btn
+chatgpt.com##.bg-token-main-surface-tertiary.btn-ghost.relative.btn
+chatgpt.com##.table-fixed.border-spacing-0.border-separate.w-full
+chatgpt.com##.lg\:justify-between.md\:items-start.lg\:flex-row.gap-4.flex-col.flex.py-6.mb-4
+chatgpt.com##.lg\:justify-between.md\:items-start.lg\:flex-row.gap-4.flex-col.flex.py-6.mb-4
+chatgpt.com##div.md\:m-0.m-auto.w-full.gap-3.flex-col.flex:nth-of-type(1)
+chatgpt.com##div.md\:m-0.m-auto.w-full.gap-3.flex-col.flex:nth-of-type(2)
+chatgpt.com##.dark\:bg-token-main-surface-secondary.text-token-text-primary.bg-token-main-surface-primary.border-token-border-light.md\:items-center.shadow-xxs.dark\:border-transparent.lg\:mx-auto.\[text-wrap\:pretty\].text-sm.pe-3.ps-5.py-4.border.rounded-3xl.gap-4.items-start.w-full.flex
+chatgpt.com##.flex-row.flex.align-center
+chatgpt.com##button.text-left.rounded-sm.w-full.hover\:bg-token-sidebar-surface-secondary.items-center.group.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus\:ring-0.cursor-pointer.text-sm.p-2\.5.gap-2.flex:nth-of-type(3)
+chatgpt.com##.bg-token-sidebar-surface-secondary.text-left.rounded-sm.w-full.hover\:bg-token-sidebar-surface-secondary.items-center.group.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus\:ring-0.cursor-pointer.text-sm.p-2\.5.gap-2.flex
+chatgpt.com##button.text-left.rounded-sm.w-full.hover\:bg-token-sidebar-surface-secondary.items-center.group.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus\:ring-0.cursor-pointer.text-sm.p-2\.5.gap-2.flex:nth-of-type(4)
+chatgpt.com##button.text-left.rounded-sm.w-full.hover\:bg-token-sidebar-surface-secondary.items-center.group.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus\:ring-0.cursor-pointer.text-sm.p-2\.5.gap-2.flex:nth-of-type(5)
+chatgpt.com##button.text-left.rounded-sm.w-full.hover\:bg-token-sidebar-surface-secondary.items-center.group.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus\:ring-0.cursor-pointer.text-sm.p-2\.5.gap-2.flex:nth-of-type(1)
+chatgpt.com##.cursor-pointer.hover\:bg-token-main-surface-secondary.py-2.px-2.rounded.gap-2.flex-col.flex
+chatgpt.com##circle
+chatgpt.com##.relative > svg
+chatgpt.com##.focus-visible\:outline-0.transition.px-1.rounded-full.justify-center.items-center.w-10.h-10.flex.radix-state-open\:text-token-text-secondary.hover\:bg-token-interactive-bg-secondary-hover.hover\:text-token-text-primary.text-token-text-secondary.user-select-none
+! 10 черв. 2025 р. https://chatgpt.com
+chatgpt.com##.group-focus-visible\:ring-2.rounded-full.justify-center.items-center.w-9.h-9.flex.touch\:w-10.touch\:h-10.group-hover\:bg-token-interactive-bg-secondary-hover
+chatgpt.com##.gap-2.__menu-item.group
+! 12 черв. 2025 р. https://chatgpt.com
+chatgpt.com##.group-focus-visible\:ring-2.rounded-full.justify-center.items-center.w-9.h-9.flex.touch\:w-10.touch\:h-10.group-hover\:bg-token-interactive-bg-secondary-selected
+chatgpt.com##.md\:px-\[60px\].text-xs.text-center.p-2.justify-center.items-center.w-full.min-h-8.flex.mt-auto.relative.text-token-text-secondary > div
+chatgpt.com###snorlax-heading > div.gap-1\.5.hoverable.__menu-item.group
+! 14 вер. 2025 р. https://claude.ai
+claude.ai##.text-start.font-normal.text-text-300.text-xs.truncate.w-full
+chatgpt.com##.group-data-scrolled-from-end\/scrollport\:shadow-\(--sharp-edge-bottom-shadow\).py-1\.5.bg-token-bg-elevated-secondary.empty\:hidden.z-30.bottom-0.sticky > div > .gap-2.hoverable.__menu-item.group
+chatgpt.com##div.gap-1\.5.hoverable.__menu-item.group:nth-of-type(1)
+! 19 вер. 2025 р. https://chatgpt.com
+chatgpt.com##.motion-safe\:duration-150.motion-safe\:transition-colors.focus-visible\:outline-hidden.focus-visible\:ring-offset-transparent.focus-visible\:ring-offset-1.focus-visible\:ring-2.focus-visible\:ring-token-text-tertiary.p-2.border-\[\.5px\].border.border-token-border-default.text-xs.pe-4.ps-4.py-3.rounded-t-2xl.justify-between.items-center.w-full.flex.z-10.relative.hover\:bg-token-main-surface-secondary.text-token-text-primary.sm\:bg-token-main-surface-primary.group
+chatgpt.com##div.gap-1\.5.hoverable.__menu-item.group:nth-of-type(2)
+! Oct 19, 2025 https://chatgpt.com
+chatgpt.com##.group-data-scrolled-from-end\/scrollport\:shadow-\(--sharp-edge-bottom-shadow\).py-1\.5.bg-token-bg-elevated-secondary.empty\:hidden.z-30.bottom-0.sticky > .relative .gap-2.hoverable.__menu-item.group
+chatgpt.com##.motion-safe\:ease-out.motion-safe\:duration-150.motion-safe\:transition-colors.focus-visible\:outline-hidden.focus-visible\:ring-offset-transparent.focus-visible\:ring-offset-1.focus-visible\:ring-\[\#5856D6\].focus-visible\:ring-2.hover\:bg-token-interactive-bg-secondary-hover.font-medium.text-xs.py-2.px-3.border.rounded-full.bg-token-main-surface-primary.gap-1.justify-center.items-center.w-full.flex.border-token-interactive-border-secondary-default
+chatgpt.com##.pb-3.pt-1.px-3\.5
+! 10 черв. 2025 р. https://chatgpt.com
+chatgpt.com##.group-focus-visible\:ring-2.rounded-full.justify-center.items-center.w-9.h-9.flex.touch\:w-10.touch\:h-10.group-hover\:bg-token-interactive-bg-secondary-hover
+chatgpt.com##.gap-2.__menu-item.group
+! 18 лист. 2025 р. https://chatgpt.com
+chatgpt.com##.pb-3.pt-1.px-3\.5
+chatgpt.com##div[aria-label="asdf"][role="button"]
+chatgpt.com##[data-testid="accounts-profile-button"]
+data-testid="accounts-profile-button"
 
 
 
@@ -655,7 +706,11 @@ app.leonardo.ai##a[href^="/api/payments"]
 
 
 
-
+adheart.me/_next_static/banners/header-active-uk.webp$image
+adheart.me/_next_static/banners/active-uk.webp$image
+adheart.me##img[src*="/_next_static/banners/header-active-en.webp"]
+adheart.me##img[src*="/_next_static/banners/active-uk.webp$image"]
+adheart.me##./_next_static/banners/header-active-uk.webp
 
 ! 2023-11-17 https://www.storyblocks.com
 www.storyblocks.com##div.manageAccount-subsection:nth-of-type(1)
@@ -838,7 +893,7 @@ discord.com##.inviteToolbar_c2739c > .divider_fc4f04
 
 
 
-! Sep 14, 2024 https://www.midjourney.com
+MIDJOURNEY
 www.midjourney.com##.md\:p-8.p-4.min-h-screen.w-full.mx-auto
 www.midjourney.com##.buttonActiveBackground.buttonHoverBackground.buttonActiveOpacity.buttonHoverOpacity.dark\:bg-dark-750.p-2.bg-light-50.rounded-full.gap-2.justify-start.items-center.cursor-pointer.shrink.w-full.flex.group.select-none.buttonActiveRing
 www.midjourney.com##.dark\:border-dark-800.border-light-100.border.lg\:max-w-none.dark\:shadow-black\/30.shadow-light-200\/30.shadow-md.lg\:flex.dark\:bg-\[hsl\(228deg_12\%_8\%\)\].transition-\[border\].rounded-3xl.overflow-hidden.flex-col.max-w-lg.h-full.mx-auto > .lg\:p-6.lg\:justify-start.lg\:flex-col.lg\:shrink-0.lg\:flex.text-left.\!pb-8.py-8.px-6.relative > .mt-6 > .dark\:active\:\!ring-dark-600.active\:\!ring-light-950.dark\:active\:bg-dark-750.dark\:hover\:bg-dark-600.active\:bg-light-900.hover\:bg-light-850.text-white.dark\:shadow-button.dark\:bg-dark-700.bg-light-800.disabled\:pointer-events-none.dark\:disabled\:text-dark-500.disabled\:text-light-600.disabled\:bg-opacity-40.select-none.buttonActiveRing.rounded-md.transition.\!text-base.font-medium.w-full.px-1.empty\:hidden.py-2\.5.items-center
@@ -906,18 +961,13 @@ www.midjourney.com##.min-h-screen.w-full.mx-auto
 www.midjourney.com###accountButton > svg
 www.midjourney.com##.buttonActiveBackground.buttonHoverBackground.buttonActiveOpacity.buttonHoverOpacity.dark\:bg-dark-750.p-2.bg-light-50.rounded-full.gap-2.justify-start.items-center.cursor-pointer.shrink.w-full.flex.group.select-none.buttonActiveRing
 
-Убрал создание папок чатгпт
-chatgpt.com##.justify-between.items-center.h-\[26px\].flex > span
-chatgpt.com##.screen-arch\:mb-5.screen-arch\:gap-0\.5.flex-col.flex .h-9.hover\:bg-token-sidebar-surface-secondary.text-token-text-primary.px-2.rounded-lg.gap-2\.5.items-center.w-full.flex
-chatgpt.com##.justify-between.items-center.h-\[26px\].flex
-
 01,02 АДблок дискорд
 discord.com##.scrollerBase_d125d2.none_d125d2.scroller_ef3116
 discord.com##.itemsContainer_ef3116
 discord.com##.tree_ef3116
 discord.com##.guilds_c48ade.wrapper_ef3116
 
-! Feb 5, 2025 https://www.semrush.com
+SEMRUSH
 www.semrush.com##.gridLayout_T6jD.wrapper_JroZ
 www.semrush.com##.gridLayout_T6jD.wrapper_U9EN
 www.semrush.com##.gridLayout_T6jD.wrapper_DlVh
@@ -1064,30 +1114,7 @@ discord.com###channel-attach-THREAD
 discord.com##.basicChannelRowLink__2ea32.link__2ea32
 discord.com##.sectionDivider__629e4
 
-chatgpt.com##.gap-4.justify-between.items-start.flex > .btn-secondary.relative.btn
-chatgpt.com##.underline
-chatgpt.com##.gap-1.flex-col.flex > .text-sm.text-token-text-tertiary
-chatgpt.com###upload-csv-label
-chatgpt.com###add-emails-label
-chatgpt.com##.text-token-text-primary.form-check-label
-chatgpt.com##.cursor-pointer.focus\:outline-hidden.checked\:bg-blue-600.checked\:border-blue-600.duration-200.transition.align-top.bg-no-repeat.bg-center.bg-contain.bg-white.border-gray-300.border.rounded-xs.appearance-none.w-4.h-4.float-left.form-check-input
-chatgpt.com##.css-13cymwt-control.react-select__control
 
-chatgpt.com##.hover\:bg-token-main-surface-tertiary.btn-ghost.relative.btn
-chatgpt.com##.bg-token-main-surface-tertiary.btn-ghost.relative.btn
-chatgpt.com##.table-fixed.border-spacing-0.border-separate.w-full
-chatgpt.com##.lg\:justify-between.md\:items-start.lg\:flex-row.gap-4.flex-col.flex.py-6.mb-4
-chatgpt.com##.lg\:justify-between.md\:items-start.lg\:flex-row.gap-4.flex-col.flex.py-6.mb-4
-chatgpt.com##div.md\:m-0.m-auto.w-full.gap-3.flex-col.flex:nth-of-type(1)
-chatgpt.com##div.md\:m-0.m-auto.w-full.gap-3.flex-col.flex:nth-of-type(2)
-chatgpt.com##.dark\:bg-token-main-surface-secondary.text-token-text-primary.bg-token-main-surface-primary.border-token-border-light.md\:items-center.shadow-xxs.dark\:border-transparent.lg\:mx-auto.\[text-wrap\:pretty\].text-sm.pe-3.ps-5.py-4.border.rounded-3xl.gap-4.items-start.w-full.flex
-chatgpt.com##.flex-row.flex.align-center
-chatgpt.com##button.text-left.rounded-sm.w-full.hover\:bg-token-sidebar-surface-secondary.items-center.group.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus\:ring-0.cursor-pointer.text-sm.p-2\.5.gap-2.flex:nth-of-type(3)
-chatgpt.com##.bg-token-sidebar-surface-secondary.text-left.rounded-sm.w-full.hover\:bg-token-sidebar-surface-secondary.items-center.group.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus\:ring-0.cursor-pointer.text-sm.p-2\.5.gap-2.flex
-chatgpt.com##button.text-left.rounded-sm.w-full.hover\:bg-token-sidebar-surface-secondary.items-center.group.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus\:ring-0.cursor-pointer.text-sm.p-2\.5.gap-2.flex:nth-of-type(4)
-chatgpt.com##button.text-left.rounded-sm.w-full.hover\:bg-token-sidebar-surface-secondary.items-center.group.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus\:ring-0.cursor-pointer.text-sm.p-2\.5.gap-2.flex:nth-of-type(5)
-chatgpt.com##button.text-left.rounded-sm.w-full.hover\:bg-token-sidebar-surface-secondary.items-center.group.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus\:ring-0.cursor-pointer.text-sm.p-2\.5.gap-2.flex:nth-of-type(1)
-chatgpt.com##.cursor-pointer.hover\:bg-token-main-surface-secondary.py-2.px-2.rounded.gap-2.flex-col.flex
 
 ! 10 квіт. 2025 р. https://claude.ai
 claude.ai##.w-full.py-3.text-sm.whitespace-nowrap.active\:scale-\[0\.985\].min-w-\[5rem\].rounded-lg.py-2.px-4.h-9.hover\:after\:translate-y-0.hover\:after\:opacity-100.after\:translate-y-2.after\:duration-200.after\:transition.after\:opacity-0.after\:bg-\[radial-gradient\(at_bottom\,hsla\(var\(--bg-000\)\/20\%\)\,hsla\(var\(--bg-000\)\/0\%\)\)\].after\:inset-0.after\:absolute.backface-hidden.hover\:scale-x-\[1\.005\].hover\:scale-y-\[1\.015\].duration-150.ease-\[cubic-bezier\(0\.165\,0\.85\,0\.45\,1\)\].will-change-transform.transition-transform.font-styrene.font-medium.overflow-hidden.text-bg-000.bg-text-000.disabled\:drop-shadow-none.disabled\:shadow-none.disabled\:opacity-50.disabled\:pointer-events-none.select-none.can-focus.shrink-0.relative.justify-center.items-center.inline-flex
@@ -1200,10 +1227,6 @@ adheart.me##.hJVkXB.sc-4f82743b-3
 adheart.me##.bGJlFr.sc-4f82743b-3
 adheart.me###launcher
 
-! 6 трав. 2025 р. https://chatgpt.com
-chatgpt.com##circle
-chatgpt.com##.relative > svg
-chatgpt.com##.focus-visible\:outline-0.transition.px-1.rounded-full.justify-center.items-center.w-10.h-10.flex.radix-state-open\:text-token-text-secondary.hover\:bg-token-interactive-bg-secondary-hover.hover\:text-token-text-primary.text-token-text-secondary.user-select-none
 
 ! May 12, 2025 https://claude.ai
 claude.ai##.shadow-none.hover\:border-border-200.border-border-300.border.bg-bg-000.rounded-\[0\.6rem\].pr-6.pl-2.h-11.w-full.appearance-none.cursor-pointer.can-focus.transition-colors.py-0.text-text-100
@@ -1237,12 +1260,7 @@ adheart.me##.dBTTkY.sc-aaa02eea-1.hRocGL.sc-c5443e25-3
 
 
 
-! 10 черв. 2025 р. https://chatgpt.com
-chatgpt.com##.group-focus-visible\:ring-2.rounded-full.justify-center.items-center.w-9.h-9.flex.touch\:w-10.touch\:h-10.group-hover\:bg-token-interactive-bg-secondary-hover
-chatgpt.com##.gap-2.__menu-item.group
 
-! 12 черв. 2025 р. https://chatgpt.com
-chatgpt.com##.group-focus-visible\:ring-2.rounded-full.justify-center.items-center.w-9.h-9.flex.touch\:w-10.touch\:h-10.group-hover\:bg-token-interactive-bg-secondary-selected
 
 www.semrush.com##.___SLabel_15grl_gg_
 www.semrush.com##.___SInfo_15grl_gg_
@@ -1380,18 +1398,6 @@ adheart.me##.chAyZf.sc-bda3274a-3
 adheart.me##.dpnIeQ.sc-b2325082-0
 
 
-chatgpt.com##.md\:px-\[60px\].text-xs.text-center.p-2.justify-center.items-center.w-full.min-h-8.flex.mt-auto.relative.text-token-text-secondary > div
-chatgpt.com###snorlax-heading > div.gap-1\.5.hoverable.__menu-item.group
-
-! 14 вер. 2025 р. https://claude.ai
-claude.ai##.text-start.font-normal.text-text-300.text-xs.truncate.w-full
-
-chatgpt.com##.group-data-scrolled-from-end\/scrollport\:shadow-\(--sharp-edge-bottom-shadow\).py-1\.5.bg-token-bg-elevated-secondary.empty\:hidden.z-30.bottom-0.sticky > div > .gap-2.hoverable.__menu-item.group
-chatgpt.com##div.gap-1\.5.hoverable.__menu-item.group:nth-of-type(1)
-
-! 19 вер. 2025 р. https://chatgpt.com
-chatgpt.com##.motion-safe\:duration-150.motion-safe\:transition-colors.focus-visible\:outline-hidden.focus-visible\:ring-offset-transparent.focus-visible\:ring-offset-1.focus-visible\:ring-2.focus-visible\:ring-token-text-tertiary.p-2.border-\[\.5px\].border.border-token-border-default.text-xs.pe-4.ps-4.py-3.rounded-t-2xl.justify-between.items-center.w-full.flex.z-10.relative.hover\:bg-token-main-surface-secondary.text-token-text-primary.sm\:bg-token-main-surface-primary.group
-
 
 
 ! 20 вер. 2025 р. https://www.youtube.com
@@ -1470,30 +1476,6 @@ www.midjourney.com##button.group-button:has(span.relative:has-text(Report))
 sora.chatgpt.com##button.max-w-full.cursor-pointer.active\:text-token-text-secondary.text-token-text-primary.font-medium.py-1\.5.pr-4.pl-3.-mx-3.rounded-full.gap-2.items-center.flex
 
 
-chatgpt.com##div.gap-1\.5.hoverable.__menu-item.group:nth-of-type(2)
-
-
-! Oct 19, 2025 https://chatgpt.com
-chatgpt.com##.group-data-scrolled-from-end\/scrollport\:shadow-\(--sharp-edge-bottom-shadow\).py-1\.5.bg-token-bg-elevated-secondary.empty\:hidden.z-30.bottom-0.sticky > .relative .gap-2.hoverable.__menu-item.group
-chatgpt.com##.motion-safe\:ease-out.motion-safe\:duration-150.motion-safe\:transition-colors.focus-visible\:outline-hidden.focus-visible\:ring-offset-transparent.focus-visible\:ring-offset-1.focus-visible\:ring-\[\#5856D6\].focus-visible\:ring-2.hover\:bg-token-interactive-bg-secondary-hover.font-medium.text-xs.py-2.px-3.border.rounded-full.bg-token-main-surface-primary.gap-1.justify-center.items-center.w-full.flex.border-token-interactive-border-secondary-default
-chatgpt.com##.pb-3.pt-1.px-3\.5
-
-adheart.me/_next_static/banners/header-active-uk.webp$image
-adheart.me/_next_static/banners/active-uk.webp$image
-adheart.me##img[src*="/_next_static/banners/header-active-en.webp"]
-adheart.me##img[src*="/_next_static/banners/active-uk.webp$image"]
-adheart.me##./_next_static/banners/header-active-uk.webp
-
-! 10 черв. 2025 р. https://chatgpt.com
-chatgpt.com##.group-focus-visible\:ring-2.rounded-full.justify-center.items-center.w-9.h-9.flex.touch\:w-10.touch\:h-10.group-hover\:bg-token-interactive-bg-secondary-hover
-chatgpt.com##.gap-2.__menu-item.group
-
-! 18 лист. 2025 р. https://chatgpt.com
-chatgpt.com##.pb-3.pt-1.px-3\.5
-
-chatgpt.com##div[aria-label="asdf"][role="button"]
-chatgpt.com##[data-testid="accounts-profile-button"]
-data-testid="accounts-profile-button"
 
 
 ! 4 груд. 2025 р. https://account.envato.com
