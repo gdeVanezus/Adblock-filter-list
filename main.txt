@@ -190,10 +190,14 @@ adheart.me##div.sc-56b6e2d9-4.khNzKe
 adheart.me##div.sc-826a9f6-0.cRgSyP
 adheart.me##div.sc-84133907-0.gEcAyK:nth-of-type(4)
 adheart.me##div.sc-8546ac26-3.fsQQAV
+adheart.me##div.sc-ef1b00af-3.jxQPtd > span
+adheart.me##div.sc-f2f116ba-0.XvRPD
 adheart.me##div.sc-f9b2c06e-4.fdjfSw
 adheart.me##div.sc-f9b2c06e-5.sc-f9b2c06e-8.eceVKH.eKjRVE
 adheart.me##img.sc-56b6e2d9-1.kPrXxL
 adheart.me##section:nth-of-type(5)
+adheart.me##span[style]
+
 
 
 
