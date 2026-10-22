@@ -181,6 +181,19 @@ adheart.me##div[type]
 adheart.me##.woot-widget-bubble.woot-elements--right
 adheart.me##DIV[class="sc-61dba7e5-4 kmlmJD ml-auto"]
 
+22.10
+adheart.me##button.sc-3f0e448f-6.lckNTX
+adheart.me##button.sc-8546ac26-11.kjhoie
+adheart.me##button[title][style]
+adheart.me##div.sc-56b6e2d9-3.WxSut
+adheart.me##div.sc-56b6e2d9-4.khNzKe
+adheart.me##div.sc-826a9f6-0.cRgSyP
+adheart.me##div.sc-84133907-0.gEcAyK:nth-of-type(4)
+adheart.me##div.sc-8546ac26-3.fsQQAV
+adheart.me##div.sc-f9b2c06e-4.fdjfSw
+adheart.me##div.sc-f9b2c06e-5.sc-f9b2c06e-8.eceVKH.eKjRVE
+adheart.me##img.sc-56b6e2d9-1.kPrXxL
+adheart.me##section:nth-of-type(5)
 
 
 
