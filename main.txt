@@ -665,6 +665,10 @@ www.semrush.com##div.___SFlex_11pya_gg_._use_primary_1lba3_gg_.__use_1lba3_gg_._
 www.semrush.com##div.___SHeader_16yb1_gg_
 www.semrush.com##li.menu-item.active.svelte-ei2261
 www.semrush.com##div.snav-header__trial-badge
+www.semrush.com##div.___SBox_1ipxd_gg_._inAfterOutline_false_1ipxd_gg_.emptyWidget_NuiK.___SBody_188c3_gg_
+www.semrush.com##div.___SFlex_9jxra_gg_.___SBox_1ipxd_gg_._inAfterOutline_false_1ipxd_gg_.___SHeader_188c3_gg_
+www.semrush.com##div.apiColumn_zriQ
+www.semrush.com##div.snav-header__trial-badge
 
 
 
