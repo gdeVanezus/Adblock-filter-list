@@ -26,4 +26,6 @@ analytics.google.com
 accounts.google.com
 workspace.google.com
 
-
+id.gov.ua
+ca.diia.gov.ua
+guide.diia.gov.ua
