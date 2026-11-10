@@ -29,3 +29,12 @@ workspace.google.com
 id.gov.ua
 ca.diia.gov.ua
 guide.diia.gov.ua
+corruptinfo.nazk.gov.ua
+portal.nazk.gov.ua
+wiki.nazk.gov.ua
+nazk.gov.ua
+id.gov.ua
+ca.diia.gov.ua
+guide.diia.gov.ua
+asbn.minjust.gov.ua
+www.bbu.gv.at
