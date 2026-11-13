@@ -197,6 +197,21 @@ adheart.me##img.sc-56b6e2d9-1.kPrXxL
 adheart.me##section:nth-of-type(5)
 adheart.me##span[style]
 
+13.11
+adheart.me##a.DashboardStyled__DashboardLink-sc-d159dd64-0.ghRSPe.orange
+adheart.me##button.MobileDrawerMenu__LogoutButton-sc-7382d393-11.gWPwkJ
+adheart.me##button[title][style]
+adheart.me##div.ChangePassword-styles__ProfileChangePasswordWrap-sc-de613ba8-0.kePncW
+adheart.me##div.HeaderDropdown__Dropdown-sc-8297ddda-0.gJvdqe:nth-of-type(4)
+adheart.me##div.HeaderUser__LogoutIconWrap-sc-368c1299-13.fQEnSK
+adheart.me##div.HeaderUser__UserInfoWrap-sc-368c1299-0.cSSlay
+adheart.me##div.MobileDrawerMenu__AccountCard-sc-7382d393-3.rZCjD
+adheart.me##div.ProfileStyled__ProfileContentWrap-sc-53962c96-5.ProfileStyled__ProfileHistoryWrap-sc-53962c96-8.dcNLpE.LHlGA
+adheart.me##div.ProfileStyled__ProfileLeft-sc-53962c96-4.cfAUQJ
+adheart.me##div.index-styles__Card-sc-6782d37e-0.ibSXIf
+adheart.me##div.user__UserName-sc-642ec005-3.kfRiPD > span
+adheart.me##ul.InfoList-styles__ProfileInfoListWrap-sc-cd9a1b91-0.kBRRvU
+
 
 
 
